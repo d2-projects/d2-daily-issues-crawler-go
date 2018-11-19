@@ -28,6 +28,8 @@ const l5 = `- name: 工具
 `
 const l6 = `- name: 招聘
 `
+const l7 = `- name: 设计
+`
 const l = "list:"
 
 func main() {
@@ -67,6 +69,9 @@ func main() {
 	var slide6 string = `
 - name: 招聘
   list:`
+	var slide7 string = `
+- name: 设计
+  list:`
 
 	var num1 int = 0
 	var num2 int = 0
@@ -74,6 +79,7 @@ func main() {
 	var num4 int = 0
 	var num5 int = 0
 	var num6 int = 0
+	var num7 int = 0
 
 	response := getResponse(basUrl+issuesUrl)
 // 获取issue主页
@@ -134,6 +140,11 @@ func main() {
 					issueString := strings.Trim(s.Text(),l6)
 					slide6 += strings.Trim(issueString,l)
 				}
+				if strings.Contains(s.Text(),l7) {
+					num7 += 1
+					issueString := strings.Trim(s.Text(),l7)
+					slide7 += strings.Trim(issueString,l)
+				}
 
 			})
 		}
@@ -157,6 +168,9 @@ func main() {
 	}
 	if num6>0 {
 		mdContext += slide6
+	}
+	if num7>0 {
+		mdContext += slide7
 	}
 	fmt.Println(mdContext)
 
