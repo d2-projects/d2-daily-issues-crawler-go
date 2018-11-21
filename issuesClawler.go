@@ -16,22 +16,6 @@ const (
 	issuesUrl string = "/d2-projects/d2-awesome/issues"
 )
 
-const l1 = `- name: 新闻
-`
-const l2 = `- name: 开源项目
-`
-const l3 = `- name: 分享
-`
-const l4 = `- name: 教程
-`
-const l5 = `- name: 工具
-`
-const l6 = `- name: 招聘
-`
-const l7 = `- name: 设计
-`
-const l = "list:"
-
 func main() {
 
 	nameString := dayString()
@@ -87,6 +71,7 @@ func main() {
 	if err != nil {
 		log.Fatalf("失败原因", response.StatusCode)
 	}
+
 	dom.Find("a[data-hovercard-type=issue]").Each(func(i int, selection *goquery.Selection) {
 		// 获取issue 的 href
 		href, IsExist := selection.Attr("href")
@@ -110,40 +95,42 @@ func main() {
 				//我准备用最简的办法来做😆，很不优雅
 				//strings.trim函数这里对多行的string存在bug，必须做2次截取
 				//issueString := s.Text()
-				if strings.Contains(s.Text(),l1) {
-					num1 += 1
-					issueString := strings.Trim(s.Text(),l1)
-					slide1 += strings.Trim(issueString,l)
-				}
-				if strings.Contains(s.Text(),l2) {
-					num2 += 1
-					issueString := strings.Trim(s.Text(),l2)
-					slide2 += strings.Trim(issueString,l)
-				}
-				if strings.Contains(s.Text(),l3) {
-					num3 += 1
-					issueString := strings.Trim(s.Text(),l3)
-					slide3 += strings.Trim(issueString,l)
-				}
-				if strings.Contains(s.Text(),l4) {
-					num4 += 1
-					issueString := strings.Trim(s.Text(),l4)
-					slide4 += strings.Trim(issueString,l)
-				}
-				if strings.Contains(s.Text(),l5) {
-					num5 += 1
-					issueString := strings.Trim(s.Text(),l5)
-					slide5 += strings.Trim(issueString,l)
-				}
-				if strings.Contains(s.Text(),l6) {
-					num6 += 1
-					issueString := strings.Trim(s.Text(),l6)
-					slide6 += strings.Trim(issueString,l)
-				}
-				if strings.Contains(s.Text(),l7) {
-					num7 += 1
-					issueString := strings.Trim(s.Text(),l7)
-					slide7 += strings.Trim(issueString,l)
+
+				//2018-11-21 10:32:52 strings.trim处理多行字符串存在bug，重新调整一种方法
+				lineContext := strings.Split(s.Text(), "\n")
+				//fmt.Println(lineContext)
+				if len(lineContext) > 5  {
+					typeArray := strings.Split(lineContext[0], ": ")
+					if len(typeArray) >= 2 {
+						if typeArray[1] == "新闻" {
+							num1 += 1
+							slide1 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
+						}
+						if typeArray[1] == "开源项目" {
+							num2 += 1
+							slide2 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
+						}
+						if typeArray[1] == "分享" {
+							num3 += 1
+							slide3 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
+						}
+						if typeArray[1] == "教程" {
+							num4 += 1
+							slide4 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
+						}
+						if typeArray[1] == "工具" {
+							num5 += 1
+							slide5 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
+						}
+						if typeArray[1] == "招聘" {
+							num6 += 1
+							slide6 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
+						}
+						if typeArray[1] == "设计" {
+							num7 += 1
+							slide7 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
+						}
+					}
 				}
 
 			})
