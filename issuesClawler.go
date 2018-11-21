@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"os/exec"
 	"strings"
 	"time"
 )
@@ -17,67 +18,39 @@ const (
 )
 
 func main() {
-
-	nameString := dayString()
-	dateString := datString()
+	nameString := dayString() //dd
+	dateString := datString() //yyyy.mm.dd
 	filename := nameString + ".md"
-
-	//go文件要在根目录，判断今天的文件是否已经存在
-	//todo 自动创建文件夹，创建目录，修改readme
-	//var dir string = "site/daily/post/2018/10/17.md"
-
-	//create markdown file
+	//go文件要在根目录，todo 判断今天的文件是否已经存在
+	//var dir string = "201810/01.md"
+	mkdir4month(dateString)
+	//create markdown file like 01.md
 	createMarkDown(dateString, filename)
+	//start scrap
+	mdContext := scrape()
+	fmt.Println(mdContext)
+	//keep write
+	writeMdContext(mdContext, filename)
+	//退出目录
+	exitDir()
+	//todo git
+	gitPushDaily(nameString)
+}
 
-	f, err := os.OpenFile(filename, os.O_APPEND|os.O_WRONLY, 0600)
-	if err != nil {
-		panic(err)
-	}
-
-	defer f.Close()
-
-  	var slide1 string = `- name: 新闻
-  list:`
-	var slide2 string = `
-- name: 开源项目
-  list:`
-	var slide3 string = `
-- name: 分享
-  list:`
-	var slide4 string = `
-- name: 教程
-  list:`
-	var slide5 string = `
-- name: 工具
-  list:`
-	var slide6 string = `
-- name: 招聘
-  list:`
-	var slide7 string = `
-- name: 设计
-  list:`
-
-	var num1 int = 0
-	var num2 int = 0
-	var num3 int = 0
-	var num4 int = 0
-	var num5 int = 0
-	var num6 int = 0
-	var num7 int = 0
-
+func scrape() string {
+	//var mdContext string  //
+	mapList := make(map[string]string)
 	response := getResponse(basUrl+issuesUrl)
-// 获取issue主页
+	// 获取issue主页
 	dom, err := goquery.NewDocumentFromReader(response.Body)
 	if err != nil {
 		log.Fatalf("失败原因", response.StatusCode)
 	}
-
 	dom.Find("a[data-hovercard-type=issue]").Each(func(i int, selection *goquery.Selection) {
 		// 获取issue 的 href
 		href, IsExist := selection.Attr("href")
 		fmt.Println(href)
 		if IsExist == true {
-			// 进入issue子页面获取内容
 			href = strings.TrimSpace(href)
 			res := getResponse(basUrl+href)
 			childDom, err := goquery.NewDocumentFromReader(res.Body)
@@ -85,98 +58,107 @@ func main() {
 				log.Fatalf("子页面失败原因", response.StatusCode)
 			}
 			childDom.Find("pre").Each(func(i int, s *goquery.Selection){
-
-				//直接拼接不可
-				//mdContext += s.Text()
-				//fmt.Println(mdContext)
-
-				// 写到这里只是简单的对 issues 的内容作了一个拼接，下面要解决的问题，就是 MapReduce 的问题。
-				//参考 https://github.com/happyer/distributed-computing/blob/master/src/mapreduce/README.md
-				//我准备用最简的办法来做😆，很不优雅
-				//strings.trim函数这里对多行的string存在bug，必须做2次截取
-				//issueString := s.Text()
-
-				//2018-11-21 10:32:52 strings.trim处理多行字符串存在bug，重新调整一种方法
-				lineContext := strings.Split(s.Text(), "\n")
-				//fmt.Println(lineContext)
-				if len(lineContext) > 5  {
-					typeArray := strings.Split(lineContext[0], ": ")
-					if len(typeArray) >= 2 {
-						if typeArray[1] == "新闻" {
-							num1 += 1
-							slide1 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
-						}
-						if typeArray[1] == "开源项目" {
-							num2 += 1
-							slide2 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
-						}
-						if typeArray[1] == "分享" {
-							num3 += 1
-							slide3 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
-						}
-						if typeArray[1] == "教程" {
-							num4 += 1
-							slide4 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
-						}
-						if typeArray[1] == "工具" {
-							num5 += 1
-							slide5 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
-						}
-						if typeArray[1] == "招聘" {
-							num6 += 1
-							slide6 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
-						}
-						if typeArray[1] == "设计" {
-							num7 += 1
-							slide7 += "\n" + lineContext[2]+"\n"+lineContext[3]+"\n"+lineContext[4]
-						}
-					}
+				// shape s.Text into map
+				mapSingleList := shapeText2Map(s.Text())
+				if len(mapSingleList) != 0 {
+					mapList = mapListAdds(mapSingleList,mapList)
 				}
-
 			})
 		}
-
 	})
-	var mdContext string =""
-	if num1>0 {
-		mdContext += slide1
-	}
-	if num2>0 {
-		mdContext += slide2
-	}
-	if num3>0 {
-		mdContext += slide3
-	}
-	if num4>0 {
-		mdContext += slide4
-	}
-	if num5>0 {
-		mdContext += slide5
-	}
-	if num6>0 {
-		mdContext += slide6
-	}
-	if num7>0 {
-		mdContext += slide7
-	}
-	fmt.Println(mdContext)
-
-	var foot string = `
----
-
-<daily-list v-bind="$page.frontmatter"/>`
-	// 写进文件
-	if _, err = f.WriteString(mdContext + foot); err != nil {
-		println(err.Error())
-		panic(err)
-	}
-
-
+	mdContext := map2string(mapList)
+	return mdContext
 }
 
-/**
-* 返回response
-*/
+func shapeText2Map(s string) map[string]string {
+	var m map[string]string
+	m = make(map[string]string)
+	lineContext := strings.Split(s, "\n")
+	//fmt.Println(lineContext)
+	if len(lineContext) >= 5  {
+		typeArray := strings.Split(lineContext[0], ": ")
+		if len(typeArray) >= 2 {
+			key1 := typeArray[1]
+			name := checkNameNode(lineContext[2])
+			node := checkNameNode(lineContext[3])
+			m[key1] = "\n" + name +"\n"+node+"\n"+lineContext[4]
+		}
+	}
+	return m
+}
+
+func checkNameNode(mp string) string {
+	ns := strings.Replace(mp, ": ", "?:?", 1)
+	fs := strings.Replace(ns, ": ", " ", -1)
+	return strings.Replace(fs, "?:?", ": ", 1)
+}
+
+func mapListAdds(mapSingleList map[string]string, mapList map[string]string) map[string]string {
+	if len(mapList) == 0 {
+		for k1, v1 := range mapSingleList {
+			mapList[k1] = v1
+		}
+	} else {
+		for k, v := range mapSingleList {
+			// 查找 key 是否存在
+			if _, ok := mapList[k] ; ok {
+				mapList[k] = mapList[k] + v
+			} else {
+				mapList[k] = v
+			}
+		}
+	}
+	return mapList
+}
+
+func map2string(mapp map[string]string) string{
+	var s string = ""
+	var n string = "- name: "
+	var l string = `  list:`
+	if len(mapp) != 0 {
+		for k, v := range mapp {
+			s += n + k + "\n" + l + v +"\n"
+		}
+		return s
+	} else {
+		return s
+	}
+}
+
+//每月1号自动创建文件夹，创建目录；进入目录
+func mkdir4month(date string) string{
+	dateArray := strings.Split(date,".")
+	dirnam := dateArray[0] + dateArray[1]
+	day := dateArray[2]
+	if day == "01" {
+		cmd := exec.Command("mkdir",dirnam)
+		out, err := cmd.Output()
+		if err != nil {
+			println(err.Error())
+			return dirnam
+		}
+		print(string(out))
+	}
+	return dirnam
+}
+
+func exitDir() {
+	cmd := exec.Command("cd","..")
+	out, err := cmd.Output()
+	if err != nil {
+		println(err.Error())
+		return
+	}
+	print(string(out))
+	cmd2 := exec.Command("pwd")
+	out2, err2 := cmd2.Output()
+	if err2 != nil {
+		println(err2.Error())
+		return
+		print(string(out2))
+	}
+}
+
 func getResponse(url string) *http.Response {
 	client := &http.Client{}
 	request, _ := http.NewRequest("GET", url, nil)
@@ -197,7 +179,7 @@ func dayString() string {
 		dStr = fmt.Sprintf("0%d", d)
 	}
 	fmt.Sprintf("%d-%s", yStr,mStr)
-	return fmt.Sprintf("%s", dStr)
+	return fmt.Sprintf("%d%s%s", y, mStr,dStr)
 
 }
 
@@ -215,8 +197,24 @@ func datString() string {
 
 }
 
-func createMarkDown(date string, filename string) {
+func writeMdContext(md string, fn string) {
+	f, err := os.OpenFile(fn, os.O_APPEND|os.O_WRONLY, 0600)
+	if err != nil {
+		panic(err)
+	}
+	defer f.Close()
+	var foot string = `
+---
 
+<daily-list v-bind="$page.frontmatter"/>`
+	// 写进文件
+	if _, err = f.WriteString(md + foot); err != nil {
+		println(err.Error())
+		panic(err)
+	}
+}
+
+func createMarkDown(date string, filename string) {
 	// open output file
 	fo, err := os.Create(filename)
 	if err != nil {
@@ -255,4 +253,73 @@ list:
 `
 	w.WriteString(strings.Replace(title, "{+dateString+}",date, -1) )
 	w.Flush()
+}
+
+func gitPushDaily(fn string){
+	gitPull()
+	gitAddAll()
+	gitCommit(fn)
+	gitPush()
+}
+
+func gitPull() {
+	app := "git"
+	arg0 := "pull"
+	arg1 := "origin"
+	arg2 := "master"
+	cmd := exec.Command(app, arg0, arg1, arg2)
+	out, err := cmd.Output()
+
+	if err != nil {
+		println(err.Error())
+		return
+	}
+
+	print(string(out))
+}
+
+func gitAddAll() {
+	app := "git"
+	arg0 := "add"
+	arg1 := "."
+	cmd := exec.Command(app, arg0, arg1)
+	out, err := cmd.Output()
+
+	if err != nil {
+		println(err.Error())
+		return
+	}
+
+	print(string(out))
+}
+
+func gitCommit(date string) {
+	app := "git"
+	arg0 := "commit"
+	arg1 := "-am"
+	arg2 := date
+	cmd := exec.Command(app, arg0, arg1, arg2)
+	out, err := cmd.Output()
+
+	if err != nil {
+		println(err.Error())
+		return
+	}
+
+	print(string(out))
+}
+func gitPush() {
+	app := "git"
+	arg0 := "push"
+	arg1 := "origin"
+	arg2 := "master"
+	cmd := exec.Command(app, arg0, arg1, arg2)
+	out, err := cmd.Output()
+
+	if err != nil {
+		println(err.Error())
+		return
+	}
+
+	print(string(out))
 }
