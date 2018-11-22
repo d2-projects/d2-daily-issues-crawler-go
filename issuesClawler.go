@@ -18,23 +18,27 @@ const (
 )
 
 func main() {
-	nameString := dayString() //dd
-	dateString := datString() //yyyy.mm.dd
-	filename := nameString + ".md"
-	//go文件要在根目录，todo 判断今天的文件是否已经存在
-	//var dir string = "201810/01.md"
-	mkdir4month(dateString)
-	//create markdown file like 01.md
-	createMarkDown(dateString, filename)
-	//start scrap
-	mdContext := scrape()
-	fmt.Println(mdContext)
-	//keep write
-	writeMdContext(mdContext, filename)
-	//退出目录
-	exitDir()
-	//todo git
-	gitPushDaily(nameString)
+	ticker := time.NewTicker(time.Hour *6)
+	for _ = range ticker.C {
+		fmt.Println("Ready! Gooo! %v", time.Now())
+		nameString := dayString() //dd
+		dateString := datString() //yyyy.mm.dd
+		filename := nameString + ".md"
+		//go文件要在根目录，todo 判断今天的文件是否已经存在
+		//var dir string = "201810/01.md"
+		mkdir4month(dateString)
+		//create markdown file like 01.md
+		createMarkDown(dateString, filename)
+		//start scrap
+		mdContext := scrape()
+		fmt.Println(mdContext)
+		//keep write
+		writeMdContext(mdContext, filename)
+		//退出目录
+		exitDir()
+		//todo git
+		gitPushDaily(nameString)
+	}
 }
 
 func scrape() string {
