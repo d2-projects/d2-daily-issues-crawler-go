@@ -1,0 +1,16 @@
+Ready! Gooo! %v 2018-11-22 10:03:18.628949054 +0000 UTC m=+21600.002274977
+/d2-projects/d2-awesome/issues/170
+/d2-projects/d2-awesome/issues/168
+- name: 分享
+  list:
+  - name: FairyEver
+    note: FairyEver
+    url: https://fairyever.github.io/blog/
+- name: 开源项目
+  list:
+  - name: AntV 年度发布 · 语雀
+    note: AntV 年度发布 · 语雀
+    url: https://www.yuque.com/antv/blog/2018-release
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
