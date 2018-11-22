@@ -35,3 +35,21 @@ Ready! Gooo! %v 2018-11-22 16:03:18.628591572 +0000 UTC m=+43200.001917356
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master 0fe3a6d] 20181122
+ 1 files changed, 21 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-11-22 22:03:18.628431225 +0000 UTC m=+64800.001757344
+/d2-projects/d2-awesome/issues/170
+/d2-projects/d2-awesome/issues/168
+- name: 开源项目
+  list:
+  - name: AntV 年度发布 · 语雀
+    note: AntV 年度发布 · 语雀
+    url: https://www.yuque.com/antv/blog/2018-release
+- name: 分享
+  list:
+  - name: FairyEver
+    note: FairyEver
+    url: https://fairyever.github.io/blog/
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
