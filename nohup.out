@@ -536,3 +536,23 @@ Ready! Gooo! %v 2018-11-24 10:03:18.628596614 +0000 UTC m=+194400.001922423
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master 5e3759b] 20181124
+ 2 files changed, 54 insertions(+), 96 deletions(-)
+ rewrite 20181124.md (80%)
+Ready! Gooo! %v 2018-11-24 16:03:18.628428051 +0000 UTC m=+216000.001753848
+/d2-projects/d2-awesome/issues/190
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+- name: 教程
+  list:
+  - name: [译]await VS return VS return await - 掘金
+    note: [译]await VS return VS return await - 掘金
+    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
