@@ -736,3 +736,22 @@ Ready! Gooo! %v 2018-11-26 10:03:18.628481049 +0000 UTC m=+367200.001806825
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master 88710ad] 20181126
+ 2 files changed, 53 insertions(+), 70 deletions(-)
+ rewrite 20181126.md (88%)
+Ready! Gooo! %v 2018-11-26 16:03:18.62834911 +0000 UTC m=+388800.001674845
+/d2-projects/d2-awesome/issues/202
+/d2-projects/d2-awesome/issues/201
+- name: 教程
+  list:
+  - name: 跨域资源共享——CORS - 掘金
+    note: 跨域资源共享——CORS - 掘金
+    url: https://juejin.im/post/5bfa5f8e6fb9a049a7117b67#comment
+- name: 分享
+  list:
+  - name: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    note: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    url: https://juejin.im/post/5bfa5a4ce51d451cf6158b38
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
