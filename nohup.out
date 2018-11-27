@@ -773,3 +773,89 @@ Ready! Gooo! %v 2018-11-26 22:03:18.628478016 +0000 UTC m=+410400.001803834
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master 721a410] 20181126
+ 1 files changed, 18 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-11-27 04:03:18.62851207 +0000 UTC m=+432000.001837889
+/d2-projects/d2-awesome/issues/216
+/d2-projects/d2-awesome/issues/215
+/d2-projects/d2-awesome/issues/214
+/d2-projects/d2-awesome/issues/213
+/d2-projects/d2-awesome/issues/212
+/d2-projects/d2-awesome/issues/211
+/d2-projects/d2-awesome/issues/210
+/d2-projects/d2-awesome/issues/209
+/d2-projects/d2-awesome/issues/208
+/d2-projects/d2-awesome/issues/207
+/d2-projects/d2-awesome/issues/206
+/d2-projects/d2-awesome/issues/205
+/d2-projects/d2-awesome/issues/204
+/d2-projects/d2-awesome/issues/203
+/d2-projects/d2-awesome/issues/202
+/d2-projects/d2-awesome/issues/201
+- name: 开源项目
+  list:
+  - name: 使用 Vue.js 开发跨平台应用的前端框架
+    note: dcloudio/uni-app
+    url: https://github.com/dcloudio/uni-app
+  - name: 可视化的图形网络库
+    note: Cytoscape.js
+    url: http://js.cytoscape.org/
+  - name: 猜画小哥的另一种实现 Cool
+    note: 1991viet/QuickDraw
+    url: https://github.com/1991viet/QuickDraw
+  - name: 客户端渲染的静态站点生成器
+    note: chrisdiana/cms.js
+    url: https://github.com/chrisdiana/cms.js
+  - name: surmon-china/vue-awesome-swiper 🏆 Swiper component for @vuejs
+    note: surmon-china/vue-awesome-swiper 🏆 Swiper component for @vuejs
+    url: https://github.com/surmon-china/vue-awesome-swiper
+- name: 设计
+  list:
+  - name: 超过 480 个开源的 Eva icons Vue 组件版
+    note: antonreshetov/vue-eva-icons
+    url: https://github.com/antonreshetov/vue-eva-icons
+- name: 分享
+  list:
+  - name: 月下载量千万的 npm 包被黑客篡改，Vue 开发者可能正在遭受攻击
+    note: justjavac
+    url: https://mp.weixin.qq.com/s/IaOWxG0XLvn2znvvP1dmwA
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230547&idx=1&sn=d6d47f921962f87649785835b1bd82f1#wechat_redirect
+  - name: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    note: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    url: https://juejin.im/post/5bfa5a4ce51d451cf6158b38
+- name: 资源
+  list:
+  - name: Flutter 学习资源集合
+    note: Solido/awesome-flutter
+    url: https://github.com/Solido/awesome-flutter
+  - name: 第二届VueConf
+    note: 第二届VueConf
+    url: https://vue.w3ctech.com/
+- name: 教程
+  list:
+  - name: 一个 git 可视化交互式学习工具
+    note: pcottle/learnGitBranching
+    url: https://github.com/pcottle/learnGitBranching
+  - name: 跨域资源共享——CORS - 掘金
+    note: 跨域资源共享——CORS - 掘金
+    url: https://juejin.im/post/5bfa5f8e6fb9a049a7117b67#comment
+- name: 工具
+  list:
+  - name: cookieY/Yearning Mysql web端sql审核平台
+    url: https://github.com/cookieY/Yearning
+
+  - name: 更强力的 nginx 配置生成工具
+    note: valentinxxx/nginxconfig.io
+    url: https://github.com/valentinxxx/nginxconfig.io
+  - name: 一个进度条工具
+    note: bvaughn/progress-estimator
+    url: https://github.com/bvaughn/progress-estimator
+
+exec: "cd": executable file not found in $PATH
+Updating 721a410..9b25fa2
+Fast-forward
+ LICENSE |   21 +++++++++++++++++++++
+ 1 files changed, 21 insertions(+), 0 deletions(-)
+ create mode 100644 LICENSE
