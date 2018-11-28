@@ -911,3 +911,22 @@ Ready! Gooo! %v 2018-11-28 04:03:18.628489577 +0000 UTC m=+518400.001815375
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master beeb589] 20181128
+ 2 files changed, 77 insertions(+), 0 deletions(-)
+ create mode 100644 20181128.md
+Ready! Gooo! %v 2018-11-28 10:03:18.628593946 +0000 UTC m=+540000.001919818
+/d2-projects/d2-awesome/issues/237
+/d2-projects/d2-awesome/issues/236
+- name: 分享
+  list:
+  - name: MakeGirlsMoe - Create Anime Characters with A.I.!
+    note: MakeGirlsMoe - Create Anime Characters with A.I.!
+    url: https://make.girls.moe/#/
+- name: 开源项目
+  list:
+  - name: notadd/neditor 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
+    note: notadd/neditor 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
+    url: https://github.com/notadd/neditor
+
+exec: "cd": executable file not found in $PATH
+exit status 1
