@@ -10,6 +10,7 @@ import (
 	"os/exec"
 	"strings"
 	"time"
+	"github.com/robfig/cron"
 )
 
 const (
@@ -18,8 +19,19 @@ const (
 )
 
 func main() {
-	ticker := time.NewTicker(time.Hour *6)
-	for _ = range ticker.C {
+	i := 0
+	c := cron.New()
+	spec := "0 0/1 * * * ?"
+	c.AddFunc(spec, func() {
+		i++
+		run()
+	})
+	c.Start()
+	select{}
+}
+
+func run() {
+
 		fmt.Println("Ready! Gooo! %v", time.Now())
 		nameString := dayString() //dd
 		dateString := datString() //yyyy.mm.dd
@@ -39,7 +51,7 @@ func main() {
 		//todo git
 		gitPushDaily(nameString)
 	}
-}
+
 
 func scrape() string {
 	//var mdContext string  //
