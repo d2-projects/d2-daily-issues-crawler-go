@@ -1,0 +1,913 @@
+Ready! Gooo! %v 2018-11-22 10:03:18.628949054 +0000 UTC m=+21600.002274977
+/d2-projects/d2-awesome/issues/170
+/d2-projects/d2-awesome/issues/168
+- name: 分享
+  list:
+  - name: FairyEver
+    note: FairyEver
+    url: https://fairyever.github.io/blog/
+- name: 开源项目
+  list:
+  - name: AntV 年度发布 · 语雀
+    note: AntV 年度发布 · 语雀
+    url: https://www.yuque.com/antv/blog/2018-release
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 39f1270] 20181122
+ 3 files changed, 50 insertions(+), 85 deletions(-)
+ rewrite 20181122.md (87%)
+ create mode 100755 issuesClawler
+ create mode 100644 nohup.out
+Ready! Gooo! %v 2018-11-22 16:03:18.628591572 +0000 UTC m=+43200.001917356
+/d2-projects/d2-awesome/issues/170
+/d2-projects/d2-awesome/issues/168
+- name: 分享
+  list:
+  - name: FairyEver
+    note: FairyEver
+    url: https://fairyever.github.io/blog/
+- name: 开源项目
+  list:
+  - name: AntV 年度发布 · 语雀
+    note: AntV 年度发布 · 语雀
+    url: https://www.yuque.com/antv/blog/2018-release
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 0fe3a6d] 20181122
+ 1 files changed, 21 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-11-22 22:03:18.628431225 +0000 UTC m=+64800.001757344
+/d2-projects/d2-awesome/issues/170
+/d2-projects/d2-awesome/issues/168
+- name: 开源项目
+  list:
+  - name: AntV 年度发布 · 语雀
+    note: AntV 年度发布 · 语雀
+    url: https://www.yuque.com/antv/blog/2018-release
+- name: 分享
+  list:
+  - name: FairyEver
+    note: FairyEver
+    url: https://fairyever.github.io/blog/
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master a17750a] 20181122
+ 2 files changed, 23 insertions(+), 5 deletions(-)
+Ready! Gooo! %v 2018-11-23 04:03:18.628536149 +0000 UTC m=+86400.001862042
+/d2-projects/d2-awesome/issues/185
+/d2-projects/d2-awesome/issues/184
+/d2-projects/d2-awesome/issues/183
+/d2-projects/d2-awesome/issues/182
+/d2-projects/d2-awesome/issues/181
+/d2-projects/d2-awesome/issues/180
+/d2-projects/d2-awesome/issues/179
+/d2-projects/d2-awesome/issues/178
+/d2-projects/d2-awesome/issues/177
+/d2-projects/d2-awesome/issues/176
+/d2-projects/d2-awesome/issues/175
+/d2-projects/d2-awesome/issues/174
+/d2-projects/d2-awesome/issues/173
+/d2-projects/d2-awesome/issues/172
+/d2-projects/d2-awesome/issues/171
+/d2-projects/d2-awesome/issues/170
+/d2-projects/d2-awesome/issues/168
+- name: 开源项目
+  list:
+  - name: Vue 电商 pwa 模板
+    note: DivanteLtd/vue-storefront
+    url: https://github.com/DivanteLtd/vue-storefront
+  - name: react 写的 16 宫格游戏
+    note: imshubhamsingh/15-puzzle
+    url: https://github.com/imshubhamsingh/15-puzzle
+  - name: 最小的但是功能齐全的 serverless 模板
+    note: harijoe/serverless-boilerplate
+    url: https://github.com/harijoe/serverless-boilerplate
+  - name: 快速创建横版游戏 app
+    note: simiancraft/create-phaser-app Phaser 3, Webpack 4, Babel 7+boilerplate and a scaffold
+    url: https://github.com/simiancraft/create-phaser-app
+  - name: React 组件 sky
+    note: CodePen - Sky
+    url: https://codepen.io/lucagez/full/oQoRyK/
+  - name: plouc/nivo nivo 基于awesome d3 和 ReactJs 的数据可视化组件 
+    note: plouc/nivo nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+    url: https://github.com/plouc/nivo
+  - name: wbkd/awesome-d3 可视化插件集合
+    note: wbkd/awesome-d3 A list of D3 libraries, plugins and utilities
+    url: https://github.com/wbkd/awesome-d3
+  - name: AntV 年度发布 · 语雀
+    note: AntV 年度发布 · 语雀
+    url: https://www.yuque.com/antv/blog/2018-release
+- name: 工具
+  list:
+  - name: lllyasviel/style2paints 在线作图
+    note: lllyasviel/style2paints sketch + style = paints 排队~
+    url: https://github.com/lllyasviel/style2paints
+- name: 分享
+  list:
+  - name: infoQ Serverless 的现状和未来
+    note: The Present and Future of Serverless Observability - YouTube
+    url: https://www.youtube.com/watch?v=1yto_VFgvZo
+  - name: 谷歌出品 绘制世界
+    note: World Draw
+    url: https://worlddraw.withgoogle.com/draw
+  - name: 如何用 CircleCI 和 Docker 构建持续集成环境
+    note: How to set up a Continuous Delivery with CircleCI and Docker
+    url: https://www.exoscale.com/syslog/continuous-delivery-circleci/
+  - name: 感恩节 我要感谢的三款开发工具
+    note: Three Developer Tools I'm Thankful For | Okta Developer
+    url: https://developer.okta.com/blog/2018/11/20/three-developer-tools-im-thankful-for
+  - name: FairyEver
+    note: FairyEver
+    url: https://fairyever.github.io/blog/
+- name: MeetUp
+  list:
+  - name: CodinGame 2019开发者调查
+    note: CodinGame Developer Survey 2019
+    url: https://codingamedevelopersurvey2019.evalandgo.com/s/?id=JTk2byU5OGolOTklQTk=&a=JTk3ayU5OHAlOUE=
+  - name: 报名 12月4号和作者Martin Fowler对话 代码重构第二版
+    note: Martin Fowler Refactoring 2nd Edition Book Launch Webinar Registration
+    url: https://info.thoughtworks.com/refactoring_book_launch_webinar_registration.html?utm_source=facebook&utm_medium=social&utm_campaign=refactoring
+- name: 资源
+  list:
+  - name: 2018年十本免费必读编程书籍
+    note: 10 Free Programming Books You Should Read in 2018 - Tutorialzine
+    url: https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 0f36cac] 20181123
+ 2 files changed, 169 insertions(+), 0 deletions(-)
+ create mode 100644 20181123.md
+Ready! Gooo! %v 2018-11-23 10:03:18.628560447 +0000 UTC m=+108000.001886256
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+/d2-projects/d2-awesome/issues/186
+/d2-projects/d2-awesome/issues/185
+/d2-projects/d2-awesome/issues/184
+/d2-projects/d2-awesome/issues/183
+/d2-projects/d2-awesome/issues/182
+/d2-projects/d2-awesome/issues/181
+/d2-projects/d2-awesome/issues/180
+/d2-projects/d2-awesome/issues/179
+/d2-projects/d2-awesome/issues/178
+/d2-projects/d2-awesome/issues/177
+/d2-projects/d2-awesome/issues/176
+/d2-projects/d2-awesome/issues/175
+/d2-projects/d2-awesome/issues/174
+/d2-projects/d2-awesome/issues/173
+/d2-projects/d2-awesome/issues/172
+/d2-projects/d2-awesome/issues/171
+/d2-projects/d2-awesome/issues/170
+/d2-projects/d2-awesome/issues/168
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+  - name: infoQ Serverless 的现状和未来
+    note: The Present and Future of Serverless Observability - YouTube
+    url: https://www.youtube.com/watch?v=1yto_VFgvZo
+  - name: 谷歌出品 绘制世界
+    note: World Draw
+    url: https://worlddraw.withgoogle.com/draw
+  - name: 如何用 CircleCI 和 Docker 构建持续集成环境
+    note: How to set up a Continuous Delivery with CircleCI and Docker
+    url: https://www.exoscale.com/syslog/continuous-delivery-circleci/
+  - name: 感恩节 我要感谢的三款开发工具
+    note: Three Developer Tools I'm Thankful For | Okta Developer
+    url: https://developer.okta.com/blog/2018/11/20/three-developer-tools-im-thankful-for
+  - name: FairyEver
+    note: FairyEver
+    url: https://fairyever.github.io/blog/
+- name: 工具
+  list:
+  - name: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
+    note: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
+    url: https://github.com/Molunerfinn/PicGo
+  - name: lllyasviel/style2paints 在线作图
+    note: lllyasviel/style2paints sketch + style = paints 排队~
+    url: https://github.com/lllyasviel/style2paints
+- name: 开源项目
+  list:
+  - name: Vue 电商 pwa 模板
+    note: DivanteLtd/vue-storefront
+    url: https://github.com/DivanteLtd/vue-storefront
+  - name: react 写的 16 宫格游戏
+    note: imshubhamsingh/15-puzzle
+    url: https://github.com/imshubhamsingh/15-puzzle
+  - name: 最小的但是功能齐全的 serverless 模板
+    note: harijoe/serverless-boilerplate
+    url: https://github.com/harijoe/serverless-boilerplate
+  - name: 快速创建横版游戏 app
+    note: simiancraft/create-phaser-app Phaser 3, Webpack 4, Babel 7+boilerplate and a scaffold
+    url: https://github.com/simiancraft/create-phaser-app
+  - name: React 组件 sky
+    note: CodePen - Sky
+    url: https://codepen.io/lucagez/full/oQoRyK/
+  - name: plouc/nivo nivo 基于awesome d3 和 ReactJs 的数据可视化组件 
+    note: plouc/nivo nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+    url: https://github.com/plouc/nivo
+  - name: wbkd/awesome-d3 可视化插件集合
+    note: wbkd/awesome-d3 A list of D3 libraries, plugins and utilities
+    url: https://github.com/wbkd/awesome-d3
+  - name: AntV 年度发布 · 语雀
+    note: AntV 年度发布 · 语雀
+    url: https://www.yuque.com/antv/blog/2018-release
+- name: MeetUp
+  list:
+  - name: CodinGame 2019开发者调查
+    note: CodinGame Developer Survey 2019
+    url: https://codingamedevelopersurvey2019.evalandgo.com/s/?id=JTk2byU5OGolOTklQTk=&a=JTk3ayU5OHAlOUE=
+  - name: 报名 12月4号和作者Martin Fowler对话 代码重构第二版
+    note: Martin Fowler Refactoring 2nd Edition Book Launch Webinar Registration
+    url: https://info.thoughtworks.com/refactoring_book_launch_webinar_registration.html?utm_source=facebook&utm_medium=social&utm_campaign=refactoring
+- name: 资源
+  list:
+  - name: 2018年十本免费必读编程书籍
+    note: 10 Free Programming Books You Should Read in 2018 - Tutorialzine
+    url: https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 65c260f] 20181123
+ 2 files changed, 122 insertions(+), 22 deletions(-)
+Ready! Gooo! %v 2018-11-23 16:03:18.628467054 +0000 UTC m=+129600.001793066
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+/d2-projects/d2-awesome/issues/186
+/d2-projects/d2-awesome/issues/185
+/d2-projects/d2-awesome/issues/184
+/d2-projects/d2-awesome/issues/183
+/d2-projects/d2-awesome/issues/182
+/d2-projects/d2-awesome/issues/181
+/d2-projects/d2-awesome/issues/180
+/d2-projects/d2-awesome/issues/179
+/d2-projects/d2-awesome/issues/178
+/d2-projects/d2-awesome/issues/177
+/d2-projects/d2-awesome/issues/176
+/d2-projects/d2-awesome/issues/175
+/d2-projects/d2-awesome/issues/174
+/d2-projects/d2-awesome/issues/173
+/d2-projects/d2-awesome/issues/172
+/d2-projects/d2-awesome/issues/171
+/d2-projects/d2-awesome/issues/170
+/d2-projects/d2-awesome/issues/168
+- name: 工具
+  list:
+  - name: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
+    note: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
+    url: https://github.com/Molunerfinn/PicGo
+  - name: lllyasviel/style2paints 在线作图
+    note: lllyasviel/style2paints sketch + style = paints 排队~
+    url: https://github.com/lllyasviel/style2paints
+- name: 开源项目
+  list:
+  - name: Vue 电商 pwa 模板
+    note: DivanteLtd/vue-storefront
+    url: https://github.com/DivanteLtd/vue-storefront
+  - name: react 写的 16 宫格游戏
+    note: imshubhamsingh/15-puzzle
+    url: https://github.com/imshubhamsingh/15-puzzle
+  - name: 最小的但是功能齐全的 serverless 模板
+    note: harijoe/serverless-boilerplate
+    url: https://github.com/harijoe/serverless-boilerplate
+  - name: 快速创建横版游戏 app
+    note: simiancraft/create-phaser-app Phaser 3, Webpack 4, Babel 7+boilerplate and a scaffold
+    url: https://github.com/simiancraft/create-phaser-app
+  - name: React 组件 sky
+    note: CodePen - Sky
+    url: https://codepen.io/lucagez/full/oQoRyK/
+  - name: plouc/nivo nivo 基于awesome d3 和 ReactJs 的数据可视化组件 
+    note: plouc/nivo nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+    url: https://github.com/plouc/nivo
+  - name: wbkd/awesome-d3 可视化插件集合
+    note: wbkd/awesome-d3 A list of D3 libraries, plugins and utilities
+    url: https://github.com/wbkd/awesome-d3
+  - name: AntV 年度发布 · 语雀
+    note: AntV 年度发布 · 语雀
+    url: https://www.yuque.com/antv/blog/2018-release
+- name: MeetUp
+  list:
+  - name: CodinGame 2019开发者调查
+    note: CodinGame Developer Survey 2019
+    url: https://codingamedevelopersurvey2019.evalandgo.com/s/?id=JTk2byU5OGolOTklQTk=&a=JTk3ayU5OHAlOUE=
+  - name: 报名 12月4号和作者Martin Fowler对话 代码重构第二版
+    note: Martin Fowler Refactoring 2nd Edition Book Launch Webinar Registration
+    url: https://info.thoughtworks.com/refactoring_book_launch_webinar_registration.html?utm_source=facebook&utm_medium=social&utm_campaign=refactoring
+- name: 资源
+  list:
+  - name: 2018年十本免费必读编程书籍
+    note: 10 Free Programming Books You Should Read in 2018 - Tutorialzine
+    url: https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+  - name: infoQ Serverless 的现状和未来
+    note: The Present and Future of Serverless Observability - YouTube
+    url: https://www.youtube.com/watch?v=1yto_VFgvZo
+  - name: 谷歌出品 绘制世界
+    note: World Draw
+    url: https://worlddraw.withgoogle.com/draw
+  - name: 如何用 CircleCI 和 Docker 构建持续集成环境
+    note: How to set up a Continuous Delivery with CircleCI and Docker
+    url: https://www.exoscale.com/syslog/continuous-delivery-circleci/
+  - name: 感恩节 我要感谢的三款开发工具
+    note: Three Developer Tools I'm Thankful For | Okta Developer
+    url: https://developer.okta.com/blog/2018/11/20/three-developer-tools-im-thankful-for
+  - name: FairyEver
+    note: FairyEver
+    url: https://fairyever.github.io/blog/
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 5e9f225] 20181123
+ 2 files changed, 113 insertions(+), 20 deletions(-)
+Ready! Gooo! %v 2018-11-23 22:03:18.628481702 +0000 UTC m=+151200.001807512
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+/d2-projects/d2-awesome/issues/186
+/d2-projects/d2-awesome/issues/185
+/d2-projects/d2-awesome/issues/184
+/d2-projects/d2-awesome/issues/183
+/d2-projects/d2-awesome/issues/182
+/d2-projects/d2-awesome/issues/181
+/d2-projects/d2-awesome/issues/180
+/d2-projects/d2-awesome/issues/179
+/d2-projects/d2-awesome/issues/178
+/d2-projects/d2-awesome/issues/177
+/d2-projects/d2-awesome/issues/176
+/d2-projects/d2-awesome/issues/175
+/d2-projects/d2-awesome/issues/174
+/d2-projects/d2-awesome/issues/173
+/d2-projects/d2-awesome/issues/172
+/d2-projects/d2-awesome/issues/171
+/d2-projects/d2-awesome/issues/170
+/d2-projects/d2-awesome/issues/168
+- name: MeetUp
+  list:
+  - name: CodinGame 2019开发者调查
+    note: CodinGame Developer Survey 2019
+    url: https://codingamedevelopersurvey2019.evalandgo.com/s/?id=JTk2byU5OGolOTklQTk=&a=JTk3ayU5OHAlOUE=
+  - name: 报名 12月4号和作者Martin Fowler对话 代码重构第二版
+    note: Martin Fowler Refactoring 2nd Edition Book Launch Webinar Registration
+    url: https://info.thoughtworks.com/refactoring_book_launch_webinar_registration.html?utm_source=facebook&utm_medium=social&utm_campaign=refactoring
+- name: 资源
+  list:
+  - name: 2018年十本免费必读编程书籍
+    note: 10 Free Programming Books You Should Read in 2018 - Tutorialzine
+    url: https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+  - name: infoQ Serverless 的现状和未来
+    note: The Present and Future of Serverless Observability - YouTube
+    url: https://www.youtube.com/watch?v=1yto_VFgvZo
+  - name: 谷歌出品 绘制世界
+    note: World Draw
+    url: https://worlddraw.withgoogle.com/draw
+  - name: 如何用 CircleCI 和 Docker 构建持续集成环境
+    note: How to set up a Continuous Delivery with CircleCI and Docker
+    url: https://www.exoscale.com/syslog/continuous-delivery-circleci/
+  - name: 感恩节 我要感谢的三款开发工具
+    note: Three Developer Tools I'm Thankful For | Okta Developer
+    url: https://developer.okta.com/blog/2018/11/20/three-developer-tools-im-thankful-for
+  - name: FairyEver
+    note: FairyEver
+    url: https://fairyever.github.io/blog/
+- name: 工具
+  list:
+  - name: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
+    note: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
+    url: https://github.com/Molunerfinn/PicGo
+  - name: lllyasviel/style2paints 在线作图
+    note: lllyasviel/style2paints sketch + style = paints 排队~
+    url: https://github.com/lllyasviel/style2paints
+- name: 开源项目
+  list:
+  - name: Vue 电商 pwa 模板
+    note: DivanteLtd/vue-storefront
+    url: https://github.com/DivanteLtd/vue-storefront
+  - name: react 写的 16 宫格游戏
+    note: imshubhamsingh/15-puzzle
+    url: https://github.com/imshubhamsingh/15-puzzle
+  - name: 最小的但是功能齐全的 serverless 模板
+    note: harijoe/serverless-boilerplate
+    url: https://github.com/harijoe/serverless-boilerplate
+  - name: 快速创建横版游戏 app
+    note: simiancraft/create-phaser-app Phaser 3, Webpack 4, Babel 7+boilerplate and a scaffold
+    url: https://github.com/simiancraft/create-phaser-app
+  - name: React 组件 sky
+    note: CodePen - Sky
+    url: https://codepen.io/lucagez/full/oQoRyK/
+  - name: plouc/nivo nivo 基于awesome d3 和 ReactJs 的数据可视化组件 
+    note: plouc/nivo nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+    url: https://github.com/plouc/nivo
+  - name: wbkd/awesome-d3 可视化插件集合
+    note: wbkd/awesome-d3 A list of D3 libraries, plugins and utilities
+    url: https://github.com/wbkd/awesome-d3
+  - name: AntV 年度发布 · 语雀
+    note: AntV 年度发布 · 语雀
+    url: https://www.yuque.com/antv/blog/2018-release
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 54577e3] 20181123
+ 2 files changed, 126 insertions(+), 33 deletions(-)
+Ready! Gooo! %v 2018-11-24 04:03:18.628535038 +0000 UTC m=+172800.001860940
+/d2-projects/d2-awesome/issues/190
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+/d2-projects/d2-awesome/issues/186
+/d2-projects/d2-awesome/issues/185
+/d2-projects/d2-awesome/issues/184
+/d2-projects/d2-awesome/issues/183
+/d2-projects/d2-awesome/issues/182
+/d2-projects/d2-awesome/issues/181
+/d2-projects/d2-awesome/issues/180
+/d2-projects/d2-awesome/issues/179
+/d2-projects/d2-awesome/issues/178
+/d2-projects/d2-awesome/issues/177
+/d2-projects/d2-awesome/issues/176
+/d2-projects/d2-awesome/issues/175
+/d2-projects/d2-awesome/issues/174
+/d2-projects/d2-awesome/issues/173
+/d2-projects/d2-awesome/issues/172
+/d2-projects/d2-awesome/issues/171
+/d2-projects/d2-awesome/issues/170
+/d2-projects/d2-awesome/issues/168
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+  - name: infoQ Serverless 的现状和未来
+    note: The Present and Future of Serverless Observability - YouTube
+    url: https://www.youtube.com/watch?v=1yto_VFgvZo
+  - name: 谷歌出品 绘制世界
+    note: World Draw
+    url: https://worlddraw.withgoogle.com/draw
+  - name: 如何用 CircleCI 和 Docker 构建持续集成环境
+    note: How to set up a Continuous Delivery with CircleCI and Docker
+    url: https://www.exoscale.com/syslog/continuous-delivery-circleci/
+  - name: 感恩节 我要感谢的三款开发工具
+    note: Three Developer Tools I'm Thankful For | Okta Developer
+    url: https://developer.okta.com/blog/2018/11/20/three-developer-tools-im-thankful-for
+  - name: FairyEver
+    note: FairyEver
+    url: https://fairyever.github.io/blog/
+- name: 工具
+  list:
+  - name: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
+    note: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
+    url: https://github.com/Molunerfinn/PicGo
+  - name: lllyasviel/style2paints 在线作图
+    note: lllyasviel/style2paints sketch + style = paints 排队~
+    url: https://github.com/lllyasviel/style2paints
+- name: 开源项目
+  list:
+  - name: Vue 电商 pwa 模板
+    note: DivanteLtd/vue-storefront
+    url: https://github.com/DivanteLtd/vue-storefront
+  - name: react 写的 16 宫格游戏
+    note: imshubhamsingh/15-puzzle
+    url: https://github.com/imshubhamsingh/15-puzzle
+  - name: 最小的但是功能齐全的 serverless 模板
+    note: harijoe/serverless-boilerplate
+    url: https://github.com/harijoe/serverless-boilerplate
+  - name: 快速创建横版游戏 app
+    note: simiancraft/create-phaser-app Phaser 3, Webpack 4, Babel 7+boilerplate and a scaffold
+    url: https://github.com/simiancraft/create-phaser-app
+  - name: React 组件 sky
+    note: CodePen - Sky
+    url: https://codepen.io/lucagez/full/oQoRyK/
+  - name: plouc/nivo nivo 基于awesome d3 和 ReactJs 的数据可视化组件 
+    note: plouc/nivo nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+    url: https://github.com/plouc/nivo
+  - name: wbkd/awesome-d3 可视化插件集合
+    note: wbkd/awesome-d3 A list of D3 libraries, plugins and utilities
+    url: https://github.com/wbkd/awesome-d3
+  - name: AntV 年度发布 · 语雀
+    note: AntV 年度发布 · 语雀
+    url: https://www.yuque.com/antv/blog/2018-release
+- name: MeetUp
+  list:
+  - name: CodinGame 2019开发者调查
+    note: CodinGame Developer Survey 2019
+    url: https://codingamedevelopersurvey2019.evalandgo.com/s/?id=JTk2byU5OGolOTklQTk=&a=JTk3ayU5OHAlOUE=
+  - name: 报名 12月4号和作者Martin Fowler对话 代码重构第二版
+    note: Martin Fowler Refactoring 2nd Edition Book Launch Webinar Registration
+    url: https://info.thoughtworks.com/refactoring_book_launch_webinar_registration.html?utm_source=facebook&utm_medium=social&utm_campaign=refactoring
+- name: 资源
+  list:
+  - name: 2018年十本免费必读编程书籍
+    note: 10 Free Programming Books You Should Read in 2018 - Tutorialzine
+    url: https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018
+- name: 教程
+  list:
+  - name: [译]await VS return VS return await - 掘金
+    note: [译]await VS return VS return await - 掘金
+    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 6406611] 20181124
+ 2 files changed, 195 insertions(+), 0 deletions(-)
+ create mode 100644 20181124.md
+Ready! Gooo! %v 2018-11-24 10:03:18.628596614 +0000 UTC m=+194400.001922423
+/d2-projects/d2-awesome/issues/190
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+- name: 教程
+  list:
+  - name: [译]await VS return VS return await - 掘金
+    note: [译]await VS return VS return await - 掘金
+    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 5e3759b] 20181124
+ 2 files changed, 54 insertions(+), 96 deletions(-)
+ rewrite 20181124.md (80%)
+Ready! Gooo! %v 2018-11-24 16:03:18.628428051 +0000 UTC m=+216000.001753848
+/d2-projects/d2-awesome/issues/190
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+- name: 教程
+  list:
+  - name: [译]await VS return VS return await - 掘金
+    note: [译]await VS return VS return await - 掘金
+    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master d14c751] 20181124
+ 1 files changed, 20 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-11-24 22:03:18.628414282 +0000 UTC m=+237600.001740089
+/d2-projects/d2-awesome/issues/190
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+- name: 教程
+  list:
+  - name: [译]await VS return VS return await - 掘金
+    note: [译]await VS return VS return await - 掘金
+    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master b399443] 20181124
+ 2 files changed, 24 insertions(+), 5 deletions(-)
+Ready! Gooo! %v 2018-11-25 04:03:18.628457572 +0000 UTC m=+259200.001783284
+/d2-projects/d2-awesome/issues/190
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+- name: 教程
+  list:
+  - name: [译]await VS return VS return await - 掘金
+    note: [译]await VS return VS return await - 掘金
+    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master a9c4b05] 20181125
+ 2 files changed, 53 insertions(+), 0 deletions(-)
+ create mode 100644 20181125.md
+Ready! Gooo! %v 2018-11-25 10:03:18.62861635 +0000 UTC m=+280800.001942324
+/d2-projects/d2-awesome/issues/190
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+- name: 教程
+  list:
+  - name: [译]await VS return VS return await - 掘金
+    note: [译]await VS return VS return await - 掘金
+    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master c743ebc] 20181125
+ 2 files changed, 25 insertions(+), 5 deletions(-)
+Ready! Gooo! %v 2018-11-25 16:03:18.628478518 +0000 UTC m=+302400.001804289
+/d2-projects/d2-awesome/issues/190
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+- name: 教程
+  list:
+  - name: [译]await VS return VS return await - 掘金
+    note: [译]await VS return VS return await - 掘金
+    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master fe90831] 20181125
+ 2 files changed, 24 insertions(+), 5 deletions(-)
+Ready! Gooo! %v 2018-11-25 22:03:18.628347841 +0000 UTC m=+324000.001673669
+/d2-projects/d2-awesome/issues/190
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+- name: 教程
+  list:
+  - name: [译]await VS return VS return await - 掘金
+    note: [译]await VS return VS return await - 掘金
+    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+- name: 分享
+  list:
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master e71b1fc] 20181125
+ 1 files changed, 19 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-11-26 04:03:18.628491216 +0000 UTC m=+345600.001816989
+/d2-projects/d2-awesome/issues/200
+/d2-projects/d2-awesome/issues/199
+/d2-projects/d2-awesome/issues/198
+/d2-projects/d2-awesome/issues/197
+/d2-projects/d2-awesome/issues/196
+/d2-projects/d2-awesome/issues/195
+/d2-projects/d2-awesome/issues/194
+/d2-projects/d2-awesome/issues/193
+/d2-projects/d2-awesome/issues/192
+/d2-projects/d2-awesome/issues/191
+/d2-projects/d2-awesome/issues/190
+/d2-projects/d2-awesome/issues/189
+/d2-projects/d2-awesome/issues/188
+- name: 工具
+  list:
+  - name: 🕷 调试 API 的时候发现 Chrome 和 Firefox 显示纯 JSON 的方式，还是火狐好看一些。不过发现了一个 Chrome 插件：JSON Viewer，链接：https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?utm_source=chrome-ntp-icon 对于请求下来的是纯 JSON 文件的内容，JSON Viewer 可以将其「美化」，并加上语法高亮，这样就不用看 Chrome 原来没格式化的纯文本了。下面示例：①Firefox 显示的 JSON、②Chrome 无插件显示的 JSON、③Chrome 安装了 JSON Viewer 后显示的 JSON - 即刻App
+    note: 🕷 调试 API 的时候发现 Chrome 和 Firefox 显示纯 JSON 的方式，还是火狐好看一些。不过发现了一个 Chrome 插件：JSON Viewer，链接：https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?utm_source=chrome-ntp-icon 对于请求下来的是纯 JSON 文件的内容，JSON Viewer 可以将其「美化」，并加上语法高亮，这样就不用看 Chrome 原来没格式化的纯文本了。下面示例：①Firefox 显示的 JSON、②Chrome 无插件显示的 JSON、③Chrome 安装了 JSON Viewer 后显示的 JSON - 即刻App
+    url: https://m.okjike.com/originalPosts/5bfa321ad250cd0017c33498?username=BBF01865-F880-4977-B754-2F66F8A97692&share_distinct_id=1674d685817638-02eea7f2e63ca-7a7f3365-304704-1674d68581879f&share_depth=1
+- name: 教程
+  list:
+  - name: GraphQL newbie tutorial - Schema definition | GraphQL Blog
+    note: GraphQL newbie tutorial - Schema definition | GraphQL Blog
+    url: https://blog.graphqleditor.com/GraphQL-newbie-tutorial-Schema-Definition-SDL/
+  - name: Getting started with Docker #1 – ITNEXT
+    note: Getting started with Docker #1 – ITNEXT
+    url: https://itnext.io/getting-started-with-docker-1-b4dc83e64389
+  - name: [译]await VS return VS return await - 掘金
+    note: [译]await VS return VS return await - 掘金
+    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+- name: 招聘
+  list:
+  - name: 前端之巅
+    note: 前端之巅
+    url: https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect
+- name: 分享
+  list:
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/n9Q-b65Zya5bxlM6F3v-tQ
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230525&idx=1&sn=99f1cd18de1593c4f602cfde5f6d29a7#wechat_redirect
+  - name: 奇舞周刊
+    note: 奇舞周刊
+    url: https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ%3D%3D&mid=2650588573&idx=1&sn=c71d7b8d8da4e4eca07a1f1b94177eec#wechat_redirect
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230534&idx=1&sn=25761fb0d218c3f11dd97662fbad0f0a#wechat_redirect
+  - name: 12 CSS 3D Text Effects - 前端 - 掘金
+    note: 12 CSS 3D Text Effects - 前端 - 掘金
+    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+- name: 设计
+  list:
+  - name: rsuite/README_zh.md at master · rsuite/rsuite
+    note: rsuite/README_zh.md at master · rsuite/rsuite
+    url: https://github.com/rsuite/rsuite/blob/master/README_zh.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+  - name: AdminLTE/README.md at master · almasaeed2010/AdminLTE · GitHub
+    note: AdminLTE/README.md at master · almasaeed2010/AdminLTE · GitHub
+    url: https://github.com/almasaeed2010/AdminLTE/blob/master/README.md
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master a975ea8] 20181126
+ 2 files changed, 135 insertions(+), 0 deletions(-)
+ create mode 100644 20181126.md
+Ready! Gooo! %v 2018-11-26 10:03:18.628481049 +0000 UTC m=+367200.001806825
+/d2-projects/d2-awesome/issues/202
+/d2-projects/d2-awesome/issues/201
+- name: 教程
+  list:
+  - name: 跨域资源共享——CORS - 掘金
+    note: 跨域资源共享——CORS - 掘金
+    url: https://juejin.im/post/5bfa5f8e6fb9a049a7117b67#comment
+- name: 分享
+  list:
+  - name: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    note: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    url: https://juejin.im/post/5bfa5a4ce51d451cf6158b38
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 88710ad] 20181126
+ 2 files changed, 53 insertions(+), 70 deletions(-)
+ rewrite 20181126.md (88%)
+Ready! Gooo! %v 2018-11-26 16:03:18.62834911 +0000 UTC m=+388800.001674845
+/d2-projects/d2-awesome/issues/202
+/d2-projects/d2-awesome/issues/201
+- name: 教程
+  list:
+  - name: 跨域资源共享——CORS - 掘金
+    note: 跨域资源共享——CORS - 掘金
+    url: https://juejin.im/post/5bfa5f8e6fb9a049a7117b67#comment
+- name: 分享
+  list:
+  - name: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    note: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    url: https://juejin.im/post/5bfa5a4ce51d451cf6158b38
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 7016f17] 20181126
+ 1 files changed, 19 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-11-26 22:03:18.628478016 +0000 UTC m=+410400.001803834
+/d2-projects/d2-awesome/issues/202
+/d2-projects/d2-awesome/issues/201
+- name: 教程
+  list:
+  - name: 跨域资源共享——CORS - 掘金
+    note: 跨域资源共享——CORS - 掘金
+    url: https://juejin.im/post/5bfa5f8e6fb9a049a7117b67#comment
+- name: 分享
+  list:
+  - name: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    note: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    url: https://juejin.im/post/5bfa5a4ce51d451cf6158b38
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 721a410] 20181126
+ 1 files changed, 18 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-11-27 04:03:18.62851207 +0000 UTC m=+432000.001837889
+/d2-projects/d2-awesome/issues/216
+/d2-projects/d2-awesome/issues/215
+/d2-projects/d2-awesome/issues/214
+/d2-projects/d2-awesome/issues/213
+/d2-projects/d2-awesome/issues/212
+/d2-projects/d2-awesome/issues/211
+/d2-projects/d2-awesome/issues/210
+/d2-projects/d2-awesome/issues/209
+/d2-projects/d2-awesome/issues/208
+/d2-projects/d2-awesome/issues/207
+/d2-projects/d2-awesome/issues/206
+/d2-projects/d2-awesome/issues/205
+/d2-projects/d2-awesome/issues/204
+/d2-projects/d2-awesome/issues/203
+/d2-projects/d2-awesome/issues/202
+/d2-projects/d2-awesome/issues/201
+- name: 开源项目
+  list:
+  - name: 使用 Vue.js 开发跨平台应用的前端框架
+    note: dcloudio/uni-app
+    url: https://github.com/dcloudio/uni-app
+  - name: 可视化的图形网络库
+    note: Cytoscape.js
+    url: http://js.cytoscape.org/
+  - name: 猜画小哥的另一种实现 Cool
+    note: 1991viet/QuickDraw
+    url: https://github.com/1991viet/QuickDraw
+  - name: 客户端渲染的静态站点生成器
+    note: chrisdiana/cms.js
+    url: https://github.com/chrisdiana/cms.js
+  - name: surmon-china/vue-awesome-swiper 🏆 Swiper component for @vuejs
+    note: surmon-china/vue-awesome-swiper 🏆 Swiper component for @vuejs
+    url: https://github.com/surmon-china/vue-awesome-swiper
+- name: 设计
+  list:
+  - name: 超过 480 个开源的 Eva icons Vue 组件版
+    note: antonreshetov/vue-eva-icons
+    url: https://github.com/antonreshetov/vue-eva-icons
+- name: 分享
+  list:
+  - name: 月下载量千万的 npm 包被黑客篡改，Vue 开发者可能正在遭受攻击
+    note: justjavac
+    url: https://mp.weixin.qq.com/s/IaOWxG0XLvn2znvvP1dmwA
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230547&idx=1&sn=d6d47f921962f87649785835b1bd82f1#wechat_redirect
+  - name: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    note: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
+    url: https://juejin.im/post/5bfa5a4ce51d451cf6158b38
+- name: 资源
+  list:
+  - name: Flutter 学习资源集合
+    note: Solido/awesome-flutter
+    url: https://github.com/Solido/awesome-flutter
+  - name: 第二届VueConf
+    note: 第二届VueConf
+    url: https://vue.w3ctech.com/
+- name: 教程
+  list:
+  - name: 一个 git 可视化交互式学习工具
+    note: pcottle/learnGitBranching
+    url: https://github.com/pcottle/learnGitBranching
+  - name: 跨域资源共享——CORS - 掘金
+    note: 跨域资源共享——CORS - 掘金
+    url: https://juejin.im/post/5bfa5f8e6fb9a049a7117b67#comment
+- name: 工具
+  list:
+  - name: cookieY/Yearning Mysql web端sql审核平台
+    url: https://github.com/cookieY/Yearning
+
+  - name: 更强力的 nginx 配置生成工具
+    note: valentinxxx/nginxconfig.io
+    url: https://github.com/valentinxxx/nginxconfig.io
+  - name: 一个进度条工具
+    note: bvaughn/progress-estimator
+    url: https://github.com/bvaughn/progress-estimator
+
+exec: "cd": executable file not found in $PATH
+Updating 721a410..9b25fa2
+Fast-forward
+ LICENSE |   21 +++++++++++++++++++++
+ 1 files changed, 21 insertions(+), 0 deletions(-)
+ create mode 100644 LICENSE
+[master 17e4e56] 20181127
+ 2 files changed, 170 insertions(+), 0 deletions(-)
+ create mode 100644 20181127.md
+Ready! Gooo! %v 2018-11-27 10:03:18.628482709 +0000 UTC m=+453600.001808467
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 910025b] 20181127
+ 2 files changed, 31 insertions(+), 84 deletions(-)
+ rewrite 20181127.md (85%)
+Ready! Gooo! %v 2018-11-27 16:03:18.628369854 +0000 UTC m=+475200.001695636
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 0a6ba15] 20181127
+ 1 files changed, 7 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-11-27 22:03:18.628411171 +0000 UTC m=+496800.001737209
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 7b58f30] 20181127
+ 1 files changed, 6 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-11-28 04:03:18.628489577 +0000 UTC m=+518400.001815375
+/d2-projects/d2-awesome/issues/223
+/d2-projects/d2-awesome/issues/222
+/d2-projects/d2-awesome/issues/221
+/d2-projects/d2-awesome/issues/220
+/d2-projects/d2-awesome/issues/219
+- name: 分享
+  list:
+  - name: Cookie 知识二则 - 知乎
+    note: Cookie 知识二则 - 知乎
+    url: https://zhuanlan.zhihu.com/p/50541175
+  - name: 奇舞周刊
+    note: 奇舞周刊
+    url: https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ%3D%3D&mid=2650588583&idx=1&sn=00daad54eebfe86775282628c0599626#wechat_redirect
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect
+- name: 教程
+  list:
+  - name: HTTP/3 详解
+    note: Introduction · HTTP/3 explained
+    url: https://http3-explained.haxx.se/zh/
+- name: 工具
+  list:
+  - name: Scatter Stocks
+    note: Scatter Stocks
+    url: https://scatterstocks.com/index.html?symbols=AAPL,GOOGL,DVMT,MSFT,AMZN&events=QXBwbGXigJlzIEhvbWVQb2QgSGFzIEFycml2ZWQuIERvbuKAmXQgUnVzaCB0byBCdXkgSXQuLTAyLzA2LzIwMThAIUBBcHBsZSBIaXJlcyBHb29nbGXigJlzIEEuSS4gQ2hpZWYtMDQvMDMvMjAxOEAhQA==
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
