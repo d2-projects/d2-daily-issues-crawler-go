@@ -21,7 +21,7 @@ const (
 func main() {
 	i := 0
 	c := cron.New()
-	spec := "0 0 12 * * ?"
+	spec := "0 0 12-14 * * ?"
 	c.AddFunc(spec, func() {
 		i++
 		run()
