@@ -315,3 +315,40 @@ exit status 1
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master ef872c4] 20181201
+ 1 files changed, 38 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-01 14:00:00.000334297 +0800 CST m=+178391.231526080
+exit status 1
+/d2-projects/d2-awesome/issues/256
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
+- name: 分享
+  list:
+  - name: undefined
+    note: undefined
+    url: undefined
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
+- name: 新闻
+  list:
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
+- name: 开源项目
+  list:
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
