@@ -352,3 +352,47 @@ exit status 1
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master 3ff1021] 20181201
+ 1 files changed, 37 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-02 12:00:00.001101946 +0800 CST m=+257591.232293768
+/d2-projects/d2-awesome/issues/258
+/d2-projects/d2-awesome/issues/257
+/d2-projects/d2-awesome/issues/256
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
+- name: 新闻
+  list:
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
+- name: 开源项目
+  list:
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
+- name: 分享
+  list:
+  - name: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    note: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    url: https://zhuanlan.zhihu.com/p/51331026?utm_source=wechat_timeline&utm_medium=social&from=timeline&isappinstalled=0#showWechatShareTip
+  - name: 一位工作了 10 年的 Java 高级架构师的技术之路
+    note: 码洞
+    url: https://mp.weixin.qq.com/s/9wfEJvU_ON6gq71L9Oni7g
+  - name: undefined
+    note: undefined
+    url: undefined
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
