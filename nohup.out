@@ -610,3 +610,15 @@ Ready! Gooo! %v 2018-12-03 13:00:00.000732995 +0800 CST m=+347591.231924804
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master eb5cf1e] 20181203
+ 1 files changed, 63 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-03 14:00:00.000232699 +0800 CST m=+351191.231424546
+/d2-projects/d2-awesome/issues/263
+- name: 分享
+  list:
+  - name: 如何优雅处理前端异常？ - Jartto's blog
+    note: 如何优雅处理前端异常？ - Jartto's blog
+    url: http://jartto.wang/2018/11/20/js-exception-handling/
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
