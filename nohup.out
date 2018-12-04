@@ -657,3 +657,38 @@ Ready! Gooo! %v 2018-12-04 12:00:00.001000121 +0800 CST m=+430391.232191905
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master 65fb2f3] 20181204
+ 2 files changed, 81 insertions(+), 0 deletions(-)
+ create mode 100644 20181204.md
+Ready! Gooo! %v 2018-12-04 13:00:00.000779515 +0800 CST m=+433991.231971690
+/d2-projects/d2-awesome/issues/270
+/d2-projects/d2-awesome/issues/267
+/d2-projects/d2-awesome/issues/266
+/d2-projects/d2-awesome/issues/265
+/d2-projects/d2-awesome/issues/264
+/d2-projects/d2-awesome/issues/263
+- name: 开源项目
+  list:
+  - name: a54552239/projectManage
+    note: 基于Vue.js实现的项目管理系统
+    url: https://github.com/a54552239/projectManage
+  - name: ParadeTo/vue-tree-list
+    note: A vue component for tree structure
+    url: https://github.com/ParadeTo/vue-tree-list
+  - name: bolasblack/http-api-guide
+    note: 
+    url: https://github.com/bolasblack/http-api-guide
+  - name: alibaba/DataX
+    note: 
+    url: https://github.com/alibaba/DataX
+- name: 分享
+  list:
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/qmwf1qqIcROd6h-LWm2gQQ
+  - name: 如何优雅处理前端异常？ - Jartto's blog
+    note: 如何优雅处理前端异常？ - Jartto's blog
+    url: http://jartto.wang/2018/11/20/js-exception-handling/
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
