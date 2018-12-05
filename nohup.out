@@ -723,3 +723,50 @@ Ready! Gooo! %v 2018-12-05 12:00:00.001090292 +0800 CST m=+516791.232282347
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master c21ad23] 20181205
+ 2 files changed, 64 insertions(+), 0 deletions(-)
+ create mode 100644 20181205.md
+Ready! Gooo! %v 2018-12-05 13:00:00.001107968 +0800 CST m=+520391.232299779
+/d2-projects/d2-awesome/issues/279
+/d2-projects/d2-awesome/issues/278
+/d2-projects/d2-awesome/issues/277
+/d2-projects/d2-awesome/issues/276
+/d2-projects/d2-awesome/issues/275
+/d2-projects/d2-awesome/issues/274
+/d2-projects/d2-awesome/issues/272
+/d2-projects/d2-awesome/issues/271
+- name: 开源项目
+  list:
+  - name: algorithm-visualizer/algorithm-visualizer
+    note: Interactive Online Platform that Visualizes Algorithms from Code
+    url: https://github.com/algorithm-visualizer/algorithm-visualizer
+  - name: zhoushaw/Instagram
+    note: A web-app with some feature like Instagram!!😉📸😊
+    url: https://github.com/zhoushaw/Instagram
+  - name: vladocar/screenshoteer
+    note: Make website screenshots and mobile emulations from the command line.
+    url: https://github.com/vladocar/screenshoteer
+- name: 新闻
+  list:
+  - name: Google’s cross-platform Flutter UI toolkit hits version 1.0 | TechCrunch
+    note: Google’s cross-platform Flutter UI toolkit hits version 1.0 | TechCrunch
+    url: https://techcrunch.com/2018/12/04/googles-cross-platform-flutter-ui-toolkit-hits-version-1-0/
+  - name: Release v6.0.0 · reduxjs/react-redux
+    note: 
+    url: https://github.com/reduxjs/react-redux/releases/tag/v6.0.0
+- name: 分享
+  list:
+  - name: 为什么要避免写 for 循环 - 掘金
+    note: 为什么要避免写 for 循环 - 掘金
+    url: https://juejin.im/post/5c0463226fb9a049bc4c67c0
+- name: 工具
+  list:
+  - name: eamodio/vscode-gitlens
+    note: Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+    url: https://github.com/eamodio/vscode-gitlens
+  - name: darkreader/darkreader
+    note: Dark Reader Chrome and Firefox extension
+    url: https://github.com/darkreader/darkreader
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
