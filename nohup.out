@@ -698,3 +698,28 @@ Ready! Gooo! %v 2018-12-04 14:00:00.000270975 +0800 CST m=+437591.231462790
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master 25b9933] 20181204
+ 2 files changed, 30 insertions(+), 46 deletions(-)
+ rewrite 20181204.md (65%)
+Ready! Gooo! %v 2018-12-05 12:00:00.001090292 +0800 CST m=+516791.232282347
+/d2-projects/d2-awesome/issues/274
+/d2-projects/d2-awesome/issues/272
+/d2-projects/d2-awesome/issues/271
+- name: 开源项目
+  list:
+  - name: vladocar/screenshoteer
+    note: Make website screenshots and mobile emulations from the command line.
+    url: https://github.com/vladocar/screenshoteer
+- name: 新闻
+  list:
+  - name: Release v6.0.0 · reduxjs/react-redux
+    note: 
+    url: https://github.com/reduxjs/react-redux/releases/tag/v6.0.0
+- name: 分享
+  list:
+  - name: 为什么要避免写 for 循环 - 掘金
+    note: 为什么要避免写 for 循环 - 掘金
+    url: https://juejin.im/post/5c0463226fb9a049bc4c67c0
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
