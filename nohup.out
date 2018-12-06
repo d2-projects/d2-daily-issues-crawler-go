@@ -822,3 +822,45 @@ Ready! Gooo! %v 2018-12-05 14:00:00.000450515 +0800 CST m=+523991.231642291
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master ee8c717] 20181205
+ 2 files changed, 57 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-06 12:00:00.000984128 +0800 CST m=+603191.232176125
+/d2-projects/d2-awesome/issues/287
+/d2-projects/d2-awesome/issues/286
+/d2-projects/d2-awesome/issues/285
+/d2-projects/d2-awesome/issues/284
+/d2-projects/d2-awesome/issues/283
+/d2-projects/d2-awesome/issues/282
+/d2-projects/d2-awesome/issues/281
+- name: 新闻
+  list:
+  - name: Chromium 或将一统浏览器内核？微软也投奔 Chromium 怀抱
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/XLhjR6Z3fKuUSpjdDf5QHQ
+- name: 分享
+  list:
+  - name: Hummingbird 在Web上运行Flutter应用
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/ykcLufh9W2DIa5mByGCkoQ
+  - name: 深入理解 CSS linear-gradient
+    note: 奇舞周刊
+    url: https://mp.weixin.qq.com/s/Ot0tqtPUiqjX0mrOWhXAEg
+- name: 设计
+  list:
+  - name: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    note: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    url: https://github.com/alexpate/awesome-design-systems
+- name: 开源项目
+  list:
+  - name: Akryum/vue-virtual-scroller
+    note: ⚡️ Blazing fast scrolling for any amount of data
+    url: https://github.com/Akryum/vue-virtual-scroller
+  - name: llh911001/mostly-adequate-guide-chinese
+    note: JS 函数式编程指南中文版
+    url: https://github.com/llh911001/mostly-adequate-guide-chinese
+  - name: vuejs/vue-touch
+    note: Hammer.js wrapper for Vue.js
+    url: https://github.com/vuejs/vue-touch
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
