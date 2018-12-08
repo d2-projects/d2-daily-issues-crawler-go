@@ -1122,3 +1122,15 @@ Ready! Gooo! %v 2018-12-08 13:00:00.102413695 +0800 CST m=+779591.333605759
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master 6cc24f7] 20181208
+ 1 files changed, 13 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-08 14:00:00.000567279 +0800 CST m=+783191.231759020
+/d2-projects/d2-awesome/issues/294
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
