@@ -1134,3 +1134,21 @@ Ready! Gooo! %v 2018-12-08 14:00:00.000567279 +0800 CST m=+783191.231759020
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master c620f86] 20181208
+ 1 files changed, 12 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-09 12:00:00.001072613 +0800 CST m=+862391.232264446
+/d2-projects/d2-awesome/issues/295
+/d2-projects/d2-awesome/issues/294
+- name: 开源项目
+  list:
+  - name: ratiw/vue-table
+    note: data table simplify! -- vuetable is a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+    url: https://github.com/ratiw/vue-table
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
