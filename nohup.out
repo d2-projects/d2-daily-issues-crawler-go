@@ -1218,3 +1218,33 @@ Ready! Gooo! %v 2018-12-10 12:00:00.0017453 +0800 CST m=+948791.232937168
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master da0e36a] 20181210
+ 2 files changed, 71 insertions(+), 0 deletions(-)
+ create mode 100644 20181210.md
+Ready! Gooo! %v 2018-12-10 13:00:00.001135904 +0800 CST m=+952391.232327755
+/d2-projects/d2-awesome/issues/298
+/d2-projects/d2-awesome/issues/297
+/d2-projects/d2-awesome/issues/296
+/d2-projects/d2-awesome/issues/295
+/d2-projects/d2-awesome/issues/294
+- name: 开源项目
+  list:
+  - name: MisterBooo/LeetCodeAnimation
+    note: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+    url: https://github.com/MisterBooo/LeetCodeAnimation
+  - name: ratiw/vue-table
+    note: data table simplify! -- vuetable is a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+    url: https://github.com/ratiw/vue-table
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+- name: 分享
+  list:
+  - name: 技术琐话
+    note: 技术琐话
+    url: https://mp.weixin.qq.com/s/P1eWtcPaIWZO4Mccno0apQ
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
