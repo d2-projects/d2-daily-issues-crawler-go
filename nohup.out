@@ -1,913 +1,1418 @@
-Ready! Gooo! %v 2018-11-22 10:03:18.628949054 +0000 UTC m=+21600.002274977
-/d2-projects/d2-awesome/issues/170
-/d2-projects/d2-awesome/issues/168
+./issuesClawler: ./issuesClawler: cannot execute binary file
+./issuesClawler: ./issuesClawler: cannot execute binary file
+./issuesClawler: ./issuesClawler: cannot execute binary file
+nohup: ignoring input
+Ready! Gooo! %v 2018-11-29 12:00:00.001479459 +0800 CST m=+9658.883798779
+/d2-projects/d2-awesome/issues/243
+/d2-projects/d2-awesome/issues/242
+/d2-projects/d2-awesome/issues/241
+/d2-projects/d2-awesome/issues/240
+/d2-projects/d2-awesome/issues/239
+/d2-projects/d2-awesome/issues/238
+/d2-projects/d2-awesome/issues/237
+/d2-projects/d2-awesome/issues/236
+- name: 开源项目
+  list:
+  - name: notadd/neditor 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
+    note: notadd/neditor 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
+    url: https://github.com/notadd/neditor
 - name: 分享
   list:
-  - name: FairyEver
-    note: FairyEver
-    url: https://fairyever.github.io/blog/
-- name: 开源项目
+  - name: UC国际技术
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s?__biz=MzU0Nzk1MTg5OA==&mid=2247484459&idx=1&sn=af40c897b9a8bdbb110c0ec6ff189f96&chksm=fb47c05ecc304948b90f6a03d79f9a0c9373a7005273edfaaa93a52e4a935a73b039a792bfbc&xtrack=1&scene=90&sessionid=1543406791&ascene=56&devicetype=android-24&version=2607033a&nettype=cmnet&abtest_cookie=BQABAAoACwANABIAFAAFACOXHgBXmR4AiJkeAJuZHgChmR4AAAA%3D&lang=zh_CN&pass_ticket=UnnbkAO9u%2BNkR5baIe5KP10mGoFLACmEI2l7Cx9h0PM%3D&wx_header=1
+  - name: 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
+    note: 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
+    url: https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=1&sn=1f6f1de7316f7a57c3209b6faa1ed9a4#wechat_redirect
+  - name: MakeGirlsMoe - Create Anime Characters with A.I.!
+    note: MakeGirlsMoe - Create Anime Characters with A.I.!
+    url: https://make.girls.moe/#/
+- name: 教程
   list:
-  - name: AntV 年度发布 · 语雀
-    note: AntV 年度发布 · 语雀
-    url: https://www.yuque.com/antv/blog/2018-release
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master 39f1270] 20181122
- 3 files changed, 50 insertions(+), 85 deletions(-)
- rewrite 20181122.md (87%)
- create mode 100755 issuesClawler
- create mode 100644 nohup.out
-Ready! Gooo! %v 2018-11-22 16:03:18.628591572 +0000 UTC m=+43200.001917356
-/d2-projects/d2-awesome/issues/170
-/d2-projects/d2-awesome/issues/168
-- name: 分享
-  list:
-  - name: FairyEver
-    note: FairyEver
-    url: https://fairyever.github.io/blog/
-- name: 开源项目
-  list:
-  - name: AntV 年度发布 · 语雀
-    note: AntV 年度发布 · 语雀
-    url: https://www.yuque.com/antv/blog/2018-release
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master 0fe3a6d] 20181122
- 1 files changed, 21 insertions(+), 0 deletions(-)
-Ready! Gooo! %v 2018-11-22 22:03:18.628431225 +0000 UTC m=+64800.001757344
-/d2-projects/d2-awesome/issues/170
-/d2-projects/d2-awesome/issues/168
-- name: 开源项目
-  list:
-  - name: AntV 年度发布 · 语雀
-    note: AntV 年度发布 · 语雀
-    url: https://www.yuque.com/antv/blog/2018-release
-- name: 分享
-  list:
-  - name: FairyEver
-    note: FairyEver
-    url: https://fairyever.github.io/blog/
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master a17750a] 20181122
- 2 files changed, 23 insertions(+), 5 deletions(-)
-Ready! Gooo! %v 2018-11-23 04:03:18.628536149 +0000 UTC m=+86400.001862042
-/d2-projects/d2-awesome/issues/185
-/d2-projects/d2-awesome/issues/184
-/d2-projects/d2-awesome/issues/183
-/d2-projects/d2-awesome/issues/182
-/d2-projects/d2-awesome/issues/181
-/d2-projects/d2-awesome/issues/180
-/d2-projects/d2-awesome/issues/179
-/d2-projects/d2-awesome/issues/178
-/d2-projects/d2-awesome/issues/177
-/d2-projects/d2-awesome/issues/176
-/d2-projects/d2-awesome/issues/175
-/d2-projects/d2-awesome/issues/174
-/d2-projects/d2-awesome/issues/173
-/d2-projects/d2-awesome/issues/172
-/d2-projects/d2-awesome/issues/171
-/d2-projects/d2-awesome/issues/170
-/d2-projects/d2-awesome/issues/168
-- name: 开源项目
-  list:
-  - name: Vue 电商 pwa 模板
-    note: DivanteLtd/vue-storefront
-    url: https://github.com/DivanteLtd/vue-storefront
-  - name: react 写的 16 宫格游戏
-    note: imshubhamsingh/15-puzzle
-    url: https://github.com/imshubhamsingh/15-puzzle
-  - name: 最小的但是功能齐全的 serverless 模板
-    note: harijoe/serverless-boilerplate
-    url: https://github.com/harijoe/serverless-boilerplate
-  - name: 快速创建横版游戏 app
-    note: simiancraft/create-phaser-app Phaser 3, Webpack 4, Babel 7+boilerplate and a scaffold
-    url: https://github.com/simiancraft/create-phaser-app
-  - name: React 组件 sky
-    note: CodePen - Sky
-    url: https://codepen.io/lucagez/full/oQoRyK/
-  - name: plouc/nivo nivo 基于awesome d3 和 ReactJs 的数据可视化组件 
-    note: plouc/nivo nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
-    url: https://github.com/plouc/nivo
-  - name: wbkd/awesome-d3 可视化插件集合
-    note: wbkd/awesome-d3 A list of D3 libraries, plugins and utilities
-    url: https://github.com/wbkd/awesome-d3
-  - name: AntV 年度发布 · 语雀
-    note: AntV 年度发布 · 语雀
-    url: https://www.yuque.com/antv/blog/2018-release
+  - name: How to automatic Dark Mode upon sunset including Safari, iTerm, Vim in macOS – Marginalia by Apostolos Papadopoulos
+    note: How to automatic Dark Mode upon sunset including Safari, iTerm, Vim in macOS – Marginalia by Apostolos Papadopoulos
+    url: http://apas.gr/2018/11/dark-mode-macos-safari-iterm-vim/
 - name: 工具
   list:
-  - name: lllyasviel/style2paints 在线作图
-    note: lllyasviel/style2paints sketch + style = paints 排队~
-    url: https://github.com/lllyasviel/style2paints
-- name: 分享
-  list:
-  - name: infoQ Serverless 的现状和未来
-    note: The Present and Future of Serverless Observability - YouTube
-    url: https://www.youtube.com/watch?v=1yto_VFgvZo
-  - name: 谷歌出品 绘制世界
-    note: World Draw
-    url: https://worlddraw.withgoogle.com/draw
-  - name: 如何用 CircleCI 和 Docker 构建持续集成环境
-    note: How to set up a Continuous Delivery with CircleCI and Docker
-    url: https://www.exoscale.com/syslog/continuous-delivery-circleci/
-  - name: 感恩节 我要感谢的三款开发工具
-    note: Three Developer Tools I'm Thankful For | Okta Developer
-    url: https://developer.okta.com/blog/2018/11/20/three-developer-tools-im-thankful-for
-  - name: FairyEver
-    note: FairyEver
-    url: https://fairyever.github.io/blog/
-- name: MeetUp
-  list:
-  - name: CodinGame 2019开发者调查
-    note: CodinGame Developer Survey 2019
-    url: https://codingamedevelopersurvey2019.evalandgo.com/s/?id=JTk2byU5OGolOTklQTk=&a=JTk3ayU5OHAlOUE=
-  - name: 报名 12月4号和作者Martin Fowler对话 代码重构第二版
-    note: Martin Fowler Refactoring 2nd Edition Book Launch Webinar Registration
-    url: https://info.thoughtworks.com/refactoring_book_launch_webinar_registration.html?utm_source=facebook&utm_medium=social&utm_campaign=refactoring
-- name: 资源
-  list:
-  - name: 2018年十本免费必读编程书籍
-    note: 10 Free Programming Books You Should Read in 2018 - Tutorialzine
-    url: https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018
+  - name: Create compelling Documentation with Github Pages – ITNEXT
+    note: Create compelling Documentation with Github Pages – ITNEXT
+    url: https://itnext.io/create-compelling-documentation-with-github-pages-16e4149efe9e
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master 0f36cac] 20181123
- 2 files changed, 169 insertions(+), 0 deletions(-)
- create mode 100644 20181123.md
-Ready! Gooo! %v 2018-11-23 10:03:18.628560447 +0000 UTC m=+108000.001886256
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
-/d2-projects/d2-awesome/issues/186
-/d2-projects/d2-awesome/issues/185
-/d2-projects/d2-awesome/issues/184
-/d2-projects/d2-awesome/issues/183
-/d2-projects/d2-awesome/issues/182
-/d2-projects/d2-awesome/issues/181
-/d2-projects/d2-awesome/issues/180
-/d2-projects/d2-awesome/issues/179
-/d2-projects/d2-awesome/issues/178
-/d2-projects/d2-awesome/issues/177
-/d2-projects/d2-awesome/issues/176
-/d2-projects/d2-awesome/issues/175
-/d2-projects/d2-awesome/issues/174
-/d2-projects/d2-awesome/issues/173
-/d2-projects/d2-awesome/issues/172
-/d2-projects/d2-awesome/issues/171
-/d2-projects/d2-awesome/issues/170
-/d2-projects/d2-awesome/issues/168
+[master 7047076] 20181129
+ 3 files changed, 98 insertions(+), 932 deletions(-)
+ create mode 100644 20181129.md
+ rewrite nohup.out (97%)
+nohup: ignoring input
+Ready! Gooo! %v 2018-11-29 13:00:00.000698778 +0800 CST m=+1991.231890593
+/d2-projects/d2-awesome/issues/246
+/d2-projects/d2-awesome/issues/245
+/d2-projects/d2-awesome/issues/244
+/d2-projects/d2-awesome/issues/243
+/d2-projects/d2-awesome/issues/242
+/d2-projects/d2-awesome/issues/241
+/d2-projects/d2-awesome/issues/240
+/d2-projects/d2-awesome/issues/239
+/d2-projects/d2-awesome/issues/238
+/d2-projects/d2-awesome/issues/237
+/d2-projects/d2-awesome/issues/236
+- name: 设计
+  list:
+  - name: Conversational UI - UI Movement
+    note: Conversational UI - UI Movement
+    url: https://uimovement.com/ui/6734/conversational-ui/
+  - name: Interfilm - UI Movement
+    note: Interfilm - UI Movement
+    url: https://uimovement.com/ui/6730/interfilm/
 - name: 分享
   list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
-  - name: infoQ Serverless 的现状和未来
-    note: The Present and Future of Serverless Observability - YouTube
-    url: https://www.youtube.com/watch?v=1yto_VFgvZo
-  - name: 谷歌出品 绘制世界
-    note: World Draw
-    url: https://worlddraw.withgoogle.com/draw
-  - name: 如何用 CircleCI 和 Docker 构建持续集成环境
-    note: How to set up a Continuous Delivery with CircleCI and Docker
-    url: https://www.exoscale.com/syslog/continuous-delivery-circleci/
-  - name: 感恩节 我要感谢的三款开发工具
-    note: Three Developer Tools I'm Thankful For | Okta Developer
-    url: https://developer.okta.com/blog/2018/11/20/three-developer-tools-im-thankful-for
-  - name: FairyEver
-    note: FairyEver
-    url: https://fairyever.github.io/blog/
+  - name: React Hooks 深入不浅出 - 掘金
+    note: React Hooks 深入不浅出 - 掘金
+    url: https://juejin.im/post/5bfe93566fb9a049c30af2db?from=timeline&isappinstalled=0
+  - name: UC国际技术
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s?__biz=MzU0Nzk1MTg5OA==&mid=2247484459&idx=1&sn=af40c897b9a8bdbb110c0ec6ff189f96&chksm=fb47c05ecc304948b90f6a03d79f9a0c9373a7005273edfaaa93a52e4a935a73b039a792bfbc&xtrack=1&scene=90&sessionid=1543406791&ascene=56&devicetype=android-24&version=2607033a&nettype=cmnet&abtest_cookie=BQABAAoACwANABIAFAAFACOXHgBXmR4AiJkeAJuZHgChmR4AAAA%3D&lang=zh_CN&pass_ticket=UnnbkAO9u%2BNkR5baIe5KP10mGoFLACmEI2l7Cx9h0PM%3D&wx_header=1
+  - name: 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
+    note: 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
+    url: https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=1&sn=1f6f1de7316f7a57c3209b6faa1ed9a4#wechat_redirect
+  - name: MakeGirlsMoe - Create Anime Characters with A.I.!
+    note: MakeGirlsMoe - Create Anime Characters with A.I.!
+    url: https://make.girls.moe/#/
+- name: 教程
+  list:
+  - name: How to automatic Dark Mode upon sunset including Safari, iTerm, Vim in macOS – Marginalia by Apostolos Papadopoulos
+    note: How to automatic Dark Mode upon sunset including Safari, iTerm, Vim in macOS – Marginalia by Apostolos Papadopoulos
+    url: http://apas.gr/2018/11/dark-mode-macos-safari-iterm-vim/
 - name: 工具
   list:
-  - name: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
-    note: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
-    url: https://github.com/Molunerfinn/PicGo
-  - name: lllyasviel/style2paints 在线作图
-    note: lllyasviel/style2paints sketch + style = paints 排队~
-    url: https://github.com/lllyasviel/style2paints
+  - name: Create compelling Documentation with Github Pages – ITNEXT
+    note: Create compelling Documentation with Github Pages – ITNEXT
+    url: https://itnext.io/create-compelling-documentation-with-github-pages-16e4149efe9e
 - name: 开源项目
   list:
-  - name: Vue 电商 pwa 模板
-    note: DivanteLtd/vue-storefront
-    url: https://github.com/DivanteLtd/vue-storefront
-  - name: react 写的 16 宫格游戏
-    note: imshubhamsingh/15-puzzle
-    url: https://github.com/imshubhamsingh/15-puzzle
-  - name: 最小的但是功能齐全的 serverless 模板
-    note: harijoe/serverless-boilerplate
-    url: https://github.com/harijoe/serverless-boilerplate
-  - name: 快速创建横版游戏 app
-    note: simiancraft/create-phaser-app Phaser 3, Webpack 4, Babel 7+boilerplate and a scaffold
-    url: https://github.com/simiancraft/create-phaser-app
-  - name: React 组件 sky
-    note: CodePen - Sky
-    url: https://codepen.io/lucagez/full/oQoRyK/
-  - name: plouc/nivo nivo 基于awesome d3 和 ReactJs 的数据可视化组件 
-    note: plouc/nivo nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
-    url: https://github.com/plouc/nivo
-  - name: wbkd/awesome-d3 可视化插件集合
-    note: wbkd/awesome-d3 A list of D3 libraries, plugins and utilities
-    url: https://github.com/wbkd/awesome-d3
-  - name: AntV 年度发布 · 语雀
-    note: AntV 年度发布 · 语雀
-    url: https://www.yuque.com/antv/blog/2018-release
-- name: MeetUp
-  list:
-  - name: CodinGame 2019开发者调查
-    note: CodinGame Developer Survey 2019
-    url: https://codingamedevelopersurvey2019.evalandgo.com/s/?id=JTk2byU5OGolOTklQTk=&a=JTk3ayU5OHAlOUE=
-  - name: 报名 12月4号和作者Martin Fowler对话 代码重构第二版
-    note: Martin Fowler Refactoring 2nd Edition Book Launch Webinar Registration
-    url: https://info.thoughtworks.com/refactoring_book_launch_webinar_registration.html?utm_source=facebook&utm_medium=social&utm_campaign=refactoring
-- name: 资源
-  list:
-  - name: 2018年十本免费必读编程书籍
-    note: 10 Free Programming Books You Should Read in 2018 - Tutorialzine
-    url: https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018
+  - name: notadd/neditor 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
+    note: notadd/neditor 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
+    url: https://github.com/notadd/neditor
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master 65c260f] 20181123
- 2 files changed, 122 insertions(+), 22 deletions(-)
-Ready! Gooo! %v 2018-11-23 16:03:18.628467054 +0000 UTC m=+129600.001793066
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
-/d2-projects/d2-awesome/issues/186
-/d2-projects/d2-awesome/issues/185
-/d2-projects/d2-awesome/issues/184
-/d2-projects/d2-awesome/issues/183
-/d2-projects/d2-awesome/issues/182
-/d2-projects/d2-awesome/issues/181
-/d2-projects/d2-awesome/issues/180
-/d2-projects/d2-awesome/issues/179
-/d2-projects/d2-awesome/issues/178
-/d2-projects/d2-awesome/issues/177
-/d2-projects/d2-awesome/issues/176
-/d2-projects/d2-awesome/issues/175
-/d2-projects/d2-awesome/issues/174
-/d2-projects/d2-awesome/issues/173
-/d2-projects/d2-awesome/issues/172
-/d2-projects/d2-awesome/issues/171
-/d2-projects/d2-awesome/issues/170
-/d2-projects/d2-awesome/issues/168
-- name: 工具
-  list:
-  - name: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
-    note: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
-    url: https://github.com/Molunerfinn/PicGo
-  - name: lllyasviel/style2paints 在线作图
-    note: lllyasviel/style2paints sketch + style = paints 排队~
-    url: https://github.com/lllyasviel/style2paints
+[master afebbeb] 20181129
+ 3 files changed, 75 insertions(+), 4 deletions(-)
+Ready! Gooo! %v 2018-11-29 14:00:00.00072848 +0800 CST m=+5591.231920475
+/d2-projects/d2-awesome/issues/246
+/d2-projects/d2-awesome/issues/245
+/d2-projects/d2-awesome/issues/244
+/d2-projects/d2-awesome/issues/243
+/d2-projects/d2-awesome/issues/242
+/d2-projects/d2-awesome/issues/241
+/d2-projects/d2-awesome/issues/240
+/d2-projects/d2-awesome/issues/239
+/d2-projects/d2-awesome/issues/238
+/d2-projects/d2-awesome/issues/237
+/d2-projects/d2-awesome/issues/236
 - name: 开源项目
   list:
-  - name: Vue 电商 pwa 模板
-    note: DivanteLtd/vue-storefront
-    url: https://github.com/DivanteLtd/vue-storefront
-  - name: react 写的 16 宫格游戏
-    note: imshubhamsingh/15-puzzle
-    url: https://github.com/imshubhamsingh/15-puzzle
-  - name: 最小的但是功能齐全的 serverless 模板
-    note: harijoe/serverless-boilerplate
-    url: https://github.com/harijoe/serverless-boilerplate
-  - name: 快速创建横版游戏 app
-    note: simiancraft/create-phaser-app Phaser 3, Webpack 4, Babel 7+boilerplate and a scaffold
-    url: https://github.com/simiancraft/create-phaser-app
-  - name: React 组件 sky
-    note: CodePen - Sky
-    url: https://codepen.io/lucagez/full/oQoRyK/
-  - name: plouc/nivo nivo 基于awesome d3 和 ReactJs 的数据可视化组件 
-    note: plouc/nivo nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
-    url: https://github.com/plouc/nivo
-  - name: wbkd/awesome-d3 可视化插件集合
-    note: wbkd/awesome-d3 A list of D3 libraries, plugins and utilities
-    url: https://github.com/wbkd/awesome-d3
-  - name: AntV 年度发布 · 语雀
-    note: AntV 年度发布 · 语雀
-    url: https://www.yuque.com/antv/blog/2018-release
-- name: MeetUp
+  - name: notadd/neditor 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
+    note: notadd/neditor 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
+    url: https://github.com/notadd/neditor
+- name: 设计
   list:
-  - name: CodinGame 2019开发者调查
-    note: CodinGame Developer Survey 2019
-    url: https://codingamedevelopersurvey2019.evalandgo.com/s/?id=JTk2byU5OGolOTklQTk=&a=JTk3ayU5OHAlOUE=
-  - name: 报名 12月4号和作者Martin Fowler对话 代码重构第二版
-    note: Martin Fowler Refactoring 2nd Edition Book Launch Webinar Registration
-    url: https://info.thoughtworks.com/refactoring_book_launch_webinar_registration.html?utm_source=facebook&utm_medium=social&utm_campaign=refactoring
-- name: 资源
-  list:
-  - name: 2018年十本免费必读编程书籍
-    note: 10 Free Programming Books You Should Read in 2018 - Tutorialzine
-    url: https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018
+  - name: Conversational UI - UI Movement
+    note: Conversational UI - UI Movement
+    url: https://uimovement.com/ui/6734/conversational-ui/
+  - name: Interfilm - UI Movement
+    note: Interfilm - UI Movement
+    url: https://uimovement.com/ui/6730/interfilm/
 - name: 分享
   list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
-  - name: infoQ Serverless 的现状和未来
-    note: The Present and Future of Serverless Observability - YouTube
-    url: https://www.youtube.com/watch?v=1yto_VFgvZo
-  - name: 谷歌出品 绘制世界
-    note: World Draw
-    url: https://worlddraw.withgoogle.com/draw
-  - name: 如何用 CircleCI 和 Docker 构建持续集成环境
-    note: How to set up a Continuous Delivery with CircleCI and Docker
-    url: https://www.exoscale.com/syslog/continuous-delivery-circleci/
-  - name: 感恩节 我要感谢的三款开发工具
-    note: Three Developer Tools I'm Thankful For | Okta Developer
-    url: https://developer.okta.com/blog/2018/11/20/three-developer-tools-im-thankful-for
-  - name: FairyEver
-    note: FairyEver
-    url: https://fairyever.github.io/blog/
+  - name: React Hooks 深入不浅出 - 掘金
+    note: React Hooks 深入不浅出 - 掘金
+    url: https://juejin.im/post/5bfe93566fb9a049c30af2db?from=timeline&isappinstalled=0
+  - name: UC国际技术
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s?__biz=MzU0Nzk1MTg5OA==&mid=2247484459&idx=1&sn=af40c897b9a8bdbb110c0ec6ff189f96&chksm=fb47c05ecc304948b90f6a03d79f9a0c9373a7005273edfaaa93a52e4a935a73b039a792bfbc&xtrack=1&scene=90&sessionid=1543406791&ascene=56&devicetype=android-24&version=2607033a&nettype=cmnet&abtest_cookie=BQABAAoACwANABIAFAAFACOXHgBXmR4AiJkeAJuZHgChmR4AAAA%3D&lang=zh_CN&pass_ticket=UnnbkAO9u%2BNkR5baIe5KP10mGoFLACmEI2l7Cx9h0PM%3D&wx_header=1
+  - name: 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
+    note: 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
+    url: https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=1&sn=1f6f1de7316f7a57c3209b6faa1ed9a4#wechat_redirect
+  - name: MakeGirlsMoe - Create Anime Characters with A.I.!
+    note: MakeGirlsMoe - Create Anime Characters with A.I.!
+    url: https://make.girls.moe/#/
+- name: 教程
+  list:
+  - name: How to automatic Dark Mode upon sunset including Safari, iTerm, Vim in macOS – Marginalia by Apostolos Papadopoulos
+    note: How to automatic Dark Mode upon sunset including Safari, iTerm, Vim in macOS – Marginalia by Apostolos Papadopoulos
+    url: http://apas.gr/2018/11/dark-mode-macos-safari-iterm-vim/
+- name: 工具
+  list:
+  - name: Create compelling Documentation with Github Pages – ITNEXT
+    note: Create compelling Documentation with Github Pages – ITNEXT
+    url: https://itnext.io/create-compelling-documentation-with-github-pages-16e4149efe9e
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master 5e9f225] 20181123
- 2 files changed, 113 insertions(+), 20 deletions(-)
-Ready! Gooo! %v 2018-11-23 22:03:18.628481702 +0000 UTC m=+151200.001807512
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
-/d2-projects/d2-awesome/issues/186
-/d2-projects/d2-awesome/issues/185
-/d2-projects/d2-awesome/issues/184
-/d2-projects/d2-awesome/issues/183
-/d2-projects/d2-awesome/issues/182
-/d2-projects/d2-awesome/issues/181
-/d2-projects/d2-awesome/issues/180
-/d2-projects/d2-awesome/issues/179
-/d2-projects/d2-awesome/issues/178
-/d2-projects/d2-awesome/issues/177
-/d2-projects/d2-awesome/issues/176
-/d2-projects/d2-awesome/issues/175
-/d2-projects/d2-awesome/issues/174
-/d2-projects/d2-awesome/issues/173
-/d2-projects/d2-awesome/issues/172
-/d2-projects/d2-awesome/issues/171
-/d2-projects/d2-awesome/issues/170
-/d2-projects/d2-awesome/issues/168
-- name: MeetUp
-  list:
-  - name: CodinGame 2019开发者调查
-    note: CodinGame Developer Survey 2019
-    url: https://codingamedevelopersurvey2019.evalandgo.com/s/?id=JTk2byU5OGolOTklQTk=&a=JTk3ayU5OHAlOUE=
-  - name: 报名 12月4号和作者Martin Fowler对话 代码重构第二版
-    note: Martin Fowler Refactoring 2nd Edition Book Launch Webinar Registration
-    url: https://info.thoughtworks.com/refactoring_book_launch_webinar_registration.html?utm_source=facebook&utm_medium=social&utm_campaign=refactoring
-- name: 资源
-  list:
-  - name: 2018年十本免费必读编程书籍
-    note: 10 Free Programming Books You Should Read in 2018 - Tutorialzine
-    url: https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018
-- name: 分享
-  list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
-  - name: infoQ Serverless 的现状和未来
-    note: The Present and Future of Serverless Observability - YouTube
-    url: https://www.youtube.com/watch?v=1yto_VFgvZo
-  - name: 谷歌出品 绘制世界
-    note: World Draw
-    url: https://worlddraw.withgoogle.com/draw
-  - name: 如何用 CircleCI 和 Docker 构建持续集成环境
-    note: How to set up a Continuous Delivery with CircleCI and Docker
-    url: https://www.exoscale.com/syslog/continuous-delivery-circleci/
-  - name: 感恩节 我要感谢的三款开发工具
-    note: Three Developer Tools I'm Thankful For | Okta Developer
-    url: https://developer.okta.com/blog/2018/11/20/three-developer-tools-im-thankful-for
-  - name: FairyEver
-    note: FairyEver
-    url: https://fairyever.github.io/blog/
-- name: 工具
-  list:
-  - name: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
-    note: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
-    url: https://github.com/Molunerfinn/PicGo
-  - name: lllyasviel/style2paints 在线作图
-    note: lllyasviel/style2paints sketch + style = paints 排队~
-    url: https://github.com/lllyasviel/style2paints
+[master 7443076] 20181129
+ 2 files changed, 62 insertions(+), 5 deletions(-)
+Ready! Gooo! %v 2018-11-30 12:00:00.001329353 +0800 CST m=+84791.232521231
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
 - name: 开源项目
   list:
-  - name: Vue 电商 pwa 模板
-    note: DivanteLtd/vue-storefront
-    url: https://github.com/DivanteLtd/vue-storefront
-  - name: react 写的 16 宫格游戏
-    note: imshubhamsingh/15-puzzle
-    url: https://github.com/imshubhamsingh/15-puzzle
-  - name: 最小的但是功能齐全的 serverless 模板
-    note: harijoe/serverless-boilerplate
-    url: https://github.com/harijoe/serverless-boilerplate
-  - name: 快速创建横版游戏 app
-    note: simiancraft/create-phaser-app Phaser 3, Webpack 4, Babel 7+boilerplate and a scaffold
-    url: https://github.com/simiancraft/create-phaser-app
-  - name: React 组件 sky
-    note: CodePen - Sky
-    url: https://codepen.io/lucagez/full/oQoRyK/
-  - name: plouc/nivo nivo 基于awesome d3 和 ReactJs 的数据可视化组件 
-    note: plouc/nivo nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
-    url: https://github.com/plouc/nivo
-  - name: wbkd/awesome-d3 可视化插件集合
-    note: wbkd/awesome-d3 A list of D3 libraries, plugins and utilities
-    url: https://github.com/wbkd/awesome-d3
-  - name: AntV 年度发布 · 语雀
-    note: AntV 年度发布 · 语雀
-    url: https://www.yuque.com/antv/blog/2018-release
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
+- name: 分享
+  list:
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master 54577e3] 20181123
- 2 files changed, 126 insertions(+), 33 deletions(-)
-Ready! Gooo! %v 2018-11-24 04:03:18.628535038 +0000 UTC m=+172800.001860940
-/d2-projects/d2-awesome/issues/190
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
-/d2-projects/d2-awesome/issues/186
-/d2-projects/d2-awesome/issues/185
-/d2-projects/d2-awesome/issues/184
-/d2-projects/d2-awesome/issues/183
-/d2-projects/d2-awesome/issues/182
-/d2-projects/d2-awesome/issues/181
-/d2-projects/d2-awesome/issues/180
-/d2-projects/d2-awesome/issues/179
-/d2-projects/d2-awesome/issues/178
-/d2-projects/d2-awesome/issues/177
-/d2-projects/d2-awesome/issues/176
-/d2-projects/d2-awesome/issues/175
-/d2-projects/d2-awesome/issues/174
-/d2-projects/d2-awesome/issues/173
-/d2-projects/d2-awesome/issues/172
-/d2-projects/d2-awesome/issues/171
-/d2-projects/d2-awesome/issues/170
-/d2-projects/d2-awesome/issues/168
-- name: 分享
-  list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
-  - name: infoQ Serverless 的现状和未来
-    note: The Present and Future of Serverless Observability - YouTube
-    url: https://www.youtube.com/watch?v=1yto_VFgvZo
-  - name: 谷歌出品 绘制世界
-    note: World Draw
-    url: https://worlddraw.withgoogle.com/draw
-  - name: 如何用 CircleCI 和 Docker 构建持续集成环境
-    note: How to set up a Continuous Delivery with CircleCI and Docker
-    url: https://www.exoscale.com/syslog/continuous-delivery-circleci/
-  - name: 感恩节 我要感谢的三款开发工具
-    note: Three Developer Tools I'm Thankful For | Okta Developer
-    url: https://developer.okta.com/blog/2018/11/20/three-developer-tools-im-thankful-for
-  - name: FairyEver
-    note: FairyEver
-    url: https://fairyever.github.io/blog/
-- name: 工具
-  list:
-  - name: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
-    note: Molunerfinn/PicGo A simple & beautiful tool for pictures uploading built by electron-vue
-    url: https://github.com/Molunerfinn/PicGo
-  - name: lllyasviel/style2paints 在线作图
-    note: lllyasviel/style2paints sketch + style = paints 排队~
-    url: https://github.com/lllyasviel/style2paints
+[master 6222022] 20181130
+ 2 files changed, 59 insertions(+), 0 deletions(-)
+ create mode 100644 20181130.md
+Ready! Gooo! %v 2018-11-30 13:00:00.001017463 +0800 CST m=+88391.232209258
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
 - name: 开源项目
   list:
-  - name: Vue 电商 pwa 模板
-    note: DivanteLtd/vue-storefront
-    url: https://github.com/DivanteLtd/vue-storefront
-  - name: react 写的 16 宫格游戏
-    note: imshubhamsingh/15-puzzle
-    url: https://github.com/imshubhamsingh/15-puzzle
-  - name: 最小的但是功能齐全的 serverless 模板
-    note: harijoe/serverless-boilerplate
-    url: https://github.com/harijoe/serverless-boilerplate
-  - name: 快速创建横版游戏 app
-    note: simiancraft/create-phaser-app Phaser 3, Webpack 4, Babel 7+boilerplate and a scaffold
-    url: https://github.com/simiancraft/create-phaser-app
-  - name: React 组件 sky
-    note: CodePen - Sky
-    url: https://codepen.io/lucagez/full/oQoRyK/
-  - name: plouc/nivo nivo 基于awesome d3 和 ReactJs 的数据可视化组件 
-    note: plouc/nivo nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
-    url: https://github.com/plouc/nivo
-  - name: wbkd/awesome-d3 可视化插件集合
-    note: wbkd/awesome-d3 A list of D3 libraries, plugins and utilities
-    url: https://github.com/wbkd/awesome-d3
-  - name: AntV 年度发布 · 语雀
-    note: AntV 年度发布 · 语雀
-    url: https://www.yuque.com/antv/blog/2018-release
-- name: MeetUp
-  list:
-  - name: CodinGame 2019开发者调查
-    note: CodinGame Developer Survey 2019
-    url: https://codingamedevelopersurvey2019.evalandgo.com/s/?id=JTk2byU5OGolOTklQTk=&a=JTk3ayU5OHAlOUE=
-  - name: 报名 12月4号和作者Martin Fowler对话 代码重构第二版
-    note: Martin Fowler Refactoring 2nd Edition Book Launch Webinar Registration
-    url: https://info.thoughtworks.com/refactoring_book_launch_webinar_registration.html?utm_source=facebook&utm_medium=social&utm_campaign=refactoring
-- name: 资源
-  list:
-  - name: 2018年十本免费必读编程书籍
-    note: 10 Free Programming Books You Should Read in 2018 - Tutorialzine
-    url: https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018
-- name: 教程
-  list:
-  - name: [译]await VS return VS return await - 掘金
-    note: [译]await VS return VS return await - 掘金
-    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master 6406611] 20181124
- 2 files changed, 195 insertions(+), 0 deletions(-)
- create mode 100644 20181124.md
-Ready! Gooo! %v 2018-11-24 10:03:18.628596614 +0000 UTC m=+194400.001922423
-/d2-projects/d2-awesome/issues/190
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
-- name: 教程
-  list:
-  - name: [译]await VS return VS return await - 掘金
-    note: [译]await VS return VS return await - 掘金
-    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
 - name: 分享
   list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master 5e3759b] 20181124
- 2 files changed, 54 insertions(+), 96 deletions(-)
- rewrite 20181124.md (80%)
-Ready! Gooo! %v 2018-11-24 16:03:18.628428051 +0000 UTC m=+216000.001753848
-/d2-projects/d2-awesome/issues/190
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
-- name: 教程
+[master de17b1c] 20181130
+ 2 files changed, 30 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-11-30 14:00:00.000431664 +0800 CST m=+91991.231623515
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
+- name: 新闻
   list:
-  - name: [译]await VS return VS return await - 掘金
-    note: [译]await VS return VS return await - 掘金
-    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
 - name: 分享
   list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
+- name: 开源项目
+  list:
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master d14c751] 20181124
- 1 files changed, 20 insertions(+), 0 deletions(-)
-Ready! Gooo! %v 2018-11-24 22:03:18.628414282 +0000 UTC m=+237600.001740089
-/d2-projects/d2-awesome/issues/190
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
+[master c6ce22b] 20181130
+ 2 files changed, 44 insertions(+), 7 deletions(-)
+Ready! Gooo! %v 2018-12-01 12:00:00.001113205 +0800 CST m=+171191.232304982
+/d2-projects/d2-awesome/issues/256
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
 - name: 分享
   list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
-- name: 教程
+  - name: undefined
+    note: undefined
+    url: undefined
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
+- name: 新闻
   list:
-  - name: [译]await VS return VS return await - 掘金
-    note: [译]await VS return VS return await - 掘金
-    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
+- name: 开源项目
+  list:
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master b399443] 20181124
- 2 files changed, 24 insertions(+), 5 deletions(-)
-Ready! Gooo! %v 2018-11-25 04:03:18.628457572 +0000 UTC m=+259200.001783284
-/d2-projects/d2-awesome/issues/190
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
-- name: 教程
-  list:
-  - name: [译]await VS return VS return await - 掘金
-    note: [译]await VS return VS return await - 掘金
-    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+[master 1cbdf6c] 20181201
+ 2 files changed, 84 insertions(+), 0 deletions(-)
+ create mode 100644 20181201.md
+Ready! Gooo! %v 2018-12-01 13:00:00.001118479 +0800 CST m=+174791.232310336
+exit status 1
+/d2-projects/d2-awesome/issues/256
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
 - name: 分享
   list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+  - name: undefined
+    note: undefined
+    url: undefined
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
+- name: 新闻
+  list:
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
+- name: 开源项目
+  list:
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master a9c4b05] 20181125
- 2 files changed, 53 insertions(+), 0 deletions(-)
- create mode 100644 20181125.md
-Ready! Gooo! %v 2018-11-25 10:03:18.62861635 +0000 UTC m=+280800.001942324
-/d2-projects/d2-awesome/issues/190
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
+[master ef872c4] 20181201
+ 1 files changed, 38 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-01 14:00:00.000334297 +0800 CST m=+178391.231526080
+exit status 1
+/d2-projects/d2-awesome/issues/256
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
 - name: 分享
   list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
-- name: 教程
+  - name: undefined
+    note: undefined
+    url: undefined
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
+- name: 新闻
   list:
-  - name: [译]await VS return VS return await - 掘金
-    note: [译]await VS return VS return await - 掘金
-    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
+- name: 开源项目
+  list:
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master c743ebc] 20181125
- 2 files changed, 25 insertions(+), 5 deletions(-)
-Ready! Gooo! %v 2018-11-25 16:03:18.628478518 +0000 UTC m=+302400.001804289
-/d2-projects/d2-awesome/issues/190
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
-- name: 教程
+[master 3ff1021] 20181201
+ 1 files changed, 37 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-02 12:00:00.001101946 +0800 CST m=+257591.232293768
+/d2-projects/d2-awesome/issues/258
+/d2-projects/d2-awesome/issues/257
+/d2-projects/d2-awesome/issues/256
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
+- name: 新闻
   list:
-  - name: [译]await VS return VS return await - 掘金
-    note: [译]await VS return VS return await - 掘金
-    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
+- name: 开源项目
+  list:
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
 - name: 分享
   list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+  - name: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    note: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    url: https://zhuanlan.zhihu.com/p/51331026?utm_source=wechat_timeline&utm_medium=social&from=timeline&isappinstalled=0#showWechatShareTip
+  - name: 一位工作了 10 年的 Java 高级架构师的技术之路
+    note: 码洞
+    url: https://mp.weixin.qq.com/s/9wfEJvU_ON6gq71L9Oni7g
+  - name: undefined
+    note: undefined
+    url: undefined
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master fe90831] 20181125
- 2 files changed, 24 insertions(+), 5 deletions(-)
-Ready! Gooo! %v 2018-11-25 22:03:18.628347841 +0000 UTC m=+324000.001673669
-/d2-projects/d2-awesome/issues/190
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
-- name: 教程
-  list:
-  - name: [译]await VS return VS return await - 掘金
-    note: [译]await VS return VS return await - 掘金
-    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
+[master e9c1260] 20181202
+ 2 files changed, 98 insertions(+), 0 deletions(-)
+ create mode 100644 20181202.md
+Ready! Gooo! %v 2018-12-02 13:00:00.000820134 +0800 CST m=+261191.232011886
+/d2-projects/d2-awesome/issues/258
+/d2-projects/d2-awesome/issues/257
+/d2-projects/d2-awesome/issues/256
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
 - name: 分享
   list:
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+  - name: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    note: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    url: https://zhuanlan.zhihu.com/p/51331026?utm_source=wechat_timeline&utm_medium=social&from=timeline&isappinstalled=0#showWechatShareTip
+  - name: 一位工作了 10 年的 Java 高级架构师的技术之路
+    note: 码洞
+    url: https://mp.weixin.qq.com/s/9wfEJvU_ON6gq71L9Oni7g
+  - name: undefined
+    note: undefined
+    url: undefined
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
+- name: 新闻
+  list:
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
+- name: 开源项目
+  list:
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
-[master e71b1fc] 20181125
- 1 files changed, 19 insertions(+), 0 deletions(-)
-Ready! Gooo! %v 2018-11-26 04:03:18.628491216 +0000 UTC m=+345600.001816989
-/d2-projects/d2-awesome/issues/200
-/d2-projects/d2-awesome/issues/199
-/d2-projects/d2-awesome/issues/198
-/d2-projects/d2-awesome/issues/197
-/d2-projects/d2-awesome/issues/196
-/d2-projects/d2-awesome/issues/195
-/d2-projects/d2-awesome/issues/194
-/d2-projects/d2-awesome/issues/193
-/d2-projects/d2-awesome/issues/192
-/d2-projects/d2-awesome/issues/191
-/d2-projects/d2-awesome/issues/190
-/d2-projects/d2-awesome/issues/189
-/d2-projects/d2-awesome/issues/188
+[master 6fe0902] 20181202
+ 2 files changed, 58 insertions(+), 13 deletions(-)
+Ready! Gooo! %v 2018-12-02 14:00:00.000295945 +0800 CST m=+264791.231487787
+/d2-projects/d2-awesome/issues/258
+/d2-projects/d2-awesome/issues/257
+/d2-projects/d2-awesome/issues/256
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
+- name: 分享
+  list:
+  - name: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    note: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    url: https://zhuanlan.zhihu.com/p/51331026?utm_source=wechat_timeline&utm_medium=social&from=timeline&isappinstalled=0#showWechatShareTip
+  - name: 一位工作了 10 年的 Java 高级架构师的技术之路
+    note: 码洞
+    url: https://mp.weixin.qq.com/s/9wfEJvU_ON6gq71L9Oni7g
+  - name: undefined
+    note: undefined
+    url: undefined
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
+- name: 新闻
+  list:
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
+- name: 开源项目
+  list:
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 7de8cbd] 20181202
+ 1 files changed, 44 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-03 12:00:00.000382243 +0800 CST m=+343991.231592017
+/d2-projects/d2-awesome/issues/262
+/d2-projects/d2-awesome/issues/261
+/d2-projects/d2-awesome/issues/260
+/d2-projects/d2-awesome/issues/259
+/d2-projects/d2-awesome/issues/258
+/d2-projects/d2-awesome/issues/257
+/d2-projects/d2-awesome/issues/256
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
+- name: 分享
+  list:
+  - name: [英][官方] Mozilla 发布 Firefox Reality 在 VR 世界中体验 Web - 前端 - 掘金
+    note: [英][官方] Mozilla 发布 Firefox Reality 在 VR 世界中体验 Web - 前端 - 掘金
+    url: https://juejin.im/entry/5c0352aa51882511630d6567?from=timeline&isappinstalled=0
+  - name: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    note: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    url: https://zhuanlan.zhihu.com/p/51331026?utm_source=wechat_timeline&utm_medium=social&from=timeline&isappinstalled=0#showWechatShareTip
+  - name: 一位工作了 10 年的 Java 高级架构师的技术之路
+    note: 码洞
+    url: https://mp.weixin.qq.com/s/9wfEJvU_ON6gq71L9Oni7g
+  - name: undefined
+    note: undefined
+    url: undefined
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
+- name: 新闻
+  list:
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
+- name: 教程
+  list:
+  - name: 【漫画】内存管理速成教程
+    note: 前端 - 掘金
+    url: https://juejin.im/entry/5bff4a23518825604c161c28
+  - name: Bitcoin in 2019 The Definitive Guide | Stadivm.com | Cryptocurrency Forum and Blockchain Networking Hub - Stadivm
+    note: Bitcoin in 2019 The Definitive Guide | Stadivm.com | Cryptocurrency Forum and Blockchain Networking Hub - Stadivm
+    url: https://stadivm.com/blog/bitcoin-guide/
+- name: 开源项目
+  list:
+  - name: primer/primer
+    note: The CSS design system that powers GitHub
+    url: https://github.com/primer/primer
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master b83b401] 20181203
+ 2 files changed, 130 insertions(+), 0 deletions(-)
+ create mode 100644 20181203.md
+Ready! Gooo! %v 2018-12-03 13:00:00.000732995 +0800 CST m=+347591.231924804
+/d2-projects/d2-awesome/issues/262
+/d2-projects/d2-awesome/issues/261
+/d2-projects/d2-awesome/issues/260
+/d2-projects/d2-awesome/issues/259
+/d2-projects/d2-awesome/issues/258
+/d2-projects/d2-awesome/issues/257
+/d2-projects/d2-awesome/issues/256
+/d2-projects/d2-awesome/issues/254
+/d2-projects/d2-awesome/issues/253
+/d2-projects/d2-awesome/issues/252
+/d2-projects/d2-awesome/issues/251
+/d2-projects/d2-awesome/issues/250
+- name: 分享
+  list:
+  - name: [英][官方] Mozilla 发布 Firefox Reality 在 VR 世界中体验 Web - 前端 - 掘金
+    note: [英][官方] Mozilla 发布 Firefox Reality 在 VR 世界中体验 Web - 前端 - 掘金
+    url: https://juejin.im/entry/5c0352aa51882511630d6567?from=timeline&isappinstalled=0
+  - name: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    note: 如何为自己的 Github 项目选择开源许可证？ - 知乎
+    url: https://zhuanlan.zhihu.com/p/51331026?utm_source=wechat_timeline&utm_medium=social&from=timeline&isappinstalled=0#showWechatShareTip
+  - name: 一位工作了 10 年的 Java 高级架构师的技术之路
+    note: 码洞
+    url: https://mp.weixin.qq.com/s/9wfEJvU_ON6gq71L9Oni7g
+  - name: undefined
+    note: undefined
+    url: undefined
+  - name: 简介 · 语雀
+    note: 简介 · 语雀
+    url: https://www.yuque.com/tech-learn/github-project-recommend/jianjie
+  - name: 【进阶3-1期】JavaScript深入之史上最全--5种this绑定全面解析
+    note: 掘金
+    url: https://juejin.im/post/5bfe8fc5e51d4514e0515b90
+- name: 新闻
+  list:
+  - name: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    note: Cloud Source Repositories - 用于存储和管理代码的私有 Git 代码库  |  Source Repositories  |  Google Cloud
+    url: https://cloud.google.com/source-repositories/
+- name: 教程
+  list:
+  - name: 【漫画】内存管理速成教程
+    note: 前端 - 掘金
+    url: https://juejin.im/entry/5bff4a23518825604c161c28
+  - name: Bitcoin in 2019 The Definitive Guide | Stadivm.com | Cryptocurrency Forum and Blockchain Networking Hub - Stadivm
+    note: Bitcoin in 2019 The Definitive Guide | Stadivm.com | Cryptocurrency Forum and Blockchain Networking Hub - Stadivm
+    url: https://stadivm.com/blog/bitcoin-guide/
+- name: 开源项目
+  list:
+  - name: primer/primer
+    note: The CSS design system that powers GitHub
+    url: https://github.com/primer/primer
+  - name: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    note: GitHub - cssanimation/css-animation-101 Learn how to bring animation to your web projects
+    url: https://github.com/cssanimation/css-animation-101
+  - name: didi/cube-ui
+    note: A fantastic mobile ui lib implement by Vue
+    url: https://github.com/didi/cube-ui
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master eb5cf1e] 20181203
+ 1 files changed, 63 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-03 14:00:00.000232699 +0800 CST m=+351191.231424546
+/d2-projects/d2-awesome/issues/263
+- name: 分享
+  list:
+  - name: 如何优雅处理前端异常？ - Jartto's blog
+    note: 如何优雅处理前端异常？ - Jartto's blog
+    url: http://jartto.wang/2018/11/20/js-exception-handling/
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master d6df3a5] 20181203
+ 2 files changed, 41 insertions(+), 68 deletions(-)
+ rewrite 20181203.md (84%)
+Ready! Gooo! %v 2018-12-04 12:00:00.001000121 +0800 CST m=+430391.232191905
+/d2-projects/d2-awesome/issues/270
+/d2-projects/d2-awesome/issues/267
+/d2-projects/d2-awesome/issues/266
+/d2-projects/d2-awesome/issues/265
+/d2-projects/d2-awesome/issues/264
+/d2-projects/d2-awesome/issues/263
+- name: 开源项目
+  list:
+  - name: a54552239/projectManage
+    note: 基于Vue.js实现的项目管理系统
+    url: https://github.com/a54552239/projectManage
+  - name: ParadeTo/vue-tree-list
+    note: A vue component for tree structure
+    url: https://github.com/ParadeTo/vue-tree-list
+  - name: bolasblack/http-api-guide
+    note: 
+    url: https://github.com/bolasblack/http-api-guide
+  - name: alibaba/DataX
+    note: 
+    url: https://github.com/alibaba/DataX
+- name: 分享
+  list:
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/qmwf1qqIcROd6h-LWm2gQQ
+  - name: 如何优雅处理前端异常？ - Jartto's blog
+    note: 如何优雅处理前端异常？ - Jartto's blog
+    url: http://jartto.wang/2018/11/20/js-exception-handling/
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 65fb2f3] 20181204
+ 2 files changed, 81 insertions(+), 0 deletions(-)
+ create mode 100644 20181204.md
+Ready! Gooo! %v 2018-12-04 13:00:00.000779515 +0800 CST m=+433991.231971690
+/d2-projects/d2-awesome/issues/270
+/d2-projects/d2-awesome/issues/267
+/d2-projects/d2-awesome/issues/266
+/d2-projects/d2-awesome/issues/265
+/d2-projects/d2-awesome/issues/264
+/d2-projects/d2-awesome/issues/263
+- name: 开源项目
+  list:
+  - name: a54552239/projectManage
+    note: 基于Vue.js实现的项目管理系统
+    url: https://github.com/a54552239/projectManage
+  - name: ParadeTo/vue-tree-list
+    note: A vue component for tree structure
+    url: https://github.com/ParadeTo/vue-tree-list
+  - name: bolasblack/http-api-guide
+    note: 
+    url: https://github.com/bolasblack/http-api-guide
+  - name: alibaba/DataX
+    note: 
+    url: https://github.com/alibaba/DataX
+- name: 分享
+  list:
+  - name: 前端早读课
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/qmwf1qqIcROd6h-LWm2gQQ
+  - name: 如何优雅处理前端异常？ - Jartto's blog
+    note: 如何优雅处理前端异常？ - Jartto's blog
+    url: http://jartto.wang/2018/11/20/js-exception-handling/
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master b47024f] 20181204
+ 1 files changed, 35 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-04 14:00:00.000270975 +0800 CST m=+437591.231462790
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 25b9933] 20181204
+ 2 files changed, 30 insertions(+), 46 deletions(-)
+ rewrite 20181204.md (65%)
+Ready! Gooo! %v 2018-12-05 12:00:00.001090292 +0800 CST m=+516791.232282347
+/d2-projects/d2-awesome/issues/274
+/d2-projects/d2-awesome/issues/272
+/d2-projects/d2-awesome/issues/271
+- name: 开源项目
+  list:
+  - name: vladocar/screenshoteer
+    note: Make website screenshots and mobile emulations from the command line.
+    url: https://github.com/vladocar/screenshoteer
+- name: 新闻
+  list:
+  - name: Release v6.0.0 · reduxjs/react-redux
+    note: 
+    url: https://github.com/reduxjs/react-redux/releases/tag/v6.0.0
+- name: 分享
+  list:
+  - name: 为什么要避免写 for 循环 - 掘金
+    note: 为什么要避免写 for 循环 - 掘金
+    url: https://juejin.im/post/5c0463226fb9a049bc4c67c0
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master c21ad23] 20181205
+ 2 files changed, 64 insertions(+), 0 deletions(-)
+ create mode 100644 20181205.md
+Ready! Gooo! %v 2018-12-05 13:00:00.001107968 +0800 CST m=+520391.232299779
+/d2-projects/d2-awesome/issues/279
+/d2-projects/d2-awesome/issues/278
+/d2-projects/d2-awesome/issues/277
+/d2-projects/d2-awesome/issues/276
+/d2-projects/d2-awesome/issues/275
+/d2-projects/d2-awesome/issues/274
+/d2-projects/d2-awesome/issues/272
+/d2-projects/d2-awesome/issues/271
+- name: 开源项目
+  list:
+  - name: algorithm-visualizer/algorithm-visualizer
+    note: Interactive Online Platform that Visualizes Algorithms from Code
+    url: https://github.com/algorithm-visualizer/algorithm-visualizer
+  - name: zhoushaw/Instagram
+    note: A web-app with some feature like Instagram!!😉📸😊
+    url: https://github.com/zhoushaw/Instagram
+  - name: vladocar/screenshoteer
+    note: Make website screenshots and mobile emulations from the command line.
+    url: https://github.com/vladocar/screenshoteer
+- name: 新闻
+  list:
+  - name: Google’s cross-platform Flutter UI toolkit hits version 1.0 | TechCrunch
+    note: Google’s cross-platform Flutter UI toolkit hits version 1.0 | TechCrunch
+    url: https://techcrunch.com/2018/12/04/googles-cross-platform-flutter-ui-toolkit-hits-version-1-0/
+  - name: Release v6.0.0 · reduxjs/react-redux
+    note: 
+    url: https://github.com/reduxjs/react-redux/releases/tag/v6.0.0
+- name: 分享
+  list:
+  - name: 为什么要避免写 for 循环 - 掘金
+    note: 为什么要避免写 for 循环 - 掘金
+    url: https://juejin.im/post/5c0463226fb9a049bc4c67c0
 - name: 工具
   list:
-  - name: 🕷 调试 API 的时候发现 Chrome 和 Firefox 显示纯 JSON 的方式，还是火狐好看一些。不过发现了一个 Chrome 插件：JSON Viewer，链接：https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?utm_source=chrome-ntp-icon 对于请求下来的是纯 JSON 文件的内容，JSON Viewer 可以将其「美化」，并加上语法高亮，这样就不用看 Chrome 原来没格式化的纯文本了。下面示例：①Firefox 显示的 JSON、②Chrome 无插件显示的 JSON、③Chrome 安装了 JSON Viewer 后显示的 JSON - 即刻App
-    note: 🕷 调试 API 的时候发现 Chrome 和 Firefox 显示纯 JSON 的方式，还是火狐好看一些。不过发现了一个 Chrome 插件：JSON Viewer，链接：https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?utm_source=chrome-ntp-icon 对于请求下来的是纯 JSON 文件的内容，JSON Viewer 可以将其「美化」，并加上语法高亮，这样就不用看 Chrome 原来没格式化的纯文本了。下面示例：①Firefox 显示的 JSON、②Chrome 无插件显示的 JSON、③Chrome 安装了 JSON Viewer 后显示的 JSON - 即刻App
-    url: https://m.okjike.com/originalPosts/5bfa321ad250cd0017c33498?username=BBF01865-F880-4977-B754-2F66F8A97692&share_distinct_id=1674d685817638-02eea7f2e63ca-7a7f3365-304704-1674d68581879f&share_depth=1
-- name: 教程
+  - name: eamodio/vscode-gitlens
+    note: Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+    url: https://github.com/eamodio/vscode-gitlens
+  - name: darkreader/darkreader
+    note: Dark Reader Chrome and Firefox extension
+    url: https://github.com/darkreader/darkreader
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 8dcd135] 20181205
+ 2 files changed, 64 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-05 14:00:00.000450515 +0800 CST m=+523991.231642291
+/d2-projects/d2-awesome/issues/280
+/d2-projects/d2-awesome/issues/279
+/d2-projects/d2-awesome/issues/278
+/d2-projects/d2-awesome/issues/277
+/d2-projects/d2-awesome/issues/276
+/d2-projects/d2-awesome/issues/275
+/d2-projects/d2-awesome/issues/274
+/d2-projects/d2-awesome/issues/272
+/d2-projects/d2-awesome/issues/271
+- name: 开源项目
   list:
-  - name: GraphQL newbie tutorial - Schema definition | GraphQL Blog
-    note: GraphQL newbie tutorial - Schema definition | GraphQL Blog
-    url: https://blog.graphqleditor.com/GraphQL-newbie-tutorial-Schema-Definition-SDL/
-  - name: Getting started with Docker #1 – ITNEXT
-    note: Getting started with Docker #1 – ITNEXT
-    url: https://itnext.io/getting-started-with-docker-1-b4dc83e64389
-  - name: [译]await VS return VS return await - 掘金
-    note: [译]await VS return VS return await - 掘金
-    url: https://juejin.im/post/5bf7baa1e51d4532206d5d92
-- name: 招聘
+  - name: algorithm-visualizer/algorithm-visualizer
+    note: Interactive Online Platform that Visualizes Algorithms from Code
+    url: https://github.com/algorithm-visualizer/algorithm-visualizer
+  - name: zhoushaw/Instagram
+    note: A web-app with some feature like Instagram!!😉📸😊
+    url: https://github.com/zhoushaw/Instagram
+  - name: vladocar/screenshoteer
+    note: Make website screenshots and mobile emulations from the command line.
+    url: https://github.com/vladocar/screenshoteer
+- name: 新闻
   list:
+  - name: Google’s cross-platform Flutter UI toolkit hits version 1.0 | TechCrunch
+    note: Google’s cross-platform Flutter UI toolkit hits version 1.0 | TechCrunch
+    url: https://techcrunch.com/2018/12/04/googles-cross-platform-flutter-ui-toolkit-hits-version-1-0/
+  - name: Release v6.0.0 · reduxjs/react-redux
+    note: 
+    url: https://github.com/reduxjs/react-redux/releases/tag/v6.0.0
+- name: 分享
+  list:
+  - name: 为什么要避免写 for 循环 - 掘金
+    note: 为什么要避免写 for 循环 - 掘金
+    url: https://juejin.im/post/5c0463226fb9a049bc4c67c0
+- name: 设计
+  list:
+  - name: Search - UI Movement
+    note: Search - UI Movement
+    url: https://uimovement.com/ui/6793/search/
+- name: 工具
+  list:
+  - name: eamodio/vscode-gitlens
+    note: Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+    url: https://github.com/eamodio/vscode-gitlens
+  - name: darkreader/darkreader
+    note: Dark Reader Chrome and Firefox extension
+    url: https://github.com/darkreader/darkreader
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master ee8c717] 20181205
+ 2 files changed, 57 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-06 12:00:00.000984128 +0800 CST m=+603191.232176125
+/d2-projects/d2-awesome/issues/287
+/d2-projects/d2-awesome/issues/286
+/d2-projects/d2-awesome/issues/285
+/d2-projects/d2-awesome/issues/284
+/d2-projects/d2-awesome/issues/283
+/d2-projects/d2-awesome/issues/282
+/d2-projects/d2-awesome/issues/281
+- name: 新闻
+  list:
+  - name: Chromium 或将一统浏览器内核？微软也投奔 Chromium 怀抱
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/XLhjR6Z3fKuUSpjdDf5QHQ
+- name: 分享
+  list:
+  - name: Hummingbird 在Web上运行Flutter应用
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/ykcLufh9W2DIa5mByGCkoQ
+  - name: 深入理解 CSS linear-gradient
+    note: 奇舞周刊
+    url: https://mp.weixin.qq.com/s/Ot0tqtPUiqjX0mrOWhXAEg
+- name: 设计
+  list:
+  - name: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    note: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    url: https://github.com/alexpate/awesome-design-systems
+- name: 开源项目
+  list:
+  - name: Akryum/vue-virtual-scroller
+    note: ⚡️ Blazing fast scrolling for any amount of data
+    url: https://github.com/Akryum/vue-virtual-scroller
+  - name: llh911001/mostly-adequate-guide-chinese
+    note: JS 函数式编程指南中文版
+    url: https://github.com/llh911001/mostly-adequate-guide-chinese
+  - name: vuejs/vue-touch
+    note: Hammer.js wrapper for Vue.js
+    url: https://github.com/vuejs/vue-touch
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master ac6f448] 20181206
+ 2 files changed, 95 insertions(+), 0 deletions(-)
+ create mode 100644 20181206.md
+Ready! Gooo! %v 2018-12-06 13:00:00.000977147 +0800 CST m=+606791.232168840
+/d2-projects/d2-awesome/issues/289
+/d2-projects/d2-awesome/issues/288
+/d2-projects/d2-awesome/issues/287
+/d2-projects/d2-awesome/issues/286
+/d2-projects/d2-awesome/issues/285
+/d2-projects/d2-awesome/issues/284
+/d2-projects/d2-awesome/issues/283
+/d2-projects/d2-awesome/issues/282
+/d2-projects/d2-awesome/issues/281
+- name: 开源项目
+  list:
+  - name: Akryum/vue-virtual-scroller
+    note: ⚡️ Blazing fast scrolling for any amount of data
+    url: https://github.com/Akryum/vue-virtual-scroller
+  - name: llh911001/mostly-adequate-guide-chinese
+    note: JS 函数式编程指南中文版
+    url: https://github.com/llh911001/mostly-adequate-guide-chinese
+  - name: vuejs/vue-touch
+    note: Hammer.js wrapper for Vue.js
+    url: https://github.com/vuejs/vue-touch
+- name: 分享
+  list:
+  - name: 【第1468期】前端与编译原理——用JS写一个JS解释器
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/NRZQI-Md0dqNAGY96qsn-A
+  - name: 【视频】挖掘Vue的声明式交互能力
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/j3GdpXIv483-MsYnrMsu8A
+  - name: Hummingbird 在Web上运行Flutter应用
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/ykcLufh9W2DIa5mByGCkoQ
+  - name: 深入理解 CSS linear-gradient
+    note: 奇舞周刊
+    url: https://mp.weixin.qq.com/s/Ot0tqtPUiqjX0mrOWhXAEg
+- name: 新闻
+  list:
+  - name: Chromium 或将一统浏览器内核？微软也投奔 Chromium 怀抱
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/XLhjR6Z3fKuUSpjdDf5QHQ
+- name: 设计
+  list:
+  - name: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    note: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    url: https://github.com/alexpate/awesome-design-systems
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master fd71767] 20181206
+ 2 files changed, 72 insertions(+), 15 deletions(-)
+Ready! Gooo! %v 2018-12-06 14:00:00.000572004 +0800 CST m=+610391.231764062
+/d2-projects/d2-awesome/issues/289
+/d2-projects/d2-awesome/issues/288
+/d2-projects/d2-awesome/issues/287
+/d2-projects/d2-awesome/issues/286
+/d2-projects/d2-awesome/issues/285
+/d2-projects/d2-awesome/issues/284
+/d2-projects/d2-awesome/issues/283
+/d2-projects/d2-awesome/issues/282
+/d2-projects/d2-awesome/issues/281
+- name: 分享
+  list:
+  - name: 【第1468期】前端与编译原理——用JS写一个JS解释器
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/NRZQI-Md0dqNAGY96qsn-A
+  - name: 【视频】挖掘Vue的声明式交互能力
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/j3GdpXIv483-MsYnrMsu8A
+  - name: Hummingbird 在Web上运行Flutter应用
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/ykcLufh9W2DIa5mByGCkoQ
+  - name: 深入理解 CSS linear-gradient
+    note: 奇舞周刊
+    url: https://mp.weixin.qq.com/s/Ot0tqtPUiqjX0mrOWhXAEg
+- name: 新闻
+  list:
+  - name: Chromium 或将一统浏览器内核？微软也投奔 Chromium 怀抱
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/XLhjR6Z3fKuUSpjdDf5QHQ
+- name: 设计
+  list:
+  - name: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    note: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    url: https://github.com/alexpate/awesome-design-systems
+- name: 开源项目
+  list:
+  - name: Akryum/vue-virtual-scroller
+    note: ⚡️ Blazing fast scrolling for any amount of data
+    url: https://github.com/Akryum/vue-virtual-scroller
+  - name: llh911001/mostly-adequate-guide-chinese
+    note: JS 函数式编程指南中文版
+    url: https://github.com/llh911001/mostly-adequate-guide-chinese
+  - name: vuejs/vue-touch
+    note: Hammer.js wrapper for Vue.js
+    url: https://github.com/vuejs/vue-touch
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 8631aa4] 20181206
+ 2 files changed, 61 insertions(+), 11 deletions(-)
+Ready! Gooo! %v 2018-12-07 12:00:00.001005713 +0800 CST m=+689591.232197538
+/d2-projects/d2-awesome/issues/293
+/d2-projects/d2-awesome/issues/292
+/d2-projects/d2-awesome/issues/290
+/d2-projects/d2-awesome/issues/289
+/d2-projects/d2-awesome/issues/288
+/d2-projects/d2-awesome/issues/287
+/d2-projects/d2-awesome/issues/286
+/d2-projects/d2-awesome/issues/285
+/d2-projects/d2-awesome/issues/284
+/d2-projects/d2-awesome/issues/283
+/d2-projects/d2-awesome/issues/282
+/d2-projects/d2-awesome/issues/281
+- name: 设计
+  list:
+  - name: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    note: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    url: https://github.com/alexpate/awesome-design-systems
+- name: 开源项目
+  list:
+  - name: sindresorhus/ora
+    note: Elegant terminal spinner
+    url: https://github.com/sindresorhus/ora
+  - name: Akryum/vue-virtual-scroller
+    note: ⚡️ Blazing fast scrolling for any amount of data
+    url: https://github.com/Akryum/vue-virtual-scroller
+  - name: llh911001/mostly-adequate-guide-chinese
+    note: JS 函数式编程指南中文版
+    url: https://github.com/llh911001/mostly-adequate-guide-chinese
+  - name: vuejs/vue-touch
+    note: Hammer.js wrapper for Vue.js
+    url: https://github.com/vuejs/vue-touch
+- name: 分享
+  list:
+  - name: 「译」React Fiber 那些事 深入解析新的协调算法。(原文链接 https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e ) 本系列第一篇文章，这一系列的目的是向你描绘出 React 内部架构。本文提供一些与算法相关的重要概念和数据结构，并对其进行深入阐述。一旦我们有足够的背景，我们将探索用于遍历和处理 Fiber 树的算法和主要功能。 我将给你带来一些非常高阶的知识🧙。我鼓励你阅读来了解 Concurrent React 的内部工作的魔力。 需要消化的内容非常多，如果当下还不能很理解的话，不用感到压力。花些时间是值得的。 请注意，只是使用 React 的话，您不需要知道任何文中的内容。本文是关于 React 在内部是如何工作的。 - 即刻App
+    note: 「译」React Fiber 那些事 深入解析新的协调算法。(原文链接 https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e ) 本系列第一篇文章，这一系列的目的是向你描绘出 React 内部架构。本文提供一些与算法相关的重要概念和数据结构，并对其进行深入阐述。一旦我们有足够的背景，我们将探索用于遍历和处理 Fiber 树的算法和主要功能。 我将给你带来一些非常高阶的知识🧙。我鼓励你阅读来了解 Concurrent React 的内部工作的魔力。 需要消化的内容非常多，如果当下还不能很理解的话，不用感到压力。花些时间是值得的。 请注意，只是使用 React 的话，您不需要知道任何文中的内容。本文是关于 React 在内部是如何工作的。 - 即刻App
+    url: https://m.okjike.com/originalPosts/5c08f44d46fa140016263cf2?username=BBF01865-F880-4977-B754-2F66F8A97692&share_distinct_id=1674d685817638-02eea7f2e63ca-7a7f3365-304704-1674d68581879f&share_depth=1
   - name: 前端之巅
     note: 前端之巅
-    url: https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect
+    url: https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490053&idx=1&sn=375dccf208a507c5d24b3527a3167cf8#wechat_redirect
+  - name: 【第1468期】前端与编译原理——用JS写一个JS解释器
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/NRZQI-Md0dqNAGY96qsn-A
+  - name: 【视频】挖掘Vue的声明式交互能力
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/j3GdpXIv483-MsYnrMsu8A
+  - name: Hummingbird 在Web上运行Flutter应用
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/ykcLufh9W2DIa5mByGCkoQ
+  - name: 深入理解 CSS linear-gradient
+    note: 奇舞周刊
+    url: https://mp.weixin.qq.com/s/Ot0tqtPUiqjX0mrOWhXAEg
+- name: 新闻
+  list:
+  - name: Chromium 或将一统浏览器内核？微软也投奔 Chromium 怀抱
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/XLhjR6Z3fKuUSpjdDf5QHQ
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master bf2fbfb] 20181207
+ 2 files changed, 130 insertions(+), 0 deletions(-)
+ create mode 100644 20181207.md
+Ready! Gooo! %v 2018-12-07 13:00:00.001016128 +0800 CST m=+693191.232208006
+/d2-projects/d2-awesome/issues/293
+/d2-projects/d2-awesome/issues/292
+/d2-projects/d2-awesome/issues/290
+/d2-projects/d2-awesome/issues/289
+/d2-projects/d2-awesome/issues/288
+/d2-projects/d2-awesome/issues/287
+/d2-projects/d2-awesome/issues/286
+/d2-projects/d2-awesome/issues/285
+/d2-projects/d2-awesome/issues/284
+/d2-projects/d2-awesome/issues/283
+/d2-projects/d2-awesome/issues/282
+/d2-projects/d2-awesome/issues/281
 - name: 分享
   list:
-  - name: 前端早读课
+  - name: 「译」React Fiber 那些事 深入解析新的协调算法。(原文链接 https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e ) 本系列第一篇文章，这一系列的目的是向你描绘出 React 内部架构。本文提供一些与算法相关的重要概念和数据结构，并对其进行深入阐述。一旦我们有足够的背景，我们将探索用于遍历和处理 Fiber 树的算法和主要功能。 我将给你带来一些非常高阶的知识🧙。我鼓励你阅读来了解 Concurrent React 的内部工作的魔力。 需要消化的内容非常多，如果当下还不能很理解的话，不用感到压力。花些时间是值得的。 请注意，只是使用 React 的话，您不需要知道任何文中的内容。本文是关于 React 在内部是如何工作的。 - 即刻App
+    note: 「译」React Fiber 那些事 深入解析新的协调算法。(原文链接 https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e ) 本系列第一篇文章，这一系列的目的是向你描绘出 React 内部架构。本文提供一些与算法相关的重要概念和数据结构，并对其进行深入阐述。一旦我们有足够的背景，我们将探索用于遍历和处理 Fiber 树的算法和主要功能。 我将给你带来一些非常高阶的知识🧙。我鼓励你阅读来了解 Concurrent React 的内部工作的魔力。 需要消化的内容非常多，如果当下还不能很理解的话，不用感到压力。花些时间是值得的。 请注意，只是使用 React 的话，您不需要知道任何文中的内容。本文是关于 React 在内部是如何工作的。 - 即刻App
+    url: https://m.okjike.com/originalPosts/5c08f44d46fa140016263cf2?username=BBF01865-F880-4977-B754-2F66F8A97692&share_distinct_id=1674d685817638-02eea7f2e63ca-7a7f3365-304704-1674d68581879f&share_depth=1
+  - name: 前端之巅
+    note: 前端之巅
+    url: https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490053&idx=1&sn=375dccf208a507c5d24b3527a3167cf8#wechat_redirect
+  - name: 【第1468期】前端与编译原理——用JS写一个JS解释器
     note: 前端早读课
-    url: https://mp.weixin.qq.com/s/n9Q-b65Zya5bxlM6F3v-tQ
-  - name: 前端早读课
+    url: https://mp.weixin.qq.com/s/NRZQI-Md0dqNAGY96qsn-A
+  - name: 【视频】挖掘Vue的声明式交互能力
     note: 前端早读课
-    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230525&idx=1&sn=99f1cd18de1593c4f602cfde5f6d29a7#wechat_redirect
-  - name: 奇舞周刊
+    url: https://mp.weixin.qq.com/s/j3GdpXIv483-MsYnrMsu8A
+  - name: Hummingbird 在Web上运行Flutter应用
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/ykcLufh9W2DIa5mByGCkoQ
+  - name: 深入理解 CSS linear-gradient
     note: 奇舞周刊
-    url: https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ%3D%3D&mid=2650588573&idx=1&sn=c71d7b8d8da4e4eca07a1f1b94177eec#wechat_redirect
-  - name: 前端早读课
-    note: 前端早读课
-    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230534&idx=1&sn=25761fb0d218c3f11dd97662fbad0f0a#wechat_redirect
-  - name: 12 CSS 3D Text Effects - 前端 - 掘金
-    note: 12 CSS 3D Text Effects - 前端 - 掘金
-    url: https://juejin.im/entry/5bf65a836fb9a049d05d5e10
+    url: https://mp.weixin.qq.com/s/Ot0tqtPUiqjX0mrOWhXAEg
+- name: 新闻
+  list:
+  - name: Chromium 或将一统浏览器内核？微软也投奔 Chromium 怀抱
+    note: UC国际技术
+    url: https://mp.weixin.qq.com/s/XLhjR6Z3fKuUSpjdDf5QHQ
 - name: 设计
   list:
-  - name: rsuite/README_zh.md at master · rsuite/rsuite
-    note: rsuite/README_zh.md at master · rsuite/rsuite
-    url: https://github.com/rsuite/rsuite/blob/master/README_zh.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-  - name: AdminLTE/README.md at master · almasaeed2010/AdminLTE · GitHub
-    note: AdminLTE/README.md at master · almasaeed2010/AdminLTE · GitHub
-    url: https://github.com/almasaeed2010/AdminLTE/blob/master/README.md
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master a975ea8] 20181126
- 2 files changed, 135 insertions(+), 0 deletions(-)
- create mode 100644 20181126.md
-Ready! Gooo! %v 2018-11-26 10:03:18.628481049 +0000 UTC m=+367200.001806825
-/d2-projects/d2-awesome/issues/202
-/d2-projects/d2-awesome/issues/201
-- name: 教程
-  list:
-  - name: 跨域资源共享——CORS - 掘金
-    note: 跨域资源共享——CORS - 掘金
-    url: https://juejin.im/post/5bfa5f8e6fb9a049a7117b67#comment
-- name: 分享
-  list:
-  - name: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
-    note: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
-    url: https://juejin.im/post/5bfa5a4ce51d451cf6158b38
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master 88710ad] 20181126
- 2 files changed, 53 insertions(+), 70 deletions(-)
- rewrite 20181126.md (88%)
-Ready! Gooo! %v 2018-11-26 16:03:18.62834911 +0000 UTC m=+388800.001674845
-/d2-projects/d2-awesome/issues/202
-/d2-projects/d2-awesome/issues/201
-- name: 教程
-  list:
-  - name: 跨域资源共享——CORS - 掘金
-    note: 跨域资源共享——CORS - 掘金
-    url: https://juejin.im/post/5bfa5f8e6fb9a049a7117b67#comment
-- name: 分享
-  list:
-  - name: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
-    note: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
-    url: https://juejin.im/post/5bfa5a4ce51d451cf6158b38
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master 7016f17] 20181126
- 1 files changed, 19 insertions(+), 0 deletions(-)
-Ready! Gooo! %v 2018-11-26 22:03:18.628478016 +0000 UTC m=+410400.001803834
-/d2-projects/d2-awesome/issues/202
-/d2-projects/d2-awesome/issues/201
-- name: 教程
-  list:
-  - name: 跨域资源共享——CORS - 掘金
-    note: 跨域资源共享——CORS - 掘金
-    url: https://juejin.im/post/5bfa5f8e6fb9a049a7117b67#comment
-- name: 分享
-  list:
-  - name: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
-    note: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
-    url: https://juejin.im/post/5bfa5a4ce51d451cf6158b38
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master 721a410] 20181126
- 1 files changed, 18 insertions(+), 0 deletions(-)
-Ready! Gooo! %v 2018-11-27 04:03:18.62851207 +0000 UTC m=+432000.001837889
-/d2-projects/d2-awesome/issues/216
-/d2-projects/d2-awesome/issues/215
-/d2-projects/d2-awesome/issues/214
-/d2-projects/d2-awesome/issues/213
-/d2-projects/d2-awesome/issues/212
-/d2-projects/d2-awesome/issues/211
-/d2-projects/d2-awesome/issues/210
-/d2-projects/d2-awesome/issues/209
-/d2-projects/d2-awesome/issues/208
-/d2-projects/d2-awesome/issues/207
-/d2-projects/d2-awesome/issues/206
-/d2-projects/d2-awesome/issues/205
-/d2-projects/d2-awesome/issues/204
-/d2-projects/d2-awesome/issues/203
-/d2-projects/d2-awesome/issues/202
-/d2-projects/d2-awesome/issues/201
+  - name: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    note: alexpate/awesome-design-systems 💅🏻 ⚒ A collection of awesome design systems
+    url: https://github.com/alexpate/awesome-design-systems
 - name: 开源项目
   list:
-  - name: 使用 Vue.js 开发跨平台应用的前端框架
-    note: dcloudio/uni-app
-    url: https://github.com/dcloudio/uni-app
-  - name: 可视化的图形网络库
-    note: Cytoscape.js
-    url: http://js.cytoscape.org/
-  - name: 猜画小哥的另一种实现 Cool
-    note: 1991viet/QuickDraw
-    url: https://github.com/1991viet/QuickDraw
-  - name: 客户端渲染的静态站点生成器
-    note: chrisdiana/cms.js
-    url: https://github.com/chrisdiana/cms.js
-  - name: surmon-china/vue-awesome-swiper 🏆 Swiper component for @vuejs
-    note: surmon-china/vue-awesome-swiper 🏆 Swiper component for @vuejs
-    url: https://github.com/surmon-china/vue-awesome-swiper
+  - name: sindresorhus/ora
+    note: Elegant terminal spinner
+    url: https://github.com/sindresorhus/ora
+  - name: Akryum/vue-virtual-scroller
+    note: ⚡️ Blazing fast scrolling for any amount of data
+    url: https://github.com/Akryum/vue-virtual-scroller
+  - name: llh911001/mostly-adequate-guide-chinese
+    note: JS 函数式编程指南中文版
+    url: https://github.com/llh911001/mostly-adequate-guide-chinese
+  - name: vuejs/vue-touch
+    note: Hammer.js wrapper for Vue.js
+    url: https://github.com/vuejs/vue-touch
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 8e22480] 20181207
+ 2 files changed, 82 insertions(+), 19 deletions(-)
+Ready! Gooo! %v 2018-12-07 14:00:00.000412244 +0800 CST m=+696791.231603969
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master fba8bf4] 20181207
+ 2 files changed, 30 insertions(+), 68 deletions(-)
+ rewrite 20181207.md (89%)
+Ready! Gooo! %v 2018-12-08 12:00:00.079864734 +0800 CST m=+775991.311058233
+/d2-projects/d2-awesome/issues/294
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 876234f] 20181208
+ 2 files changed, 42 insertions(+), 0 deletions(-)
+ create mode 100644 20181208.md
+Ready! Gooo! %v 2018-12-08 13:00:00.102413695 +0800 CST m=+779591.333605759
+/d2-projects/d2-awesome/issues/294
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 6cc24f7] 20181208
+ 1 files changed, 13 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-08 14:00:00.000567279 +0800 CST m=+783191.231759020
+/d2-projects/d2-awesome/issues/294
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master c620f86] 20181208
+ 1 files changed, 12 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-09 12:00:00.001072613 +0800 CST m=+862391.232264446
+/d2-projects/d2-awesome/issues/295
+/d2-projects/d2-awesome/issues/294
+- name: 开源项目
+  list:
+  - name: ratiw/vue-table
+    note: data table simplify! -- vuetable is a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+    url: https://github.com/ratiw/vue-table
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 7b21b4c] 20181209
+ 2 files changed, 52 insertions(+), 0 deletions(-)
+ create mode 100644 20181209.md
+Ready! Gooo! %v 2018-12-09 13:00:00.000809267 +0800 CST m=+865991.232001113
+/d2-projects/d2-awesome/issues/295
+/d2-projects/d2-awesome/issues/294
+- name: 开源项目
+  list:
+  - name: ratiw/vue-table
+    note: data table simplify! -- vuetable is a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+    url: https://github.com/ratiw/vue-table
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master b5747ff] 20181209
+ 1 files changed, 19 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-09 14:00:00.000973013 +0800 CST m=+869591.232164888
+/d2-projects/d2-awesome/issues/295
+/d2-projects/d2-awesome/issues/294
+- name: 开源项目
+  list:
+  - name: ratiw/vue-table
+    note: data table simplify! -- vuetable is a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+    url: https://github.com/ratiw/vue-table
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 72aea3c] 20181209
+ 1 files changed, 18 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-10 12:00:00.0017453 +0800 CST m=+948791.232937168
+/d2-projects/d2-awesome/issues/298
+/d2-projects/d2-awesome/issues/297
+/d2-projects/d2-awesome/issues/296
+/d2-projects/d2-awesome/issues/295
+/d2-projects/d2-awesome/issues/294
+- name: 开源项目
+  list:
+  - name: MisterBooo/LeetCodeAnimation
+    note: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+    url: https://github.com/MisterBooo/LeetCodeAnimation
+  - name: ratiw/vue-table
+    note: data table simplify! -- vuetable is a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+    url: https://github.com/ratiw/vue-table
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+- name: 分享
+  list:
+  - name: 技术琐话
+    note: 技术琐话
+    url: https://mp.weixin.qq.com/s/P1eWtcPaIWZO4Mccno0apQ
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master da0e36a] 20181210
+ 2 files changed, 71 insertions(+), 0 deletions(-)
+ create mode 100644 20181210.md
+Ready! Gooo! %v 2018-12-10 13:00:00.001135904 +0800 CST m=+952391.232327755
+/d2-projects/d2-awesome/issues/298
+/d2-projects/d2-awesome/issues/297
+/d2-projects/d2-awesome/issues/296
+/d2-projects/d2-awesome/issues/295
+/d2-projects/d2-awesome/issues/294
+- name: 开源项目
+  list:
+  - name: MisterBooo/LeetCodeAnimation
+    note: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+    url: https://github.com/MisterBooo/LeetCodeAnimation
+  - name: ratiw/vue-table
+    note: data table simplify! -- vuetable is a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+    url: https://github.com/ratiw/vue-table
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+- name: 分享
+  list:
+  - name: 技术琐话
+    note: 技术琐话
+    url: https://mp.weixin.qq.com/s/P1eWtcPaIWZO4Mccno0apQ
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 2d19f11] 20181210
+ 1 files changed, 30 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-10 14:00:00.000454251 +0800 CST m=+955991.231646164
+/d2-projects/d2-awesome/issues/298
+/d2-projects/d2-awesome/issues/297
+/d2-projects/d2-awesome/issues/296
+/d2-projects/d2-awesome/issues/295
+/d2-projects/d2-awesome/issues/294
+- name: 分享
+  list:
+  - name: 技术琐话
+    note: 技术琐话
+    url: https://mp.weixin.qq.com/s/P1eWtcPaIWZO4Mccno0apQ
+- name: 开源项目
+  list:
+  - name: MisterBooo/LeetCodeAnimation
+    note: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+    url: https://github.com/MisterBooo/LeetCodeAnimation
+  - name: ratiw/vue-table
+    note: data table simplify! -- vuetable is a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+    url: https://github.com/ratiw/vue-table
+- name: 工具
+  list:
+  - name: 码力全开工作室
+    note: 码力全开工作室
+    url: https://mp.weixin.qq.com/s/3RIFcvZ_NPgYd0t8XAqp2A
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 9e64f90] 20181210
+ 2 files changed, 34 insertions(+), 5 deletions(-)
+Ready! Gooo! %v 2018-12-11 12:00:00.049278337 +0800 CST m=+1035191.280472026
+/d2-projects/d2-awesome/issues/303
+/d2-projects/d2-awesome/issues/302
+/d2-projects/d2-awesome/issues/301
+/d2-projects/d2-awesome/issues/300
+/d2-projects/d2-awesome/issues/299
+- name: 开源项目
+  list:
+  - name: meolu/walle-web
+    note: walle - 瓦力 开源项目代码部署平台
+    url: https://github.com/meolu/walle-web
+- name: 工具
+  list:
+  - name: lovell/sharp
+    note: High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
+    url: https://github.com/lovell/sharp
+  - name: Home | REXPaint - A powerful and user-friendly ASCII art editor by Grid Sage Games
+    note: Home | REXPaint - A powerful and user-friendly ASCII art editor by Grid Sage Games
+    url: https://www.gridsagegames.com/rexpaint/
+- name: 教程
+  list:
+  - name: MisterBooo/LeetCodeAnimation
+    note: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+    url: https://github.com/MisterBooo/LeetCodeAnimation
+- name: 分享
+  list:
+  - name: 程序员如何将一天变成28小时
+    note: 掘金
+    url: https://juejin.im/post/5c0a28c86fb9a049c042d5fc
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master 37ab652] 20181211
+ 2 files changed, 81 insertions(+), 0 deletions(-)
+ create mode 100644 20181211.md
+Ready! Gooo! %v 2018-12-11 13:00:00.043566525 +0800 CST m=+1038791.274758433
+/d2-projects/d2-awesome/issues/306
+/d2-projects/d2-awesome/issues/305
+/d2-projects/d2-awesome/issues/304
+/d2-projects/d2-awesome/issues/303
+/d2-projects/d2-awesome/issues/302
+/d2-projects/d2-awesome/issues/301
+/d2-projects/d2-awesome/issues/300
+/d2-projects/d2-awesome/issues/299
+- name: 工具
+  list:
+  - name: lovell/sharp
+    note: High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
+    url: https://github.com/lovell/sharp
+  - name: Home | REXPaint - A powerful and user-friendly ASCII art editor by Grid Sage Games
+    note: Home | REXPaint - A powerful and user-friendly ASCII art editor by Grid Sage Games
+    url: https://www.gridsagegames.com/rexpaint/
+- name: 教程
+  list:
+  - name: MisterBooo/LeetCodeAnimation
+    note: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+    url: https://github.com/MisterBooo/LeetCodeAnimation
+- name: 分享
+  list:
+  - name: 用OpenCV在浏览器进行人脸检测 - Oraoto的日常 - SegmentFault 思否
+    note: 用OpenCV在浏览器进行人脸检测 - Oraoto的日常 - SegmentFault 思否
+    url: https://segmentfault.com/a/1190000014639145?utm_medium=referral
+  - name: 程序员如何将一天变成28小时
+    note: 掘金
+    url: https://juejin.im/post/5c0a28c86fb9a049c042d5fc
 - name: 设计
   list:
-  - name: 超过 480 个开源的 Eva icons Vue 组件版
-    note: antonreshetov/vue-eva-icons
-    url: https://github.com/antonreshetov/vue-eva-icons
-- name: 分享
+  - name: Humaaans Mix-&-Match illustration library
+    note: Humaaans Mix-&-Match illustration library
+    url: https://www.humaaans.com/
+- name: 开源项目
   list:
-  - name: 月下载量千万的 npm 包被黑客篡改，Vue 开发者可能正在遭受攻击
-    note: justjavac
-    url: https://mp.weixin.qq.com/s/IaOWxG0XLvn2znvvP1dmwA
-  - name: 前端早读课
-    note: 前端早读课
-    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230547&idx=1&sn=d6d47f921962f87649785835b1bd82f1#wechat_redirect
-  - name: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
-    note: NPM生态报告，React和Vue的差距居然这么大？ - 掘金
-    url: https://juejin.im/post/5bfa5a4ce51d451cf6158b38
-- name: 资源
-  list:
-  - name: Flutter 学习资源集合
-    note: Solido/awesome-flutter
-    url: https://github.com/Solido/awesome-flutter
-  - name: 第二届VueConf
-    note: 第二届VueConf
-    url: https://vue.w3ctech.com/
-- name: 教程
-  list:
-  - name: 一个 git 可视化交互式学习工具
-    note: pcottle/learnGitBranching
-    url: https://github.com/pcottle/learnGitBranching
-  - name: 跨域资源共享——CORS - 掘金
-    note: 跨域资源共享——CORS - 掘金
-    url: https://juejin.im/post/5bfa5f8e6fb9a049a7117b67#comment
+  - name: Eugeny/terminus
+    note: A terminal for a more modern age
+    url: https://github.com/Eugeny/terminus
+  - name: meolu/walle-web
+    note: walle - 瓦力 开源项目代码部署平台
+    url: https://github.com/meolu/walle-web
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
+[master f3f3748] 20181211
+ 2 files changed, 65 insertions(+), 5 deletions(-)
+Ready! Gooo! %v 2018-12-11 14:00:00.000516758 +0800 CST m=+1042391.231708789
+/d2-projects/d2-awesome/issues/308
+/d2-projects/d2-awesome/issues/307
+/d2-projects/d2-awesome/issues/306
+/d2-projects/d2-awesome/issues/305
+/d2-projects/d2-awesome/issues/304
+/d2-projects/d2-awesome/issues/303
+/d2-projects/d2-awesome/issues/302
+/d2-projects/d2-awesome/issues/301
+/d2-projects/d2-awesome/issues/300
+/d2-projects/d2-awesome/issues/299
 - name: 工具
   list:
-  - name: cookieY/Yearning Mysql web端sql审核平台
-    url: https://github.com/cookieY/Yearning
-
-  - name: 更强力的 nginx 配置生成工具
-    note: valentinxxx/nginxconfig.io
-    url: https://github.com/valentinxxx/nginxconfig.io
-  - name: 一个进度条工具
-    note: bvaughn/progress-estimator
-    url: https://github.com/bvaughn/progress-estimator
-
-exec: "cd": executable file not found in $PATH
-Updating 721a410..9b25fa2
-Fast-forward
- LICENSE |   21 +++++++++++++++++++++
- 1 files changed, 21 insertions(+), 0 deletions(-)
- create mode 100644 LICENSE
-[master 17e4e56] 20181127
- 2 files changed, 170 insertions(+), 0 deletions(-)
- create mode 100644 20181127.md
-Ready! Gooo! %v 2018-11-27 10:03:18.628482709 +0000 UTC m=+453600.001808467
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master 910025b] 20181127
- 2 files changed, 31 insertions(+), 84 deletions(-)
- rewrite 20181127.md (85%)
-Ready! Gooo! %v 2018-11-27 16:03:18.628369854 +0000 UTC m=+475200.001695636
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master 0a6ba15] 20181127
- 1 files changed, 7 insertions(+), 0 deletions(-)
-Ready! Gooo! %v 2018-11-27 22:03:18.628411171 +0000 UTC m=+496800.001737209
-
-exec: "cd": executable file not found in $PATH
-Already up-to-date.
-[master 7b58f30] 20181127
- 1 files changed, 6 insertions(+), 0 deletions(-)
-Ready! Gooo! %v 2018-11-28 04:03:18.628489577 +0000 UTC m=+518400.001815375
-/d2-projects/d2-awesome/issues/223
-/d2-projects/d2-awesome/issues/222
-/d2-projects/d2-awesome/issues/221
-/d2-projects/d2-awesome/issues/220
-/d2-projects/d2-awesome/issues/219
-- name: 分享
-  list:
-  - name: Cookie 知识二则 - 知乎
-    note: Cookie 知识二则 - 知乎
-    url: https://zhuanlan.zhihu.com/p/50541175
-  - name: 奇舞周刊
-    note: 奇舞周刊
-    url: https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ%3D%3D&mid=2650588583&idx=1&sn=00daad54eebfe86775282628c0599626#wechat_redirect
-  - name: 前端早读课
-    note: 前端早读课
-    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect
+  - name: lovell/sharp
+    note: High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
+    url: https://github.com/lovell/sharp
+  - name: Home | REXPaint - A powerful and user-friendly ASCII art editor by Grid Sage Games
+    note: Home | REXPaint - A powerful and user-friendly ASCII art editor by Grid Sage Games
+    url: https://www.gridsagegames.com/rexpaint/
 - name: 教程
   list:
-  - name: HTTP/3 详解
-    note: Introduction · HTTP/3 explained
-    url: https://http3-explained.haxx.se/zh/
-- name: 工具
+  - name: MisterBooo/LeetCodeAnimation
+    note: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+    url: https://github.com/MisterBooo/LeetCodeAnimation
+- name: 设计
   list:
-  - name: Scatter Stocks
-    note: Scatter Stocks
-    url: https://scatterstocks.com/index.html?symbols=AAPL,GOOGL,DVMT,MSFT,AMZN&events=QXBwbGXigJlzIEhvbWVQb2QgSGFzIEFycml2ZWQuIERvbuKAmXQgUnVzaCB0byBCdXkgSXQuLTAyLzA2LzIwMThAIUBBcHBsZSBIaXJlcyBHb29nbGXigJlzIEEuSS4gQ2hpZWYtMDQvMDMvMjAxOEAhQA==
+  - name: 【第1473期】用代码做设计
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=1&sn=65d0c75e8fe129f9713f547ba3c34ce6#wechat_redirect
+  - name: Humaaans Mix-&-Match illustration library
+    note: Humaaans Mix-&-Match illustration library
+    url: https://www.humaaans.com/
+- name: 分享
+  list:
+  - name: 利用Vue原理实现一个mini版的MVVM框架
+    note: 前端外刊评论
+    url: https://mp.weixin.qq.com/s?__biz=MzAwNTAzMjcxNg%3D%3D&mid=2651425502&idx=1&sn=6c5025603df50cec94863841cbdfd47b#wechat_redirect
+  - name: 用OpenCV在浏览器进行人脸检测 - Oraoto的日常 - SegmentFault 思否
+    note: 用OpenCV在浏览器进行人脸检测 - Oraoto的日常 - SegmentFault 思否
+    url: https://segmentfault.com/a/1190000014639145?utm_medium=referral
+  - name: 程序员如何将一天变成28小时
+    note: 掘金
+    url: https://juejin.im/post/5c0a28c86fb9a049c042d5fc
+- name: 开源项目
+  list:
+  - name: Eugeny/terminus
+    note: A terminal for a more modern age
+    url: https://github.com/Eugeny/terminus
+  - name: meolu/walle-web
+    note: walle - 瓦力 开源项目代码部署平台
+    url: https://github.com/meolu/walle-web
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
