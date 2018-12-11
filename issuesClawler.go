@@ -10,7 +10,6 @@ import (
 	"os/exec"
 	"strings"
 	"time"
-	"github.com/robfig/cron"
 )
 
 const (
@@ -18,22 +17,23 @@ const (
 	issuesUrl string = "/d2-projects/d2-awesome/issues"
 )
 
-func main() {
-	i := 0
-	c := cron.New()
-	spec := "0 0 12 * * ?"
-	c.AddFunc(spec, func() {
-		i++
-		run()
-	})
-	c.Start()
-	select{}
-}
+//func main() {
+//	i := 0
+//	c := cron.New()
+//	spec := "0 0 12 * * ?"
+//	c.AddFunc(spec, func() {
+//		i++
+//		run()
+//	})
+//	c.Start()
+//	select{}
+//}
 
-func run() {
+func main() {
 	fmt.Println("Ready! Gooo! %v", time.Now())
 	nameString := dayString() //dd
 	dateString := datString() //yyyy.mm.dd
+	urlParam := dateString2() //yyyy-mm-dd
 	filename := nameString + ".md"
 	//go文件要在根目录，todo 判断今天的文件是否已经存在
 	//var dir string = "201810/01.md"
@@ -41,7 +41,7 @@ func run() {
 	//create markdown file like 01.md
 	createMarkDown(dateString, filename)
 	//start scrap
-	mdContext := scrape()
+	mdContext := scrape(urlParam)
 	fmt.Println(mdContext)
 	//keep write
 	writeMdContext(mdContext, filename)
@@ -52,10 +52,12 @@ func run() {
 }
 
 
-func scrape() string {
+func scrape(urlParam string) string {
 	//var mdContext string  //
 	mapList := make(map[string]string)
-	response := getResponse(basUrl+issuesUrl)
+	//todo if crawler cron time change pls check here for issues search param! It's 14:00:00+08:00 everyday
+	urlQueryParam := "?q=created%3A>" + urlParam + "T14%3A00%3A00%2B08%3A00"
+	response := getResponse(basUrl+issuesUrl+urlQueryParam)
 	// 获取issue主页
 	dom, err := goquery.NewDocumentFromReader(response.Body)
 	if err != nil {
@@ -209,6 +211,20 @@ func datString() string {
 		dStr = fmt.Sprintf("0%d", d)
 	}
 	return fmt.Sprintf("%d.%s.%s", y, mStr, dStr)
+
+}
+
+func dateString2() string {
+	y, m, d := time.Now().Date()
+	mStr := fmt.Sprintf("%d", m)
+	dStr := fmt.Sprintf("%d", d)
+	if m < 10 {
+		mStr = fmt.Sprintf("0%d", m)
+	}
+	if d < 10 {
+		dStr = fmt.Sprintf("0%d", d)
+	}
+	return fmt.Sprintf("%d-%s-%s", y, mStr, dStr)
 
 }
 
