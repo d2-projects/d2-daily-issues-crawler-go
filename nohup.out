@@ -1311,3 +1311,52 @@ Ready! Gooo! %v 2018-12-11 12:00:00.049278337 +0800 CST m=+1035191.280472026
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master 37ab652] 20181211
+ 2 files changed, 81 insertions(+), 0 deletions(-)
+ create mode 100644 20181211.md
+Ready! Gooo! %v 2018-12-11 13:00:00.043566525 +0800 CST m=+1038791.274758433
+/d2-projects/d2-awesome/issues/306
+/d2-projects/d2-awesome/issues/305
+/d2-projects/d2-awesome/issues/304
+/d2-projects/d2-awesome/issues/303
+/d2-projects/d2-awesome/issues/302
+/d2-projects/d2-awesome/issues/301
+/d2-projects/d2-awesome/issues/300
+/d2-projects/d2-awesome/issues/299
+- name: 工具
+  list:
+  - name: lovell/sharp
+    note: High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
+    url: https://github.com/lovell/sharp
+  - name: Home | REXPaint - A powerful and user-friendly ASCII art editor by Grid Sage Games
+    note: Home | REXPaint - A powerful and user-friendly ASCII art editor by Grid Sage Games
+    url: https://www.gridsagegames.com/rexpaint/
+- name: 教程
+  list:
+  - name: MisterBooo/LeetCodeAnimation
+    note: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+    url: https://github.com/MisterBooo/LeetCodeAnimation
+- name: 分享
+  list:
+  - name: 用OpenCV在浏览器进行人脸检测 - Oraoto的日常 - SegmentFault 思否
+    note: 用OpenCV在浏览器进行人脸检测 - Oraoto的日常 - SegmentFault 思否
+    url: https://segmentfault.com/a/1190000014639145?utm_medium=referral
+  - name: 程序员如何将一天变成28小时
+    note: 掘金
+    url: https://juejin.im/post/5c0a28c86fb9a049c042d5fc
+- name: 设计
+  list:
+  - name: Humaaans Mix-&-Match illustration library
+    note: Humaaans Mix-&-Match illustration library
+    url: https://www.humaaans.com/
+- name: 开源项目
+  list:
+  - name: Eugeny/terminus
+    note: A terminal for a more modern age
+    url: https://github.com/Eugeny/terminus
+  - name: meolu/walle-web
+    note: walle - 瓦力 开源项目代码部署平台
+    url: https://github.com/meolu/walle-web
+
+exec: "cd": executable file not found in $PATH
+Already up-to-date.
