@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/robfig/cron"
 	"log"
 	"net/http"
 	"os"
@@ -17,19 +18,19 @@ const (
 	issuesUrl string = "/d2-projects/d2-awesome/issues"
 )
 
-//func main() {
-//	i := 0
-//	c := cron.New()
-//	spec := "0 0 12 * * ?"
-//	c.AddFunc(spec, func() {
-//		i++
-//		run()
-//	})
-//	c.Start()
-//	select{}
-//}
-
 func main() {
+	i := 0
+	c := cron.New()
+	spec := "0 0 12 * * ?"
+	c.AddFunc(spec, func() {
+		i++
+		run()
+	})
+	c.Start()
+	select{}
+}
+
+func run() {
 	fmt.Println("Ready! Gooo! %v", time.Now())
 	nameString := dayString() //dd
 	dateString := datString() //yyyy.mm.dd
