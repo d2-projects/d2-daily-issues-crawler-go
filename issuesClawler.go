@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/robfig/cron"
 	"log"
 	"net/http"
 	"os"
@@ -17,19 +18,19 @@ const (
 	issuesUrl string = "/d2-projects/d2-awesome/issues"
 )
 
-//func main() {
-//	i := 0
-//	c := cron.New()
-//	spec := "0 0 12-14 * * ?"
-//	c.AddFunc(spec, func() {
-//		i++
-//		run()
-//	})
-//	c.Start()
-//	select{}
-//}
-
 func main() {
+	i := 0
+	c := cron.New()
+	spec := "0 0 12-14 * * ?"
+	c.AddFunc(spec, func() {
+		i++
+		run()
+	})
+	c.Start()
+	select{}
+}
+
+func run() {
 	fmt.Println("Ready! Gooo! %v", time.Now())
 	nameString := dayString() //dd
 	dateString := datString() //yyyy.mm.dd
@@ -56,7 +57,7 @@ func scrape(urlParam string) string {
 	//var mdContext string  //
 	mapList := make(map[string]string)
 	//todo if crawler cron time change pls check here for issues search param! It's 14:00:00+08:00 everyday
-	urlQueryParam := "?q=created%3A>" + urlParam + "T14%3A00%3A00%2B08%3A00"
+	urlQueryParam := "?q=created%3A>" + urlParam + "T14%3A00%3A00%2B08%3A00+is%3Aopen"
 	response := getResponse(basUrl+issuesUrl+urlQueryParam)
 	// 获取issue主页
 	dom, err := goquery.NewDocumentFromReader(response.Body)
@@ -224,7 +225,6 @@ func dateString2() string {
 	if d < 11 {
 		dStr = fmt.Sprintf("0%d", d)
 	}
-	fmt.Println(dStr, "--", d)
 	return fmt.Sprintf("%d-%s-%s", y, mStr, dStr)
 
 }
