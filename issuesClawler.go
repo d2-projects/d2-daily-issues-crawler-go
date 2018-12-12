@@ -32,37 +32,77 @@ func main() {
 
 func run() {
 	fmt.Println("Ready! Gooo! %v", time.Now())
-	nameString := dayString() //dd
-	dateString := datString() //yyyy.mm.dd
-	urlParam := dateString2() //yyyy-mm-dd
-	filename := nameString + ".md"
-	//go文件要在根目录，todo 判断今天的文件是否已经存在
-	//var dir string = "201810/01.md"
-	mkdir4month(dateString)
+	y, m, d := time.Now().Date()
+	mStr := fmt.Sprintf("%d", m)
+	dStr := fmt.Sprintf("%d", d)
+	dyestStr := fmt.Sprintf("%d", d-1)
+	if m < 10 {
+		mStr = fmt.Sprintf("0%d", m)
+	}
+	if d < 10 {
+		dStr = fmt.Sprintf("0%d", d)
+	}
+	if d < 11 {
+		dyestStr = fmt.Sprintf("0%d", d-1)
+	}
+	dateString := fmt.Sprintf("%d.%s.%s", y, mStr, dStr) //yyyy.mm.dd
+	urlParam := fmt.Sprintf("%d-%s-%s", y, mStr, dyestStr) //yyyy-mm-dd
+	dir := "./" + fmt.Sprintf("%d/%s", y, mStr)
+	path := dir + "/" + fmt.Sprintf("%s", dStr) + ".md"
+	//go文件要在根目录，判断今天的文件是否已经存在 例如 path = "./2018/11/11.md"
+	mkdir4month(dir)
 	//create markdown file like 01.md
-	createMarkDown(dateString, filename)
+	createMarkDown(dateString, path)
 	//start scrap
 	mdContext := scrape(urlParam)
 	fmt.Println(mdContext)
 	//keep write
-	writeMdContext(mdContext, filename)
-	//退出目录
-	exitDir()
-	//todo git
-	gitPushDaily(nameString)
+	writeMdContext(mdContext, path)
+	//git
+	gitPushDaily(urlParam)
 }
 
 
 func scrape(urlParam string) string {
-	//var mdContext string  //
-	mapList := make(map[string]string)
+	//var mdString string = ``
+	mdMpList := make(map[string]string)
+
 	//todo if crawler cron time change pls check here for issues search param! It's 14:00:00+08:00 everyday
-	urlQueryParam := "?q=created%3A>" + urlParam + "T14%3A00%3A00%2B08%3A00+is%3Aopen"
-	response := getResponse(basUrl+issuesUrl+urlQueryParam)
-	// 获取issue主页
+	urlQueryParam := "?q=created%3A>" + urlParam + "T14%3A00%3A00%2B08%3A00+is%3Aclosed"
+	url := issuesUrl+urlQueryParam
+
+	for {
+		mdMpList = getContextListPerPage(mdMpList,basUrl+url)
+		//判断是否要获取issue下一页数据
+		response := getResponse(basUrl+url)
+
+		// 获取issue主页
+		dom, err := goquery.NewDocumentFromReader(response.Body)
+		if err != nil {
+			log.Fatalf("获取下一页失败原因", response.StatusCode)
+		}
+		nextUrl := "" //重置
+		dom.Find("a[class=next_page]").Each(func(i int, selection *goquery.Selection){
+			fmt.Println(selection.Attr("href"))
+			nextUrl,_ = selection.Attr("href")
+		})
+
+		if nextUrl == "" {
+			break
+		} else {
+			url = nextUrl
+		}
+	}
+	mdString := map2string(mdMpList)
+	return mdString
+}
+
+func getContextListPerPage(mapList map[string]string, url string) map[string]string {
+	//mapList := make(map[string]string)
+	response := getResponse(url)
 	dom, err := goquery.NewDocumentFromReader(response.Body)
 	if err != nil {
-		log.Fatalf("失败原因", response.StatusCode)
+		log.Fatalf("获取issues失败原因", response.StatusCode)
 	}
 	dom.Find("a[data-hovercard-type=issue]").Each(func(i int, selection *goquery.Selection) {
 		// 获取issue 的 href
@@ -84,8 +124,7 @@ func scrape(urlParam string) string {
 			})
 		}
 	})
-	mdContext := map2string(mapList)
-	return mdContext
+	return mapList
 }
 
 func shapeText2Map(s string) map[string]string {
@@ -144,36 +183,12 @@ func map2string(mapp map[string]string) string{
 }
 
 //每月1号自动创建文件夹，创建目录；进入目录
-func mkdir4month(date string) string{
-	dateArray := strings.Split(date,".")
-	dirnam := dateArray[0] + dateArray[1]
-	day := dateArray[2]
-	if day == "01" {
-		cmd := exec.Command("mkdir",dirnam)
-		out, err := cmd.Output()
-		if err != nil {
-			println(err.Error())
-			return dirnam
-		}
-		print(string(out))
-	}
-	return dirnam
-}
-
-func exitDir() {
-	cmd := exec.Command("cd","..")
-	out, err := cmd.Output()
+func mkdir4month(path string) {
+	err := os.MkdirAll(path, 0777)
 	if err != nil {
-		println(err.Error())
-		return
-	}
-	print(string(out))
-	cmd2 := exec.Command("pwd")
-	out2, err2 := cmd2.Output()
-	if err2 != nil {
-		println(err2.Error())
-		return
-		print(string(out2))
+		fmt.Printf("%s", err)
+	} else {
+		fmt.Print("Create Directory OK!")
 	}
 }
 
@@ -183,50 +198,6 @@ func getResponse(url string) *http.Response {
 	request.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0")
 	response, _ := client.Do(request)
 	return response
-}
-
-func dayString() string {
-	y, m, d := time.Now().Date()
-	mStr := fmt.Sprintf("%d", m)
-	dStr := fmt.Sprintf("%d", d)
-	yStr := fmt.Sprintf("%d", y)
-	if m < 10 {
-		mStr = fmt.Sprintf("0%d", m)
-	}
-	if d < 10 {
-		dStr = fmt.Sprintf("0%d", d)
-	}
-	fmt.Sprintf("%d-%s", yStr,mStr)
-	return fmt.Sprintf("%d%s%s", y, mStr,dStr)
-
-}
-
-func datString() string {
-	y, m, d := time.Now().Date()
-	mStr := fmt.Sprintf("%d", m)
-	dStr := fmt.Sprintf("%d", d)
-	if m < 10 {
-		mStr = fmt.Sprintf("0%d", m)
-	}
-	if d < 10 {
-		dStr = fmt.Sprintf("0%d", d)
-	}
-	return fmt.Sprintf("%d.%s.%s", y, mStr, dStr)
-
-}
-
-func dateString2() string {
-	y, m, d := time.Now().Date()
-	mStr := fmt.Sprintf("%d", m)
-	dStr := fmt.Sprintf("%d", d-1)
-	if m < 10 {
-		mStr = fmt.Sprintf("0%d", m)
-	}
-	if d < 11 {
-		dStr = fmt.Sprintf("0%d", d)
-	}
-	return fmt.Sprintf("%d-%s-%s", y, mStr, dStr)
-
 }
 
 func writeMdContext(md string, fn string) {
@@ -246,9 +217,9 @@ func writeMdContext(md string, fn string) {
 	}
 }
 
-func createMarkDown(date string, filename string) {
+func createMarkDown(date string, path string) {
 	// open output file
-	fo, err := os.Create(filename)
+	fo, err := os.Create(path)
 	if err != nil {
 		panic(err)
 	}
