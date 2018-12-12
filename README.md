@@ -6,16 +6,19 @@ go 写的爬虫。 自动整理 Github issue，并归类。
 
 ## How to use
 
-1. 执行 `./issuesClawler`
-2. 程序每天自动执行一次，产生文件 2018mmdd.md 在根目录
-3. copy 内容到 d2-awesome , 记得增加 d2-awesome readme.md的对应日期
+1. 执行 `go run ./issuesClawler.go`
+2. 程序每天自动执行一次，产生文件 2018/mm/dd.md 在根目录
+3. copy 内容到 d2-awesome , **记得增加 d2-awesome readme.md的对应日期**
 
 ## To Do
 
-1. go 文件放在根目录，可创建文件
+1. ~~go 文件放在根目录，可创建文件~~
 2. ~~自动提交~~
 3. ~~处理 issue 的评论~~
 4. ~~增加冒号替换，解决格式问题~~
+5. 集成在 d2-awesome 项目实现自动提交
+6. ~~分享超过20+分页支持~~
+7. ~~支持分类自定义~~
 
 ## 初始化
 
@@ -45,3 +48,8 @@ go 写的爬虫。 自动整理 Github issue，并归类。
 2018-12-11
 
 1. issue 爬取增加时间限制，仅限 t-1 14:00以后的 open 状态的 issue，避免 issue 未及时关闭导致内容重复
+
+2018-12-12
+
+1. 支持分页
+2. 支持指定目录操作
