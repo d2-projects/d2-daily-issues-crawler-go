@@ -30,6 +30,8 @@ func main() {
 	select{}
 }
 
+//test locally ,pls chang run(){} as main(){}, add dismiss git operation
+//本地测试的时候，把run方法改为main方法，并注释掉commit操作，祝使用顺利！
 func run() {
 	fmt.Println("Ready! Gooo! %v", time.Now())
 	y, m, d := time.Now().Date()
@@ -68,7 +70,7 @@ func scrape(urlParam string) string {
 	mdMpList := make(map[string]string)
 
 	//todo if crawler cron time change pls check here for issues search param! It's 14:00:00+08:00 everyday
-	urlQueryParam := "?q=created%3A>" + urlParam + "T14%3A00%3A00%2B08%3A00+is%3Aclosed"
+	urlQueryParam := "?q=created%3A>" + urlParam + "T14%3A00%3A00%2B08%3A00+is%3Aopen"
 	url := issuesUrl+urlQueryParam
 
 	for {
@@ -188,7 +190,7 @@ func mkdir4month(path string) {
 	if err != nil {
 		fmt.Printf("%s", err)
 	} else {
-		fmt.Print("Create Directory OK!")
+		fmt.Println("Create Directory OK!" + path)
 	}
 }
 
