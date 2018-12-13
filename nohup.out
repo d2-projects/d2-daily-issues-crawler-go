@@ -1524,3 +1524,40 @@ Create Directory OK!./2018/12
     url: http://www.adultswim.com/etcetera/choir/
 
 Already up-to-date.
+[master 3ad4bd6] 2018-12-12
+ 3 files changed, 54 insertions(+), 0 deletions(-)
+ create mode 100644 2018/12/13.md
+Ready! Gooo! %v 2018-12-13 13:00:00.001226664 +0800 CST m=+72903.251745686
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/335
+/d2-projects/d2-awesome/issues/334
+/d2-projects/d2-awesome/issues/333
+/d2-projects/d2-awesome/issues/332
+/d2-projects/d2-awesome/issues/331
+/d2-projects/d2-awesome/issues/330
+- name: 教程
+  list:
+  - name: The-Art-Of-Programming-By-July/Readme.md at master · julycoding/The-Art-Of-Programming-By-July
+    note: The-Art-Of-Programming-By-July/Readme.md at master · julycoding/The-Art-Of-Programming-By-July
+    url: https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md
+  - name: Emacs Rocks!
+    note: Emacs Rocks!
+    url: http://emacsrocks.com/
+  - name: Docker — 从入门到实践 · 语雀
+    note: Docker — 从入门到实践 · 语雀
+    url: https://www.yuque.com/grasilife/docker
+- name: 设计
+  list:
+  - name: Refactoring UI The Book
+    note: Refactoring UI The Book
+    url: https://refactoringui.com/book/
+  - name: Adult Swim - Choir
+    note: Adult Swim - Choir
+    url: http://www.adultswim.com/etcetera/choir/
+- name: 分享
+  list:
+  - name: (6) Choosing Your JavaScript Framework - YouTube
+    note: (6) Choosing Your JavaScript Framework - YouTube
+    url: https://www.youtube.com/watch?v=_P2fGeg9I5o&t=395s
+
+Already up-to-date.
