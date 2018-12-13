@@ -1504,3 +1504,23 @@ Ready! Gooo! %v 2018-12-12 14:00:00.001015057 +0800 CST m=+6760.555300072
 
 exec: "cd": executable file not found in $PATH
 Already up-to-date.
+[master d4a3f08] 20181212
+ 2 files changed, 31 insertions(+), 82 deletions(-)
+ rewrite 20181212.md (83%)
+nohup: ignoring input
+Ready! Gooo! %v 2018-12-13 12:00:00.001139447 +0800 CST m=+69303.251658419
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/331
+/d2-projects/d2-awesome/issues/330
+- name: 教程
+  list:
+  - name: Docker — 从入门到实践 · 语雀
+    note: Docker — 从入门到实践 · 语雀
+    url: https://www.yuque.com/grasilife/docker
+- name: 设计
+  list:
+  - name: Adult Swim - Choir
+    note: Adult Swim - Choir
+    url: http://www.adultswim.com/etcetera/choir/
+
+Already up-to-date.
