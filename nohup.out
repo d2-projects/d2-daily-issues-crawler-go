@@ -1561,3 +1561,85 @@ Create Directory OK!./2018/12
     url: https://www.youtube.com/watch?v=_P2fGeg9I5o&t=395s
 
 Already up-to-date.
+[master 00df2a6] 2018-12-12
+ 2 files changed, 51 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-13 14:00:00.000841177 +0800 CST m=+76503.251360158
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/345
+/d2-projects/d2-awesome/issues/344
+/d2-projects/d2-awesome/issues/343
+/d2-projects/d2-awesome/issues/342
+/d2-projects/d2-awesome/issues/341
+/d2-projects/d2-awesome/issues/340
+/d2-projects/d2-awesome/issues/339
+/d2-projects/d2-awesome/issues/338
+/d2-projects/d2-awesome/issues/337
+/d2-projects/d2-awesome/issues/336
+/d2-projects/d2-awesome/issues/335
+/d2-projects/d2-awesome/issues/334
+/d2-projects/d2-awesome/issues/333
+/d2-projects/d2-awesome/issues/332
+/d2-projects/d2-awesome/issues/331
+/d2-projects/d2-awesome/issues/330
+- name: 设计
+  list:
+  - name: Refactoring UI The Book
+    note: Refactoring UI The Book
+    url: https://refactoringui.com/book/
+  - name: Adult Swim - Choir
+    note: Adult Swim - Choir
+    url: http://www.adultswim.com/etcetera/choir/
+- name: 开源项目
+  list:
+  - name: devhubapp/devhub
+    note: DevHub TweetDeck for GitHub - Android, iOS and Web 👉
+    url: https://github.com/devhubapp/devhub
+  - name: arturadib/strapdown
+    note: Instant and elegant Markdown documents in the browser
+    url: https://github.com/arturadib/strapdown
+  - name: lukesampson/scoop
+    note: A command-line installer for Windows.
+    url: https://github.com/lukesampson/scoop
+- name: 分享
+  list:
+  - name: 想要自学深度学习？不用GPU，浏览器就够了
+    note: 机器之心
+    url: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2650753681&idx=1&sn=c17896c0c2d5fa85b11541b29bc84427#wechat_redirect
+  - name: Netflix介绍了他们把HTML5的视频播放器从原生JavaScript迁移到React.js中经历的种种。 - 一开始同时上线了新的设计 + 新的技术实现。使用变少了不知道问题出在哪。 - 第一版React实现的播放器，性能不如纯JavaScript。 - 把Video从React生命周期剥离 - 各种状态的管理 - 功能可插拔 等等... 通过各种文章了解大家是思考、找到问题的方法与路径很重要。经常是几天时间明确问题，用几分钟修复。 - 即刻App
+    note: Netflix介绍了他们把HTML5的视频播放器从原生JavaScript迁移到React.js中经历的种种。 - 一开始同时上线了新的设计 + 新的技术实现。使用变少了不知道问题出在哪。 - 第一版React实现的播放器，性能不如纯JavaScript。 - 把Video从React生命周期剥离 - 各种状态的管理 - 功能可插拔 等等... 通过各种文章了解大家是思考、找到问题的方法与路径很重要。经常是几天时间明确问题，用几分钟修复。 - 即刻App
+    url: https://m.okjike.com/originalPosts/5c10aa6d24d5be00161f3cd9?username=BBF01865-F880-4977-B754-2F66F8A97692&utm_source=wechat_session
+  - name: (3 封私信 / 80 条消息)react是不是比vue牛皮，为什么？ - 知乎
+    note: (3 封私信 / 80 条消息)react是不是比vue牛皮，为什么？ - 知乎
+    url: https://www.zhihu.com/question/301860721/answer/545031906
+  - name: (6) Choosing Your JavaScript Framework - YouTube
+    note: (6) Choosing Your JavaScript Framework - YouTube
+    url: https://www.youtube.com/watch?v=_P2fGeg9I5o&t=395s
+- name: 新闻
+  list:
+  - name: The Year in Search 2018
+    note: The Year in Search 2018
+    url: https://blog.google/products/search/year-in-search-2018/
+  - name: Population Mountains
+    note: Population Mountains
+    url: https://pudding.cool/2018/12/3d-cities-story/
+- name: 网站
+  list:
+  - name: Home • Bulmaswatch - Free themes for Bulma - A modern CSS framework based on Flexbox
+    note: Home • Bulmaswatch - Free themes for Bulma - A modern CSS framework based on Flexbox
+    url: https://jenil.github.io/bulmaswatch/
+  - name: Bootswatch Free themes for Bootstrap
+    note: Bootswatch Free themes for Bootstrap
+    url: https://bootswatch.com/
+- name: 教程
+  list:
+  - name: The-Art-Of-Programming-By-July/Readme.md at master · julycoding/The-Art-Of-Programming-By-July
+    note: The-Art-Of-Programming-By-July/Readme.md at master · julycoding/The-Art-Of-Programming-By-July
+    url: https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md
+  - name: Emacs Rocks!
+    note: Emacs Rocks!
+    url: http://emacsrocks.com/
+  - name: Docker — 从入门到实践 · 语雀
+    note: Docker — 从入门到实践 · 语雀
+    url: https://www.yuque.com/grasilife/docker
+
+Already up-to-date.
