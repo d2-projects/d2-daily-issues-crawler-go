@@ -1643,3 +1643,15 @@ Create Directory OK!./2018/12
     url: https://www.yuque.com/grasilife/docker
 
 Already up-to-date.
+[master 753f980] 2018-12-12
+ 2 files changed, 129 insertions(+), 11 deletions(-)
+Ready! Gooo! %v 2018-12-14 12:00:00.000762362 +0800 CST m=+155703.251281444
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/346
+- name: 开源项目
+  list:
+  - name: scurker/currency.js
+    note: A javascript library for handling currencies
+    url: https://github.com/scurker/currency.js
+
+Already up-to-date.
