@@ -1655,3 +1655,20 @@ Create Directory OK!./2018/12
     url: https://github.com/scurker/currency.js
 
 Already up-to-date.
+[master acf1979] 2018-12-13
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 2018/12/14.md
+Ready! Gooo! %v 2018-12-14 13:00:00.000655721 +0800 CST m=+159303.251174747
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/347
+/d2-projects/d2-awesome/issues/346
+- name: 开源项目
+  list:
+  - name: naveedgol/apple-music-web-player
+    note: Apple Music web player
+    url: https://github.com/naveedgol/apple-music-web-player
+  - name: scurker/currency.js
+    note: A javascript library for handling currencies
+    url: https://github.com/scurker/currency.js
+
+Already up-to-date.
