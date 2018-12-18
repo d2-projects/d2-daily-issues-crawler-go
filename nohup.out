@@ -1947,3 +1947,94 @@ Ready! Gooo! %v 2018-12-17 14:00:00.000477356 +0800 CST m=+422103.250996299
 Create Directory OK!./2018/12
 
 Already up-to-date.
+[master 3fa73f9] 2018-12-16
+ 2 files changed, 30 insertions(+), 106 deletions(-)
+ rewrite 2018/12/17.md (90%)
+Ready! Gooo! %v 2018-12-18 12:00:00.001456232 +0800 CST m=+501303.251975273
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/392
+/d2-projects/d2-awesome/issues/391
+/d2-projects/d2-awesome/issues/390
+/d2-projects/d2-awesome/issues/389
+/d2-projects/d2-awesome/issues/388
+/d2-projects/d2-awesome/issues/387
+/d2-projects/d2-awesome/issues/386
+/d2-projects/d2-awesome/issues/385
+/d2-projects/d2-awesome/issues/384
+/d2-projects/d2-awesome/issues/383
+/d2-projects/d2-awesome/issues/382
+/d2-projects/d2-awesome/issues/381
+/d2-projects/d2-awesome/issues/380
+/d2-projects/d2-awesome/issues/379
+/d2-projects/d2-awesome/issues/378
+/d2-projects/d2-awesome/issues/377
+/d2-projects/d2-awesome/issues/376
+/d2-projects/d2-awesome/issues/375
+- name: 分享
+  list:
+  - name: 前端埋点统计方案思考
+    note: 埋点即监控用户在应用表现层的行为，于产品迭代而言至关重要。埋点数据分析是产品需求的来源，检验功能是否达预期的佐证。
+    url: https://juejin.im/post/5c178aaaf265da6147702108
+  - name: 技术胖262集前端免费视频
+    note: 业界大神的免费视频教程
+    url: https://juejin.im/post/5c11bf145188252704368b98
+- name: 开源项目
+  list:
+  - name: RSSHub
+    note: RSSHub 是一个轻量、易于扩展的 RSS 生成器, 可以给任何奇奇怪怪的内容生成 RSS 订阅源
+    url: https://docs.rsshub.app/
+  - name: saket/Dank
+    note: 最棒的 Reddit app 设计确实不错
+    url: https://github.com/saket/Dank
+  - name: GoogleChromeLabs/quicklink
+    note: 通过在空闲时间预取页面内链接，加快后续页面的加载速度
+    url: https://github.com/GoogleChromeLabs/quicklink
+  - name: macrozheng/mall
+    note: 一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 
+    url: https://github.com/macrozheng/mall
+  - name: BYVoid/OpenCC
+    note: 中文繁体和简体互相转换的开源工具
+    url: https://github.com/BYVoid/OpenCC
+  - name: dddomodossola/remi
+    note: Python 的图形界面库，最大特点就是采用了 HTML 界面。脚本加入这个库以后，可以生成网页接口，使用浏览器访问
+    url: https://github.com/dddomodossola/remi
+  - name: alvarotrigo/fullPage.js
+    note: 制作每次滚动一屏的效果
+    url: https://github.com/alvarotrigo/fullPage.js
+  - name: MkDocs
+    note: Markdown 文档站点生成器
+    url: https://www.mkdocs.org/
+  - name: 0matgal0/AutoMono
+    note: 专门用于编程的开源等宽字体
+    url: https://github.com/0matgal0/AutoMono
+- name: 设计
+  list:
+  - name: Web Design Museum 1994 – 2006
+    note: 网页设计博物馆展出了900多个精心挑选和分类的网站，展示了1995年至2005年间的网页设计趋势
+    url: https://www.webdesignmuseum.org/
+  - name: nickbutcher/plaid
+    note: 安卓 app 设计示例
+    url: https://github.com/nickbutcher/plaid
+- name: 网站
+  list:
+  - name: sequel fumpt
+    note: SQL 语句格式化的在线工具
+    url: https://sqlfum.pt/
+  - name: TensorFlow
+    note: TensorFlow 官方中文教程
+    url: https://tensorflow.google.cn/tutorials/?hl=zh-cn
+- name: 教程
+  list:
+  - name: trekhleb/javascript-algorithms
+    note:  由JavaScript实现的算法和数据结构，包括了深度的解释和相关链接
+    url: https://github.com/trekhleb/javascript-algorithms
+  - name: 《Vue.js 组件精讲》
+    note: iview 作者 Aresn 新推出的掘金小册
+    url: https://juejin.im/book/5bc844166fb9a05cd676ebca
+- name: 工具
+  list:
+  - name: deanoemcke/thegreatsuspender
+    note: Chrome 以吃内存著称。这个插件可以冻结不使用的 tab，以释放内存
+    url: https://github.com/deanoemcke/thegreatsuspender
+
+Already up-to-date.
