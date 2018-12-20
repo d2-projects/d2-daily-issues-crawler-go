@@ -2491,3 +2491,69 @@ Create Directory OK!./2018/12
     url: https://www.calltoidea.com/index.php
 
 Already up-to-date.
+[master 0ed0aa9] 2018-12-18
+ 2 files changed, 157 insertions(+), 39 deletions(-)
+Ready! Gooo! %v 2018-12-20 12:00:00.000407673 +0800 CST m=+674103.250926876
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/430
+/d2-projects/d2-awesome/issues/429
+/d2-projects/d2-awesome/issues/428
+/d2-projects/d2-awesome/issues/427
+/d2-projects/d2-awesome/issues/426
+/d2-projects/d2-awesome/issues/425
+/d2-projects/d2-awesome/issues/424
+/d2-projects/d2-awesome/issues/423
+/d2-projects/d2-awesome/issues/422
+/d2-projects/d2-awesome/issues/421
+/d2-projects/d2-awesome/issues/420
+/d2-projects/d2-awesome/issues/419
+/d2-projects/d2-awesome/issues/418
+- name: 分享
+  list:
+  - name: GitHub GraphQL API 使用介绍 
+    note: 面向未来的API — 知乎
+    url: https://zhuanlan.zhihu.com/p/28077095
+  - name: Node.js 服务端实践之 GraphQL 初探 
+    note: Taobao FED | 淘宝前端团队
+    url: http://taobaofed.org/blog/2015/11/26/graphql-basics-server-implementation/
+- name: 开源项目
+  list:
+  - name: open-source-mac-os-apps
+    note: Mac 的一大烦恼，就是各种软件都要钱。所以有人整理出了一份 Mac 系统免费软件清单
+    url: https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md
+  - name: rhysd/vim.wasm
+    note: 有人把 Vim 编译成了 WebAssembly，从而可以在浏览器里面使用 Vim 了
+    url: https://github.com/rhysd/vim.wasm
+  - name: Clock Shop
+    note: 收集各种时钟的CSS代码
+    url: https://a-jie.github.io/clock-shop/
+  - name: filamentgroup/select-css
+    note: 简单的美化 select 的 css 库，没有其它功能
+    url: https://github.com/filamentgroup/select-css
+  - name: d33tah/strokes
+    note: 输入常用汉字，自动生成笔画学习卡片
+    url: https://github.com/d33tah/strokes
+  - name: pwxcoo/chinese-xinhua
+    note: 新华字典数据库和 API，收录 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语
+    url: https://github.com/pwxcoo/chinese-xinhua
+  - name: gka/chroma.js
+    note: 处理颜色的 JS 库
+    url: https://github.com/gka/chroma.js
+  - name: GetPublii/Publii
+    note: 一个生成静态网站的内容管理系统，所有管理都在本地进行，生成静态网页之后推送到服务器
+    url: https://github.com/GetPublii/Publii
+- name: 网站
+  list:
+  - name: FastPNG
+    note: PNG 在线压缩工具
+    url: https://fastpng.com/
+  - name: VReadTech
+    note: 在网页上关注和浏览微信公众号
+    url: http://www.vreadtech.com/#
+- name: 教程
+  list:
+  - name: 八大步骤解决90%的NLP问题
+    note: 机器学习 - 知乎
+    url: https://zhuanlan.zhihu.com/p/36736328
+
+Already up-to-date.
