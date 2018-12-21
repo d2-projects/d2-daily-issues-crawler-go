@@ -2859,3 +2859,15 @@ Create Directory OK!./2018/12
     url: https://www.cnblogs.com/sxdcgaq8080/p/7517357.html
 
 Already up-to-date.
+[master b38d359] 2018-12-20
+ 2 files changed, 109 insertions(+), 19 deletions(-)
+Ready! Gooo! %v 2018-12-21 14:00:00.000339996 +0800 CST m=+767703.250859069
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/450
+- name: 分享
+  list:
+  - name: 2018 App Store 年度颁奖典礼，欢迎围观。
+    note: Apple 的年度 app 精选又出炉了
+    url: https://mp.weixin.qq.com/s/rd3flwSuuXpHeKgtnwXnfg
+
+Already up-to-date.
