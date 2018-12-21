@@ -2690,3 +2690,85 @@ Create Directory OK!./2018/12
     url: https://zhuanlan.zhihu.com/p/36736328
 
 Already up-to-date.
+[master 9e3d481] 2018-12-19
+ 1 files changed, 66 insertions(+), 0 deletions(-)
+Ready! Gooo! %v 2018-12-21 12:00:00.001139839 +0800 CST m=+760503.251658874
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/447
+/d2-projects/d2-awesome/issues/446
+/d2-projects/d2-awesome/issues/445
+/d2-projects/d2-awesome/issues/444
+/d2-projects/d2-awesome/issues/443
+/d2-projects/d2-awesome/issues/442
+/d2-projects/d2-awesome/issues/441
+/d2-projects/d2-awesome/issues/440
+/d2-projects/d2-awesome/issues/439
+/d2-projects/d2-awesome/issues/438
+/d2-projects/d2-awesome/issues/437
+/d2-projects/d2-awesome/issues/436
+/d2-projects/d2-awesome/issues/435
+/d2-projects/d2-awesome/issues/434
+/d2-projects/d2-awesome/issues/433
+/d2-projects/d2-awesome/issues/432
+/d2-projects/d2-awesome/issues/431
+- name: 工具
+  list:
+  - name: antonmedv/fx
+    note: 命令行 Json 查看神器
+    url: https://github.com/antonmedv/fx
+  - name: naiquevin/pipdeptree
+    note: pyhone包管理依赖关系树命令行工具
+    url: https://github.com/naiquevin/pipdeptree
+  - name: 最受欢迎的 Top 移动端设计工具
+    note: Top Mobile App Design Tools | Instabug Blog
+    url: https://instabug.com/blog/mobile-app-design-tools/?utm_source=reddit&utm_medium=social&utm_campaign=programming&utm_content=mobile_app_design_tools
+  - name: 系统管理员的 7 个 CI/CD 工具
+    note: 7 CI/CD tools for sysadmins | Opensource.com
+    url: https://opensource.com/article/18/12/cicd-tools-sysadmins
+- name: 分享
+  list:
+  - name: Linux on DeX 在手机上进行 web 开发
+    note: Web Development on a Phone. Updated for Linux on DeX.
+    url: https://medium.com/samsung-internet-dev/web-development-on-a-phone-updated-for-linux-on-dex-4b8ed6f693fc
+  - name: Java 11 的十个新特性
+    note: 10 new features or treasures in Java 11 | JDK 11
+    url: https://codinginfinite.com/ten-features-java-jdk-11/
+  - name: 高级 JS 注入
+    note: Advanced JavaScript Injections - Brute XSS
+    url: https://brutelogic.com.br/blog/advanced-javascript-injections/
+  - name: Zstandard How Facebook increased compression speed - Facebook Code
+    note: 五个 Facebook 大规模压缩案例
+    url: https://code.fb.com/core-data/zstandard/
+  - name: Introduction to Message Queuing and RabbitMQ – manifoldco
+    note: 消息队列和 RabbitMQ 介绍
+    url: https://blog.manifold.co/introduction-to-message-queuing-and-rabbitmq-6cb8e6e9b2
+  - name: 函数式编程：抽象与组合
+    note: 前端早读课
+    url: https://mp.weixin.qq.com/s/rEnudO1Z6pxYJlarOEtIeQ
+  - name: 停止学习框架
+    note: 近期掘金上一个很热门的话题，此外还有《驳 《停止学习框架》》，《驳 《驳 《停止学习框架》》》，《驳 《驳 《驳 《停止学习框架》》》》
+    url: https://juejin.im/post/5c1a839f518825780008537d
+  - name: 【Linux】CentOS7上安装google谷歌浏览器 - 博客园
+    note: 【Linux】CentOS7上安装google谷歌浏览器  - 博客园
+    url: https://www.cnblogs.com/sxdcgaq8080/p/7517357.html
+- name: 新闻
+  list:
+  - name: Clojure - Clojure 1.10 发布
+    note: Clojure 官方新闻
+    url: https://clojure.org/news/2018/12/17/clojure110
+  - name: Eclipse 4.10 发布
+    note: Eclipse 4.10 - New and Noteworthy | The Eclipse Foundation
+    url: https://www.eclipse.org/eclipse/news/4.10/?final
+- name: 开源项目
+  list:
+  - name: 飞冰物料全新升级
+    note: 掘金
+    url: https://juejin.im/post/5c1b9d056fb9a049bb7c4ca0
+  - name: Jiiiiiin/jiiiiiin-security
+    note: 一个基于MyBatis和D2Admin的前后端分离的内管基础项目，注重用户权限管理功能
+    url: https://github.com/Jiiiiiin/jiiiiiin-security
+  - name: GitHub 贡献生成器
+    note: GitHub Contributions Chart Generator
+    url: https://github-contributions.now.sh/
+
+Already up-to-date.
