@@ -138,9 +138,17 @@ func shapeText2Map(s string) map[string]string {
 		typeArray := strings.Split(lineContext[0], ": ")
 		if len(typeArray) >= 2 {
 			key1 := typeArray[1]
-			name := checkNameNode(lineContext[2])
-			node := checkNameNode(lineContext[3])
-			m[key1] = "\n" + name +"\n"+node+"\n"+lineContext[4]
+			for i:=2; i<= len(lineContext)-1; i++ {
+				ConArray := strings.Split(lineContext[i], ": ")
+				if len(ConArray) >= 2 {
+					if strings.Contains(ConArray[0],"name") || strings.Contains(ConArray[0],"note") {
+						//fix full :
+						m[key1] = m[key1] + "\n" + checkNameNode(lineContext[i])
+					} else {
+						m[key1] = m[key1] + "\n" + lineContext[i]
+					}
+				}
+			}
 		}
 	}
 	return m
@@ -245,15 +253,6 @@ meta:
 - name: description
   itemprop: description
   content: 今天的新发现
-editor:
-- name: FairyEver
-  url: https://github.com/FairyEver
-- name: ishenyi
-  url: https://github.com/ishenyi
-- name: Jiiiiiin
-  url: https://github.com/Jiiiiiin
-- name: sunhaoxiang
-  url: https://github.com/sunhaoxiang
 list:
 `
 	w.WriteString(strings.Replace(title, "{+dateString+}",date, -1) )
