@@ -3036,3 +3036,92 @@ Create Directory OK!./2018/12
     vpn: true
 
 Already up-to-date.
+[master e099ead] 2018-12-21
+ 2 files changed, 112 insertions(+), 30 deletions(-)
+Ready! Gooo! %v 2018-12-22 14:00:00.000415948 +0800 CST m=+81425.554921877
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/465
+/d2-projects/d2-awesome/issues/464
+/d2-projects/d2-awesome/issues/463
+/d2-projects/d2-awesome/issues/462
+/d2-projects/d2-awesome/issues/461
+/d2-projects/d2-awesome/issues/460
+/d2-projects/d2-awesome/issues/459
+/d2-projects/d2-awesome/issues/458
+/d2-projects/d2-awesome/issues/457
+/d2-projects/d2-awesome/issues/456
+/d2-projects/d2-awesome/issues/455
+/d2-projects/d2-awesome/issues/454
+/d2-projects/d2-awesome/issues/453
+/d2-projects/d2-awesome/issues/452
+/d2-projects/d2-awesome/issues/451
+- name: 网站
+  list:
+  - name: Github Rank (China)
+    note: Github Rank (China)
+    url: http://githubrank.com/
+- name: 开源项目
+  list:
+  - name: lzxb/flex.css
+    note: 方便快捷地实现 flex 布局，很实用的工具
+    url: https://github.com/lzxb/flex.css
+    lang: CSS,JavaScript
+    watch: 70
+    star: 1316
+    fork: 311
+  - name: 521xueweihan/git-tips
+    note: Git的奇技淫巧
+    url: https://github.com/521xueweihan/git-tips
+  - name: NirantK/best-of-jupyter
+    note: Jupyter Tips, Tricks, Best Practices with Sample Code for Productivity Boost
+    url: https://github.com/NirantK/best-of-jupyter
+    lang: other
+    watch: 14
+    star: 286
+    fork: 24
+  - name: FAQGURU/FAQGURU
+    note: 面试问题大全
+    url: https://github.com/FAQGURU/FAQGURU
+- name: 分享
+  list:
+  - name: [译] React 的今天和明天（图文版） —— 第二部分
+    note: React 刚发布了 16.7 版本，还没有包含 Hooks，不过 Hooks 的提案已经通过了，让我们拥抱 Hooks 之前来回顾 React Conf 2018 上 Dan 的精彩演讲内容
+    url: https://juejin.im/post/5bfccbf8f265da61407e97b5
+  - name: 桌面上的Flutter：Electron又多了个对手
+    note: 从本质上看，Flutter 是一个独立的二进制可执行文件。它不仅改变了移动设备的玩法，在桌面设备上也同样不可小觑
+    url: https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490130&idx=1&sn=94faa075b40ed8039cc0be7fe5d53b82&chksm=f951af11ce2626071990b3355b73b19ef5a44218249191ab79273ea51ffde687844e99ff5141&token=1582750074&lang=zh_CN#rd
+  - name: 一步一步教你用 Vue.js + Vuex 制作专门收藏微信公众号的 app
+    note: 利用搜狗的API查询公众号信息
+    url: https://juejin.im/post/5c1100d7518825797575b2e0
+  - name: Python Developer’s Guide — Python Developer's Guide
+    note: Python Developer’s Guide — Python Developer's Guide
+    url: https://devguide.python.org/
+  - name: Python-基础-时间日期处理小结
+    note: Python-基础-时间日期处理小结
+    url: http://www.wklken.me/posts/2015/03/03/python-base-datetime.html#3-huo-qu-ming-tian-qian-ntian
+  - name: 前端模块化详解(完整版)
+    note: 掘金
+    url: https://juejin.im/post/5c17ad756fb9a049ff4e0a62
+  - name: javascript 从定义到执行，你不知道的那些事 – WEB骇客
+    note: javascript 从定义到执行，你不知道的那些事 – WEB骇客
+    url: http://www.webhek.com/post/javascript-from-define-to-execute.html
+  - name: 每周分享第 36 期
+    note: 阮一峰的网络日志
+    url: http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html
+    lang: Vue,JavaScript,CSS
+    watch: 4,
+    star: 17,
+    fork: 3,
+    vpn: true
+- name: 教程
+  list:
+  - name: TokenBucket
+    note: TokenBucket令牌桶算法
+    url: https://abser.top/blog/tokenbucket/
+- name: 新闻
+  list:
+  - name: 工程实习生（2019 年） - Google招贤纳士
+    note: 工程实习生（2019 年） - Google招贤纳士
+    url: http://careers.google.cn/teams/engineering-technology/422135001/
+
+Already up-to-date.
