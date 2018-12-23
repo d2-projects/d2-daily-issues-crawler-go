@@ -3166,3 +3166,45 @@ Create Directory OK!./2018/12
     url: https://github.com/DIYgod/RSSHub
 
 Already up-to-date.
+[master 63f6c5e] 2018-12-22
+ 2 files changed, 85 insertions(+), 0 deletions(-)
+ create mode 100644 2018/12/23.md
+Ready! Gooo! %v 2018-12-23 13:00:00.000629218 +0800 CST m=+164225.555135139
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/471
+/d2-projects/d2-awesome/issues/470
+/d2-projects/d2-awesome/issues/469
+/d2-projects/d2-awesome/issues/468
+/d2-projects/d2-awesome/issues/467
+/d2-projects/d2-awesome/issues/466
+- name: 开源项目
+  list:
+  - name: threeDart/three.dart
+    note: Dart 版的 three.js
+    url: https://github.com/threeDart/three.dart
+    lang: Dart,HTML,Other
+    watch: 35
+    star: 306
+    fork: 122
+    isChinese: false
+  - name: JanDeDobbeleer/oh-my-posh
+    note: 一个可以美化 Powershell 的工具，灵感来自 oh-my-zsh。
+    url: https://github.com/JanDeDobbeleer/oh-my-posh
+- name: 工具
+  list:
+  - name: DIYgod/RSSHub
+    note: RSSHub 是一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+    url: https://github.com/DIYgod/RSSHub
+- name: 分享
+  list:
+  - name: 年终感慨：程序员伤不起的 30 岁
+    note: 程序员干到30岁，好不容易从码奴混到了白领，却再也干不动了，还时时面临失业的危险。30岁，是一个程序员伤不起的年龄
+    url: https://blog.csdn.net/qq_42882671/article/details/85013637
+  - name: 小哥哥, 跨域要不要了解下 NGINX 反向代理
+    note: 通过 nginx 反向代理的方式实现跨域访问 api
+    url: https://juejin.im/post/5c0e6d606fb9a049f66bf246
+  - name: 2018 沉淀
+    note: 来自掘金 fairyly 的年终总结，有干货
+    url: https://juejin.im/post/5c03481b6fb9a049d37ed747#comment
+
+Already up-to-date.
