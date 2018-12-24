@@ -3249,3 +3249,21 @@ Create Directory OK!./2018/12
     url: https://github.com/DIYgod/RSSHub
 
 Already up-to-date.
+[master c3a35ad] 2018-12-22
+ 2 files changed, 52 insertions(+), 11 deletions(-)
+Ready! Gooo! %v 2018-12-24 12:00:00.000872059 +0800 CST m=+247025.555378104
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/475
+/d2-projects/d2-awesome/issues/474
+- name: 工具
+  list:
+  - name: asciinema - 终端录屏分享工具
+    note: asciinema - Record and share your terminal sessions, the right way
+    url: https://asciinema.org/
+- name: 开源项目
+  list:
+  - name: swc-project/swc
+    note: 比 babel 更快的编译方式
+    url: https://github.com/swc-project/swc
+
+Already up-to-date.
