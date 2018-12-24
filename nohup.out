@@ -3267,3 +3267,42 @@ Create Directory OK!./2018/12
     url: https://github.com/swc-project/swc
 
 Already up-to-date.
+[master 76bd857] 2018-12-23
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 2018/12/24.md
+Ready! Gooo! %v 2018-12-24 13:00:00.000876441 +0800 CST m=+250625.555382515
+Create Directory OK!./2018/12
+/d2-projects/d2-awesome/issues/480
+/d2-projects/d2-awesome/issues/479
+/d2-projects/d2-awesome/issues/478
+/d2-projects/d2-awesome/issues/477
+/d2-projects/d2-awesome/issues/476
+/d2-projects/d2-awesome/issues/475
+/d2-projects/d2-awesome/issues/474
+- name: 开源项目
+  list:
+  - name: salomonelli/best-resume-ever
+    note: 精美的建立模板，基于vue
+    url: https://github.com/salomonelli/best-resume-ever
+  - name: vue-clamp
+    note: 多行文本截断
+    url: https://justineo.github.io/vue-clamp/demo/?lang=zh
+  - name: i0natan/nodebestpractices
+    note: Node.JS 最佳实践(截止至2018年11月)
+    url: https://github.com/i0natan/nodebestpractices
+  - name: swc-project/swc
+    note: 比 babel 更快的编译方式
+    url: https://github.com/swc-project/swc
+- name: 工具
+  list:
+  - name: unbug/codelf
+    note: 变量命名神器-从Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab 搜集的真实命名方式
+    url: https://github.com/unbug/codelf
+  - name: intika/Librefox
+    note: 注重个人隐私和安全的浏览器
+    url: https://github.com/intika/Librefox
+  - name: asciinema - 终端录屏分享工具
+    note: asciinema - Record and share your terminal sessions, the right way
+    url: https://asciinema.org/
+
+Already up-to-date.
